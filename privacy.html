@@ -15,7 +15,7 @@
   <header class="top"><div class="wrap bar"><a class="brand" href="./"><img src="images/icon.png" width="32" height="32" alt="">Day</a><nav aria-label="Navigation"><a href="./">Startseite</a><a href="en/privacy.html" hreflang="en">English</a></nav></div></header>
   <main id="main" class="wrap doc">
     <h1>Datenschutzerklärung</h1>
-    <p class="meta">Für die App <b>Day</b> (im App Store „Day Calendar“) und diese Seite · Stand: 15. Oktober 2026</p>
+    <p class="meta">Für die App <b>Day</b> (im App Store „Day Calendar“) und diese Seite · Stand: 9. November 2026</p>
 
     <div class="summary"><b>Kurz gesagt:</b> Day hat keinen eigenen Server und kein Konto. Deine Termine bleiben in den Kalendern, die du auf deinem Gerät eingerichtet hast. Wir erheben nichts, wir sehen nichts, wir tracken nicht. Es gibt keine Analyse-SDKs und keine Werbung.</div>
 
@@ -25,12 +25,14 @@
     <h2>2. Keine Konten, keine Tracker</h2>
     <p>Es gibt keine Registrierung und keinen Login. Die App sendet von sich aus nichts an uns: keine Nutzungsstatistiken, keine Telemetrie, keine automatischen Absturzberichte. Es sind keine Analyse- oder Werbe-SDKs eingebaut, und es werden keine Daten verkauft oder weitergegeben. Das Privacy-Manifest der App meldet entsprechend „kein Tracking, keine erhobenen Datenarten“.</p>
 
-    <h2>3. Kalender</h2>
+    <h2>3. Kalender und Erinnerungen</h2>
     <p>Damit Day deine Termine anzeigen und bearbeiten kann, fragt iOS nach vollem Zugriff auf deine Kalender. Day liest und schreibt Termine ausschließlich über die Kalender deines Geräts (zum Beispiel iCloud, Google oder Exchange). Änderungen landen direkt im jeweiligen Kalender und werden von dessen Anbieter synchronisiert; es gelten dessen Datenschutzbestimmungen. Day kopiert keine Termine auf einen eigenen Server. Widgets, Live-Aktivitäten und die Apple-Watch-App lesen dieselben Kalender auf dem jeweiligen Gerät. Du kannst den Zugriff in den iOS-Einstellungen jederzeit widerrufen.</p>
     <p>Manche Apps legen unsichtbare Kennungen in Terminnotizen ab. Day blendet sie aus und lässt sie beim Bearbeiten unverändert.</p>
 
+    <p>Wenn du in Day Erinnerungen einschaltest (optional), fragt iOS nach vollem Zugriff auf deine Erinnerungen. Day liest Erinnerungen mit Datum und zeigt sie im Kalender an, und schreibt nur das, was du in Day tust, etwa abhaken oder verschieben. Auch Erinnerungen kopiert Day nicht auf einen eigenen Server. Erinnerungen, die du als dringend markierst, können wie ein Wecker klingeln; dafür fragt iOS um Erlaubnis, und der Wecker wird auf deinem Gerät geplant. Welche Listen als Karten erscheinen, deine Day-eigenen Listengruppen und die Listensymbole, die du wählst, bleiben in Day auf deinem Gerät. Nur die Symbole folgen zusätzlich deiner iCloud, wie Abschnitt 4 beschreibt.</p>
+
     <h2>4. Einstellungen und iCloud</h2>
-    <p>Deine Einstellungen liegen auf dem Gerät. Ist „Einstellungen mit iCloud synchronisieren“ eingeschaltet (Standard), speichert Day ausgewählte Einstellungen, etwa Erinnerungszeiten oder die gewählte Karten-App, im iCloud-Schlüssel-Wert-Speicher deiner Apple-ID, damit sie auf deinen anderen Geräten gleich sind. Welche Kalender angezeigt werden, bleibt pro Gerät. Auf diesen Speicher haben wir keinen Zugriff; es gelten die Datenschutzbestimmungen von Apple. Ausschalten unter Einstellungen → Allgemein.</p>
+    <p>Deine Einstellungen liegen auf dem Gerät. Ist „Einstellungen mit iCloud synchronisieren“ eingeschaltet (Standard), speichert Day ausgewählte Einstellungen, etwa Erinnerungszeiten oder die gewählte Karten-App, im iCloud-Schlüssel-Wert-Speicher deiner Apple-ID, damit sie auf deinen anderen Geräten gleich sind. Welche Kalender angezeigt werden, bleibt pro Gerät. Zu den Einstellungen, die folgen, gehören die Symbole, die du für Erinnerungslisten wählst; sie werden über Konto und Listennamen deinen Listen zugeordnet. Auf diesen Speicher haben wir keinen Zugriff; es gelten die Datenschutzbestimmungen von Apple. Ausschalten unter Einstellungen → Allgemein.</p>
 
     <h2>5. Mitteilungen</h2>
     <p>Termin- und Aufbruch-Erinnerungen plant dein Gerät selbst als lokale Mitteilungen. Es gibt keinen Push-Dienst und keine Geräte-Token bei uns.</p>
@@ -41,8 +43,9 @@
     <h2>7. Diktieren (optional)</h2>
     <p>Tippst du beim Anlegen eines Termins auf das Mikrofon, fragt iOS nach Mikrofon und Spracherkennung. Die Erkennung übernimmt Apples Spracherkennung, auf unterstützten Geräten direkt auf dem Gerät, sonst über Apples Server nach Apples Bestimmungen. Day speichert keine Aufnahmen.</p>
 
-    <h2>8. Apple Intelligence (optional)</h2>
+    <h2>8. Apple Intelligence und Modelle auf dem Gerät (optional)</h2>
     <p>Auf Geräten, die Apple Intelligence unterstützen, kann Day weitere Angaben in deiner Eingabe erkennen. Das geschieht mit Apples Sprachmodell auf dem Gerät.</p>
+    <p>Unter Einstellungen → Schnell hinzufügen kannst du außerdem ein kleines offenes Sprachmodell (Qwen) laden, das ohne Apple Intelligence auf deinem Gerät liest, was du tippst. Geladen wird erst, wenn du es willst. Das Modell kommt von Hugging Face (huggingface.co); die Anfrage geht direkt von deinem Gerät an Hugging Face, das dabei deine IP-Adresse und die geladene Modelldatei sieht, nach dessen eigenen Bedingungen. Bei uns kommt nichts davon an. Was du tippst, liest das Modell auf deinem Gerät, und es wird nirgends hingeschickt. Du kannst das Modell jederzeit in den Einstellungen löschen.</p>
 
     <h2>9. Links, Karten und Teilen</h2>
     <p>Besprechungslinks, Wegbeschreibungen und Webseiten öffnet Day in den Apps, die du unter Standard-Apps gewählt hast; dort gelten deren Bestimmungen. Teilst du einen Termin, entsteht eine Kalenderdatei, die nur dorthin geht, wohin du sie schickst.</p>
