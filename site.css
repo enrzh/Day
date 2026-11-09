@@ -24,6 +24,10 @@ p { margin-top: 0; }
 .hero h1 { font-size: clamp(2.2rem, 7vw, 3.4rem); margin-bottom: 1rem; }
 .hero p { color: var(--muted); font-size: 1.15rem; max-width: 34em; }
 .fine { color: var(--muted); font-size: .85rem; }
+.store { margin: 20px 0 0; }
+.btn { display: inline-block; padding: 12px 22px; border-radius: 999px; background: var(--accent); color: #fff; font-weight: 650; text-decoration: none; }
+.btn:hover { filter: brightness(1.08); }
+@media (prefers-color-scheme: dark) { .btn { color: #141414; } }
 .shots { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; padding-block: 8px 48px; }
 .shots img { border-radius: 18px; border: 1px solid var(--line); }
 
