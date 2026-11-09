@@ -15,7 +15,7 @@
   <header class="top"><div class="wrap bar"><a class="brand" href="./"><img src="../images/icon.png" width="32" height="32" alt="">Day</a><nav aria-label="Main navigation"><a href="./">Home</a><a href="../privacy.html" hreflang="de">Deutsch</a></nav></div></header>
   <main id="main" class="wrap doc">
     <h1>Privacy Policy</h1>
-    <p class="meta">For the app <b>Day</b> (“Day Calendar” on the App Store) and this site · Last updated: October 15, 2026</p>
+    <p class="meta">For the app <b>Day</b> (“Day Calendar” on the App Store) and this site · Last updated: November 9, 2026</p>
 
     <div class="summary"><b>In short:</b> Day has no server of its own and no account. Your events stay in the calendars you've set up on your device. We collect nothing, see nothing and track nothing. There are no analytics SDKs and no ads.</div>
 
@@ -25,12 +25,14 @@
     <h2>2. No accounts, no trackers</h2>
     <p>There's no sign-up and no login. The app sends nothing to us on its own: no usage statistics, no telemetry, no automatic crash reports. No analytics or advertising SDKs are included, and no data is sold or shared. The app's privacy manifest accordingly declares no tracking and no collected data types.</p>
 
-    <h2>3. Calendars</h2>
+    <h2>3. Calendars and reminders</h2>
     <p>To show and edit your events, iOS asks for full access to your calendars. Day reads and writes events only through the calendars on your device (for example iCloud, Google or Exchange). Changes go straight to that calendar and are synced by its provider, whose privacy terms apply. Day doesn't copy events to a server of its own. Widgets, Live Activities and the Apple Watch app read the same calendars on each device. You can revoke access in iOS Settings at any time.</p>
     <p>Some apps keep invisible identifiers in event notes. Day hides them and leaves them unchanged when you edit an event.</p>
 
+    <p>If you turn on Reminders in Day (optional), iOS asks for full access to your reminders. Day reads reminders that have a date and shows them in the calendar, and writes only what you do in Day, such as ticking one off or moving it. Day doesn't copy reminders to a server of its own either. Reminders you mark as urgent can ring like an alarm; iOS asks for permission for that, and the alarm is scheduled on your device. Which lists show as cards, your Day-only list groups and the list icons you pick are kept in Day on your device.</p>
+
     <h2>4. Settings and iCloud</h2>
-    <p>Your settings are stored on your device. When “Sync Settings with iCloud” is on (the default), Day stores selected settings, such as reminder times or your chosen maps app, in your Apple ID's iCloud key-value storage so they match on your other devices. Which calendars are shown stays per device. We have no access to this storage; Apple's privacy terms apply. Turn it off in Settings → General.</p>
+    <p>Your settings are stored on your device. When “Sync Settings with iCloud” is on (the default), Day stores selected settings, such as reminder times or your chosen maps app, in your Apple ID's iCloud key-value storage so they match on your other devices. Which calendars are shown stays per device. Settings that follow include the list icons you pick for reminder lists, matched to your lists by account and list name. We have no access to this storage; Apple's privacy terms apply. Turn it off in Settings → General.</p>
 
     <h2>5. Notifications</h2>
     <p>Event and leave-by reminders are scheduled by your device as local notifications. There's no push service and we hold no device tokens.</p>
@@ -41,8 +43,9 @@
     <h2>7. Dictation (optional)</h2>
     <p>When you tap the microphone while adding an event, iOS asks for microphone and speech recognition access. Recognition is done by Apple's speech recognition, on the device where supported, otherwise on Apple's servers under Apple's terms. Day doesn't store recordings.</p>
 
-    <h2>8. Apple Intelligence (optional)</h2>
+    <h2>8. Apple Intelligence and on-device models (optional)</h2>
     <p>On devices that support Apple Intelligence, Day can recognise more details in what you type. This uses Apple's on-device language model.</p>
+    <p>Under Settings → Quick Add you can also download a small open language model (Qwen) that reads what you type on your device without Apple Intelligence. Nothing is downloaded until you ask. The model comes from Hugging Face (huggingface.co); the request goes straight from your device to Hugging Face, which sees your IP address and which model file you fetch, under its own terms. It never reaches us. What you type is read by the model on your device and isn't sent anywhere. You can delete the model in Settings at any time.</p>
 
     <h2>9. Links, maps and sharing</h2>
     <p>Day opens meeting links, directions and websites in the apps you chose under Default Apps; their terms apply there. When you share an event, Day creates a calendar file that goes only where you send it.</p>
