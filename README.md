@@ -2,7 +2,7 @@
 
 <h1 align="center">Day</h1>
 <p align="center"><strong>Your day, at a glance.</strong><br>A calm calendar for iPhone, iPad, Mac and Apple Watch that shows the calendars you already have, and your Reminders.</p>
-<p align="center"><a href="https://apps.apple.com/app/day-calendar/id6822896434">App Store</a> · <a href="https://enrzh.github.io/Day/">Website</a> · <a href="https://enrzh.github.io/Day/en/privacy.html">Privacy</a> · <a href="https://enrzh.github.io/Day/privacy.html">Datenschutz</a> · <a href="CHANGELOG.md">Changelog</a> · <a href="mailto:getaiityapp+day@gmail.com">Contact</a></p>
+<p align="center"><a href="https://apps.apple.com/app/day-calendar/id6822896434">App Store</a> · <a href="https://enrzh.github.io/Day/">Website</a> · <a href="https://enrzh.github.io/Day/en/privacy.html">Privacy</a> · <a href="https://enrzh.github.io/Day/privacy.html">Datenschutz</a> · <a href="https://enrzh.github.io/Day/changelog/">Changelog</a> · <a href="mailto:getaiityapp+day@gmail.com">Contact</a></p>
 
 <p align="center">
   <img src="images/iphone-month.jpg" width="190" alt="Month view with the day's events underneath">
