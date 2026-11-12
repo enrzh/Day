@@ -2,6 +2,11 @@
 
 What changed in each version of Day, newest first. Day comes from the [App Store](https://apps.apple.com/app/day-calendar/id6822896434), which delivers updates itself, so there is no separate update feed; these are the notes from the store's "What's New", with what each version added on top of the one before.
 
+## 2.1.5 · iPhone and iPad
+
+- Pull down on a timeline to refresh your calendars and reminders.
+- Swiping through a day's list in Month no longer taps New Event by mistake.
+
 ## 2.1.4 · iPhone and iPad
 
 - Up Next: an overdue all-day reminder now shows its own title on the pill, instead of a blank label.
