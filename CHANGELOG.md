@@ -1,5 +1,7 @@
 # Changelog
 
+The same notes as a page, which Day's Settings → What's New opens: <https://enrzh.github.io/Day/changelog/>. That page is built from `changelog/releases.json` with `python3 scripts/changelog.py`.
+
 What changed in each version of Day, newest first. Day comes from the [App Store](https://apps.apple.com/app/day-calendar/id6822896434), which delivers updates itself, so there is no separate update feed; these are the notes from the store's "What's New", with what each version added on top of the one before.
 
 ## 2.1.5 · iPhone and iPad
