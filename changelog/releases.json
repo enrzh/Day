@@ -31,6 +31,102 @@
           "„Freie Zeit finden“ (Menü Kalender, ⇧⌘F mit Tastatur): Ein Blatt listet die freien Zeiträume der nächsten fünf Tage, 8:00 bis 20:00 Uhr und heute ab jetzt, für eine Dauer von 15 Minuten bis 2 Stunden. Tippe auf eine Lücke, um dort einen neuen Termin zu beginnen. Es zählen nur die Kalender dieses Geräts.",
           "Einstellungen > Neuigkeiten öffnet jetzt die Hinweise von Days öffentlicher Website in der App, sodass die Hinweise einer neuen Version ohne App-Update erscheinen. Offline erscheinen stattdessen die in der App enthaltenen Hinweise. Es werden keine Daten über dich gesendet; die Website sieht nur eine normale Webanfrage.",
           "Gewohnheiten und „Freie Zeit finden“ sind in alle zehn Sprachen übersetzt."
+        ],
+        "es": [
+          "Hábitos: cualquier recordatorio repetitivo puede ser un hábito. Fija un objetivo semanal (por ejemplo, 4 veces por semana) y Day registra la racha actual, la racha más larga, cuántos días lo hiciste y cuántos no, y en cuántas semanas cumpliste el objetivo.",
+          "Racha indulgente: un día que omites a propósito queda excusado. No cuenta como hecho ni como perdido, así que no rompe la racha.",
+          "Al final del día: elige para cada recordatorio qué hace Day cuando termina el día: dejarlo abierto, marcarlo como completado o (en los repetitivos) omitirlo. Day lo aplica con la fecha en que vencía el recordatorio, al abrir la app y en la actualización que iOS permite después de medianoche. Un día que terminó sin que ocurriera ninguna de las dos cosas se resuelve la próxima vez. Si vuelves a marcar como pendiente un recordatorio ya resuelto, no se vuelve a deshacer. Las reglas se quedan en este dispositivo.",
+          "Valores: anota una cantidad por día en la tarjeta de un hábito (8 km, 20 min) con una unidad y consulta una línea de los últimos 30 días.",
+          "Gráfico semanal de hábitos (Ajustes > Recordatorios > Gráfico de hábitos, desactivado por defecto): sustituye la cuadrícula de 70 días de la tarjeta de un recordatorio repetitivo por una barra por semana que muestra cuánto se hizo. Las cifras de racha, hechos y perdidos se mantienen.",
+          "Los hábitos de hoy aparecen al principio de la lista del día.",
+          "Nuevo widget Hábitos (pequeño y mediano): muestra los hábitos abiertos de hoy, cada uno con un botón para marcarlo, como en la app.",
+          "Buscar tiempo libre (menú Calendario, ⇧⌘F con teclado): una hoja muestra los huecos libres de los próximos cinco días, de 8:00 a 20:00 y, hoy, desde ahora, para una duración de 15 minutos a 2 horas. Toca un hueco para crear un evento nuevo al principio. Solo cuentan los calendarios de este dispositivo.",
+          "Ajustes > Novedades ahora abre en la app las notas del sitio público de Day, así que las notas de una versión nueva aparecen sin actualizar la app. Sin conexión se muestran las notas incluidas en la app. No se envía nada sobre ti; el sitio solo ve una petición web normal.",
+          "Hábitos y Buscar tiempo libre están traducidos a los diez idiomas."
+        ],
+        "fr": [
+          "Habitudes : tout rappel répétitif peut devenir une habitude. Fixez un objectif hebdomadaire (par exemple 4 fois par semaine) et Day suit la série en cours, la plus longue série, le nombre de jours où vous l’avez fait ou manqué, et le nombre de semaines où l’objectif a été atteint.",
+          "Série indulgente : un jour que vous passez volontairement est excusé. Il ne compte ni comme fait ni comme manqué, et ne casse donc pas la série.",
+          "À la fin de la journée : choisissez, pour chaque rappel, ce que fait Day quand la journée est terminée : le laisser ouvert, le marquer comme terminé ou (pour les rappels répétitifs) le passer. Day l’applique à la date d’échéance du rappel, à l’ouverture de l’app et lors de l’actualisation qu’iOS autorise après minuit. Une journée terminée sans que ni l’un ni l’autre n’ait eu lieu est réglée la fois suivante. Un rappel déjà réglé que vous rouvrez n’est plus jamais annulé. Les règles restent sur cet appareil.",
+          "Valeurs : notez une quantité par jour sur la fiche d’une habitude (8 km, 20 min) avec une unité, et voyez une courbe des 30 derniers jours.",
+          "Graphique hebdomadaire des habitudes (Réglages > Rappels > Graphique d’habitudes, désactivé par défaut) : remplace la grille de 70 jours de la fiche d’un rappel répétitif par une barre par semaine indiquant ce qui a été fait. La série, les jours faits et manqués restent affichés.",
+          "Les habitudes du jour apparaissent en haut de la liste du jour.",
+          "Nouveau widget Habitudes (petit et moyen) : liste les habitudes ouvertes du jour, chacune avec un bouton pour la cocher, comme dans l’app.",
+          "Trouver du temps libre (menu Calendrier, ⇧⌘F au clavier) : une feuille liste les plages libres des cinq prochains jours, de 8 h à 20 h et, aujourd’hui, à partir de maintenant, pour une durée de 15 minutes à 2 heures. Touchez une plage pour créer un événement à son début. Seuls les calendriers de cet appareil comptent.",
+          "Réglages > Nouveautés ouvre désormais dans l’app les notes du site public de Day : les notes d’une nouvelle version s’affichent sans mise à jour de l’app. Hors connexion, les notes intégrées à l’app s’affichent. Rien sur vous n’est envoyé ; le site ne voit qu’une requête web ordinaire.",
+          "Habitudes et Trouver du temps libre sont traduits dans les dix langues."
+        ],
+        "it": [
+          "Abitudini: qualsiasi promemoria ripetuto può diventare un’abitudine. Imposta un obiettivo settimanale (per esempio 4 volte a settimana) e Day tiene traccia della serie attuale, della serie più lunga, di quanti giorni l’hai fatta e saltata e in quante settimane hai raggiunto l’obiettivo.",
+          "Serie indulgente: un giorno che salti di proposito è giustificato. Non conta né come fatto né come mancato, quindi non interrompe la serie.",
+          "Alla fine della giornata: scegli per ogni promemoria cosa fa Day quando la giornata è finita: lasciarlo aperto, segnarlo come completato o (per quelli ripetuti) saltarlo. Day lo applica con la data di scadenza del promemoria, all’apertura dell’app e nell’aggiornamento che iOS consente dopo mezzanotte. Una giornata finita senza che nessuno dei due sia avvenuto viene sistemata la volta successiva. Un promemoria già sistemato che riattivi non viene più annullato. Le regole restano su questo dispositivo.",
+          "Valori: annota una quantità al giorno nella scheda di un’abitudine (8 km, 20 min) con un’unità e vedi una linea degli ultimi 30 giorni.",
+          "Grafico settimanale delle abitudini (Impostazioni > Promemoria > Grafico abitudini, disattivato di default): sostituisce la griglia di 70 giorni nella scheda di un promemoria ripetuto con una barra per settimana che mostra quanto è stato fatto. Serie, fatti e mancati restano.",
+          "Le abitudini di oggi stanno in cima all’elenco del giorno.",
+          "Nuovo widget Abitudini (piccolo e medio): elenca le abitudini aperte di oggi, ciascuna con un pulsante per completarla, come nell’app.",
+          "Trova tempo libero (menu Calendario, ⇧⌘F con la tastiera): un foglio elenca gli intervalli liberi dei prossimi cinque giorni, dalle 8:00 alle 20:00 e, oggi, da adesso, per una durata da 15 minuti a 2 ore. Tocca un intervallo per creare un nuovo evento al suo inizio. Contano solo i calendari di questo dispositivo.",
+          "Impostazioni > Novità ora apre nell’app le note del sito pubblico di Day, così le note di una nuova versione compaiono senza aggiornare l’app. Offline compaiono le note incluse nell’app. Non viene inviato nulla su di te; il sito vede solo una normale richiesta web.",
+          "Abitudini e Trova tempo libero sono tradotti in tutte e dieci le lingue."
+        ],
+        "ja": [
+          "習慣：繰り返しのリマインダーはどれも習慣にできます。週の目標（例：週4回）を決めると、Dayが現在の連続記録、最長の連続記録、できた日数とできなかった日数、目標を達成した週の数を記録します。",
+          "寛大な連続記録：意図的にスキップした日は免除されます。できた日にもできなかった日にも数えられないので、連続記録は途切れません。",
+          "1日の終わりに：リマインダーごとに、1日が終わったときのDayの動作を選べます。そのままにする、完了にする、または（繰り返しのものは）スキップする。Dayは、リマインダーの期日の日付として、アプリを開いたときと、iOSが深夜以降に許可する更新のときに適用します。どちらも実行されないまま終わった日は、次回に処理されます。処理済みのリマインダーを未完了に戻しても、再び取り消されることはありません。ルールはこのデバイスに保存されます。",
+          "値：習慣のカードに、1日ごとの量（8 km、20分など）を単位つきで記録でき、直近30日の推移を線で確認できます。",
+          "週ごとの習慣グラフ（設定 > リマインダー > 習慣グラフ、初期設定ではオフ）：繰り返しのリマインダーのカードにある70日分の四角のグリッドの代わりに、どれだけできたかを週ごとの棒で表示します。連続記録、できた数、できなかった数はそのまま表示されます。",
+          "今日の習慣は、その日のリストの先頭に表示されます。",
+          "新しい習慣ウィジェット（小・中）：今日の未完了の習慣を一覧にし、アプリと同じように、それぞれのボタンで完了にできます。",
+          "空き時間を探す（カレンダーメニュー、キーボードでは⇧⌘F）：今後5日間の空き時間（8:00〜20:00、今日は現在以降）を、15分〜2時間の長さで一覧にします。空きをタップすると、その開始時刻に新しい予定を作成します。このデバイスのカレンダーのみが対象です。",
+          "設定 > 新機能 が、Dayの公式サイトのリリースノートをアプリ内で開くようになり、新しいバージョンのノートはアプリを更新しなくても表示されます。オフラインのときは、アプリに含まれているノートが表示されます。あなたに関する情報は送信されず、サイトには通常のWebリクエストが届くだけです。",
+          "習慣と空き時間を探すは、10言語すべてに翻訳されています。"
+        ],
+        "ko": [
+          "습관: 반복 미리 알림은 모두 습관이 될 수 있습니다. 주간 목표(예: 주 4회)를 정하면 Day가 현재 연속 기록, 최장 연속 기록, 해낸 날과 놓친 날의 수, 목표를 달성한 주의 수를 기록합니다.",
+          "너그러운 연속 기록: 일부러 건너뛴 날은 면제됩니다. 해낸 날로도 놓친 날로도 세지 않으므로 연속 기록이 끊기지 않습니다.",
+          "하루가 끝날 때: 하루가 끝나면 Day가 어떻게 할지 미리 알림마다 고릅니다. 그대로 두기, 완료로 표시하기, 또는 (반복 미리 알림은) 건너뛰기. Day는 미리 알림의 기한 날짜 기준으로, 앱을 열 때와 iOS가 자정 이후 허용하는 새로 고침 때 적용합니다. 둘 다 실행되지 않은 채 끝난 날은 다음번에 처리됩니다. 이미 처리된 미리 알림을 다시 미완료로 돌리면 다시는 취소되지 않습니다. 규칙은 이 기기에 남습니다.",
+          "값: 습관 카드에 하루에 한 번 수량(8 km, 20분)을 단위와 함께 기록하고, 최근 30일의 변화를 선으로 볼 수 있습니다.",
+          "주간 습관 그래프(설정 > 미리 알림 > 습관 그래프, 기본값은 꺼짐): 반복 미리 알림 카드의 70일 사각형 격자 대신 주마다 얼마나 해냈는지 막대 하나로 보여 줍니다. 연속 기록, 해낸 수, 놓친 수는 그대로 표시됩니다.",
+          "오늘의 습관은 그날 목록의 맨 위에 나타납니다.",
+          "새 습관 위젯(소형, 중형): 오늘 남은 습관을 나열하며, 앱에서처럼 각각 완료 버튼이 있습니다.",
+          "빈 시간 찾기(캘린더 메뉴, 키보드에서는 ⇧⌘F): 앞으로 5일의 빈 시간(8:00~20:00, 오늘은 지금부터)을 15분~2시간 길이로 나열합니다. 빈 시간을 탭하면 그 시작 시각에 새 일정을 만듭니다. 이 기기의 캘린더만 포함됩니다.",
+          "설정 > 새로운 기능이 이제 Day 공식 사이트의 릴리스 노트를 앱 안에서 열어, 새 버전의 노트가 앱 업데이트 없이 표시됩니다. 오프라인에서는 앱에 포함된 노트가 표시됩니다. 사용자에 관한 정보는 전송되지 않으며, 사이트는 일반적인 웹 요청만 받습니다.",
+          "습관과 빈 시간 찾기가 10개 언어로 모두 번역되었습니다."
+        ],
+        "pt-BR": [
+          "Hábitos: qualquer lembrete repetitivo pode ser um hábito. Defina uma meta semanal (por exemplo, 4 vezes por semana) e o Day acompanha a sequência atual, a maior sequência, quantos dias você fez e deixou de fazer, e em quantas semanas atingiu a meta.",
+          "Sequência tolerante: um dia que você pula de propósito é desculpado. Ele não conta como feito nem como perdido, então não quebra a sequência.",
+          "No fim do dia: escolha para cada lembrete o que o Day faz quando o dia termina: deixá-lo em aberto, marcá-lo como concluído ou (nos repetitivos) pulá-lo. O Day aplica isso com a data em que o lembrete vencia, ao abrir o app e na atualização que o iOS permite depois da meia-noite. Um dia que terminou sem que nenhum dos dois acontecesse é resolvido na vez seguinte. Se você reabrir um lembrete já resolvido, ele nunca é desfeito de novo. As regras ficam neste dispositivo.",
+          "Valores: registre uma quantidade por dia no cartão de um hábito (8 km, 20 min) com uma unidade e veja uma linha dos últimos 30 dias.",
+          "Gráfico semanal de hábitos (Ajustes > Lembretes > Gráfico de hábitos, desativado por padrão): substitui a grade de 70 dias no cartão de um lembrete repetitivo por uma barra por semana mostrando quanto foi feito. Sequência, feitos e perdidos continuam.",
+          "Os hábitos de hoje ficam no topo da lista do dia.",
+          "Novo widget Hábitos (pequeno e médio): lista os hábitos abertos de hoje, cada um com um botão para marcá-lo, como no app.",
+          "Encontrar tempo livre (menu Calendário, ⇧⌘F com teclado): uma folha lista os intervalos livres dos próximos cinco dias, das 8h às 20h e, hoje, a partir de agora, para uma duração de 15 minutos a 2 horas. Toque em um intervalo para criar um evento no início dele. Só contam os calendários deste dispositivo.",
+          "Ajustes > Novidades agora abre no app as notas do site público do Day, então as notas de uma nova versão aparecem sem atualizar o app. Sem conexão, aparecem as notas incluídas no app. Nada sobre você é enviado; o site só vê uma requisição web comum.",
+          "Hábitos e Encontrar tempo livre estão traduzidos para os dez idiomas."
+        ],
+        "zh-Hans": [
+          "习惯：任何重复提醒事项都可以成为习惯。设定每周目标（例如每周 4 次），Day 会记录当前连续记录、最长连续记录、你做到和没做到的天数，以及达成目标的周数。",
+          "宽容的连续记录：你有意跳过的一天会被豁免。它既不算做到也不算错过，因此不会中断连续记录。",
+          "在一天结束时：为每个提醒事项选择一天结束后 Day 的操作：保持未完成、标记为已完成，或（对于重复提醒事项）跳过。Day 按提醒事项原本到期的日期执行，在你打开 App 时以及 iOS 在午夜后允许的刷新时执行。若某天结束时两者都没有运行，则在下一次处理。已处理的提醒事项被你重新标为未完成后，不会再被撤销。规则保存在此设备上。",
+          "数值：在习惯卡片上按天记录数量（8 公里、20 分钟）并带单位，还能看到最近 30 天的折线。",
+          "每周习惯图表（设置 > 提醒事项 > 习惯图表，默认关闭）：用每周一根的柱形图取代重复提醒事项卡片上的 70 天方格，显示完成了多少。连续记录、完成数和错过数仍会显示。",
+          "今天的习惯显示在当天列表的顶部。",
+          "新的习惯小组件（小号和中号）：列出今天未完成的习惯，每项都有一个按钮可勾选完成，与 App 中一样。",
+          "查找空闲时间（日历菜单，键盘上为 ⇧⌘F）：列出未来五天的空闲时段，8:00 到 20:00，今天从现在开始，时长从 15 分钟到 2 小时。点按一个空档即可在其开头新建事件。仅计入此设备上的日历。",
+          "设置 > 新功能现在会在 App 内打开 Day 公开网站上的更新说明，新版本的说明无需更新 App 即可显示。离线时显示 App 内置的说明。不会发送任何关于你的信息；网站只会收到一次普通的网页请求。",
+          "习惯和查找空闲时间已翻译为全部十种语言。"
+        ],
+        "zh-Hant": [
+          "習慣：任何重複的提醒事項都可以成為習慣。設定每週目標（例如每週 4 次），Day 會記錄目前的連續紀錄、最長的連續紀錄、你做到與沒做到的天數，以及達成目標的週數。",
+          "寬容的連續紀錄：你刻意略過的一天會被豁免。它既不算做到也不算錯過，因此不會中斷連續紀錄。",
+          "在一天結束時：為每個提醒事項選擇一天結束後 Day 的動作：保持未完成、標記為已完成，或（針對重複提醒事項）略過。Day 會以提醒事項原本到期的日期執行，在你打開 App 時以及 iOS 在午夜後允許的重新整理時執行。若某天結束時兩者都沒有執行，則在下一次處理。已處理的提醒事項被你重新標為未完成後，不會再被撤銷。規則儲存在此裝置上。",
+          "數值：在習慣卡片上依天記錄數量（8 公里、20 分鐘）並附單位，還能看到最近 30 天的折線。",
+          "每週習慣圖表（設定 > 提醒事項 > 習慣圖表，預設關閉）：以每週一根的長條圖取代重複提醒事項卡片上的 70 天方格，顯示完成了多少。連續紀錄、完成數與錯過數仍會顯示。",
+          "今天的習慣顯示在當天列表的最上方。",
+          "新的習慣小工具（小與中尺寸）：列出今天未完成的習慣，每項都有一個按鈕可勾選完成，與 App 中相同。",
+          "尋找空閒時間（行事曆選單，鍵盤上為 ⇧⌘F）：列出未來五天的空閒時段，8:00 到 20:00，今天從現在開始，時長從 15 分鐘到 2 小時。點一下空檔即可在其開頭新增活動。僅計入此裝置上的行事曆。",
+          "設定 > 新功能現在會在 App 內開啟 Day 公開網站上的更新說明，新版本的說明無需更新 App 即可顯示。離線時顯示 App 內建的說明。不會傳送任何關於你的資訊；網站只會收到一次一般的網頁請求。",
+          "習慣與尋找空閒時間已翻譯為全部十種語言。"
         ]
       },
       "fixes": {
@@ -39,6 +135,30 @@
         ],
         "de": [
           "Als Nächstes, Erinnerungen und Einladungen: Eine aus der Liste gewählte Karte öffnet jetzt davor. Auf dem Mac öffnete sie sich verdeckt hinter dem Blatt."
+        ],
+        "es": [
+          "Próximo, Recordatorios e Invitaciones: una tarjeta elegida en la lista ahora se abre delante. En el Mac se abría oculta detrás de la hoja."
+        ],
+        "fr": [
+          "À venir, Rappels et Invitations : une fiche choisie dans la liste s’ouvre désormais au premier plan. Sur Mac, elle s’ouvrait cachée derrière la feuille."
+        ],
+        "it": [
+          "Prossimo, Promemoria e Inviti: una scheda scelta dall’elenco ora si apre davanti. Sul Mac si apriva nascosta dietro il foglio."
+        ],
+        "ja": [
+          "次の予定、リマインダー、招待：リストから選んだカードが手前に開くようになりました。Macでは、シートの後ろに隠れて開いていました。"
+        ],
+        "ko": [
+          "다음 일정, 미리 알림, 초대: 목록에서 고른 카드가 이제 앞에 열립니다. Mac에서는 시트 뒤에 가려져 열렸습니다."
+        ],
+        "pt-BR": [
+          "Próximo, Lembretes e Convites: um cartão escolhido na lista agora abre na frente. No Mac, ele abria escondido atrás da folha."
+        ],
+        "zh-Hans": [
+          "接下来、提醒事项和邀请：从列表中选取的卡片现在会在前面打开。在 Mac 上，它此前会隐藏在面板后面打开。"
+        ],
+        "zh-Hant": [
+          "接下來、提醒事項與邀請：從列表中選取的卡片現在會在前面開啟。在 Mac 上，它先前會隱藏在面板後面開啟。"
         ]
       }
     },
@@ -56,6 +176,38 @@
         "de": [
           "Alles aus iPhone und iPad 2.1.6: Gewohnheiten, das Gewohnheiten-Widget, „Freie Zeit finden“ (⇧⌘F) und die Neuigkeiten von der öffentlichen Website.",
           "Seit Mac 2.1.3 außerdem: Zieh eine Zeitleiste nach unten oder drücke ⌘R, um Kalender und Erinnerungen zu aktualisieren (Aktualisieren steht im Menü Darstellung), und der Mac behält jetzt jede geöffnete Ansicht und wärmt die übrigen nach dem Start vor, sodass der Wechsel zwischen Tag, 3 Tage, Woche, Monat und Jahr ein Einblenden statt eines Neuaufbaus ist (mittlerer Ruckler beim Wechsel zuvor 110 ms, jetzt 39 ms)."
+        ],
+        "es": [
+          "Todo lo de iPhone y iPad 2.1.6: Hábitos, el widget Hábitos, Buscar tiempo libre (⇧⌘F) y Novedades desde el sitio público.",
+          "Desde Mac 2.1.3, además: tira hacia abajo en una línea de tiempo o pulsa ⌘R para actualizar calendarios y recordatorios (Actualizar está en el menú Visualización), y el Mac ahora conserva cada vista que has abierto y prepara las demás tras el inicio, así que cambiar entre Día, 3 días, Semana, Mes y Año es mostrar, no reconstruir (el tirón medio al cambiar: 110 ms antes, 39 ms ahora)."
+        ],
+        "fr": [
+          "Tout ce qu’apportent iPhone et iPad 2.1.6 : Habitudes, le widget Habitudes, Trouver du temps libre (⇧⌘F) et Nouveautés depuis le site public.",
+          "Depuis Mac 2.1.3, aussi : tirez vers le bas sur une frise ou appuyez sur ⌘R pour actualiser calendriers et rappels (Actualiser se trouve dans le menu Présentation), et le Mac conserve désormais chaque vue ouverte et prépare les autres après le lancement : passer de Jour à 3 jours, Semaine, Mois et Année, c’est afficher, pas reconstruire (à-coup médian mesuré : 110 ms avant, 39 ms maintenant)."
+        ],
+        "it": [
+          "Tutto ciò che c’è in iPhone e iPad 2.1.6: Abitudini, il widget Abitudini, Trova tempo libero (⇧⌘F) e Novità dal sito pubblico.",
+          "Da Mac 2.1.3, inoltre: trascina verso il basso una timeline o premi ⌘R per aggiornare calendari e promemoria (Aggiorna è nel menu Vista), e il Mac ora conserva ogni vista che hai aperto e prepara le altre dopo l’avvio, così passare tra Giorno, 3 giorni, Settimana, Mese e Anno è mostrare, non ricostruire (scatto mediano misurato: 110 ms prima, 39 ms ora)."
+        ],
+        "ja": [
+          "iPhone・iPad 2.1.6のすべて：習慣、習慣ウィジェット、空き時間を探す（⇧⌘F）、公式サイトの新機能。",
+          "Mac 2.1.3以降の変更も含みます：タイムラインを引き下げるか⌘Rでカレンダーとリマインダーを更新（「更新」は表示メニューにあります）。また、Macは開いたすべての表示を保持し、起動後にほかの表示も準備するため、日、3日間、週、月、年の切り替えは再構築ではなく表示するだけになりました（切り替え時のもたつきの中央値：以前は110 ms、現在は39 ms）。"
+        ],
+        "ko": [
+          "iPhone·iPad 2.1.6의 모든 내용: 습관, 습관 위젯, 빈 시간 찾기(⇧⌘F), 공식 사이트의 새로운 기능.",
+          "Mac 2.1.3 이후의 변경도 포함합니다: 타임라인을 아래로 당기거나 ⌘R로 캘린더와 미리 알림을 새로 고칩니다(새로 고침은 보기 메뉴에 있습니다). 또한 Mac이 열어 본 모든 보기를 유지하고 실행 후 다른 보기도 미리 준비하므로, 일, 3일, 주, 월, 연 사이 전환은 다시 만드는 것이 아니라 보여 주기만 합니다(전환 시 끊김 중앙값: 이전 110 ms, 현재 39 ms)."
+        ],
+        "pt-BR": [
+          "Tudo do iPhone e iPad 2.1.6: Hábitos, o widget Hábitos, Encontrar tempo livre (⇧⌘F) e Novidades do site público.",
+          "Desde o Mac 2.1.3, também: puxe uma linha do tempo para baixo ou pressione ⌘R para atualizar calendários e lembretes (Atualizar fica no menu Visualizar), e o Mac agora mantém cada visualização que você abriu e prepara as outras após o início, então alternar entre Dia, 3 dias, Semana, Mês e Ano é mostrar, não reconstruir (travada mediana medida ao alternar: 110 ms antes, 39 ms agora)."
+        ],
+        "zh-Hans": [
+          "包含 iPhone 和 iPad 2.1.6 的全部内容：习惯、习惯小组件、查找空闲时间（⇧⌘F）以及来自公开网站的新功能说明。",
+          "自 Mac 2.1.3 以来还有：在时间线上下拉或按 ⌘R 刷新日历和提醒事项（“刷新”在“显示”菜单中），并且 Mac 现在会保留你打开过的每个视图，并在启动后预热其他视图，因此在日、3 天、周、月和年之间切换只是显示，而不是重新构建（切换卡顿中位数：之前 110 毫秒，现在 39 毫秒）。"
+        ],
+        "zh-Hant": [
+          "包含 iPhone 與 iPad 2.1.6 的全部內容：習慣、習慣小工具、尋找空閒時間（⇧⌘F）以及來自公開網站的新功能說明。",
+          "自 Mac 2.1.3 以來還有：在時間線上下拉或按 ⌘R 重新整理行事曆與提醒事項（「重新整理」在「顯示方式」選單中），而且 Mac 現在會保留你開啟過的每個檢視，並在啟動後預先準備其他檢視，因此在日、3 天、週、月與年之間切換只是顯示，而不是重新建構（切換卡頓中位數：先前 110 毫秒，現在 39 毫秒）。"
         ]
       },
       "fixes": {
@@ -70,6 +222,54 @@
           "Monat: Die Liste „+n weitere“ ist ein schwebendes Fenster wie die Terminkarte, sodass ein Klick außerhalb sie schließt und trotzdem das erreicht, was darunter liegt. Escape oder ein zweiter Klick auf die Taste schließen sie ebenfalls, ein Klick auf eine Zeile öffnet die Karte dieses Termins.",
           "Die Terminkarte, die Liste „+n weitere“ im Monat und Karten aus „Als Nächstes“, Erinnerungen oder Einladungen öffnen vor dem Fenster und vor Blättern, nicht dahinter.",
           "Wischen auf einer Tagesliste tippt nicht mehr auf „Neues Ereignis“. Die obere Leiste ist eine Zeile, die schrumpft, mit einem einzigen Heute-Steuerelement, und Klicks landen dort, wo du hinzielst."
+        ],
+        "es": [
+          "Búsqueda: el campo acepta todo lo que escribes. Antes se reducía a una lupa tras la primera letra. Escape sigue saliendo de la búsqueda y ⌘F la enfoca.",
+          "Mes: la lista «+n más» es un panel flotante como la tarjeta del evento, así que un clic fuera la cierra y aun así llega a lo que hay debajo. Escape o un segundo clic en el botón también la cierra, y un clic en una fila abre la tarjeta de ese evento.",
+          "La tarjeta del evento, la lista «+n más» del mes y las tarjetas elegidas desde Próximo, Recordatorios o Invitaciones se abren delante de la ventana y de las hojas, no detrás.",
+          "Un deslizamiento en la lista de un día ya no toca Nuevo evento. La barra superior es de una sola línea que se encoge, con un único control de Hoy, y los clics caen donde apuntas."
+        ],
+        "fr": [
+          "Recherche : le champ accepte tout ce que vous tapez. Il se réduisait à une loupe après la première lettre. Échap quitte toujours la recherche et ⌘F lui donne le focus.",
+          "Mois : la liste « +n autres » est un panneau flottant comme la fiche d’événement : un clic à l’extérieur la ferme et atteint quand même ce qui se trouve dessous. Échap ou un second clic sur le bouton la ferme aussi, et un clic sur une ligne ouvre la fiche de cet événement.",
+          "La fiche d’événement, la liste « +n autres » du mois et les fiches choisies depuis À venir, Rappels ou Invitations s’ouvrent devant la fenêtre et les feuilles, et non derrière.",
+          "Un balayage sur la liste d’un jour ne touche plus Nouvel événement. La barre supérieure tient sur une ligne qui se réduit, avec un seul bouton Aujourd’hui, et les clics tombent là où vous visez."
+        ],
+        "it": [
+          "Ricerca: il campo accetta tutto ciò che scrivi. Prima si riduceva a una lente dopo la prima lettera. Esc esce ancora dalla ricerca e ⌘F la attiva.",
+          "Mese: l’elenco «+n altri» è un pannello flottante come la scheda dell’evento, quindi un clic fuori lo chiude e raggiunge comunque ciò che c’è sotto. Anche Esc o un secondo clic sul pulsante lo chiude, e un clic su una riga apre la scheda di quell’evento.",
+          "La scheda dell’evento, l’elenco «+n altri» del mese e le schede scelte da Prossimo, Promemoria o Inviti si aprono davanti alla finestra e ai fogli, non dietro.",
+          "Uno scorrimento sull’elenco di un giorno non tocca più Nuovo evento. La barra superiore è su una riga che si restringe, con un solo controllo Oggi, e i clic cadono dove punti."
+        ],
+        "ja": [
+          "検索：入力した文字がすべて入るようになりました。以前は最初の1文字で虫眼鏡に縮んでいました。Escで検索を終了でき、⌘Fでフォーカスできます。",
+          "月：「ほかn件」のリストは予定カードと同じ浮かぶパネルになり、外側をクリックすると閉じて、その下にあるものにもクリックが届きます。Escまたはボタンをもう一度クリックしても閉じ、行をクリックするとその予定のカードが開きます。",
+          "予定カード、月の「ほかn件」リスト、次の予定・リマインダー・招待から選んだカードは、ウインドウやシートの後ろではなく手前に開きます。",
+          "日のリストでのスワイプで、新規予定をタップしてしまうことはなくなりました。上部のバーは1行で縮み、「今日」の操作は1つにまとまり、クリックは狙った場所に届きます。"
+        ],
+        "ko": [
+          "검색: 입력한 내용이 모두 들어갑니다. 이전에는 첫 글자 뒤에 돋보기로 줄어들었습니다. Esc로 검색을 나갈 수 있고 ⌘F로 포커스합니다.",
+          "월: ‘+n개 더’ 목록은 일정 카드처럼 떠 있는 패널이어서, 바깥을 클릭하면 닫히면서 아래에 있는 것에도 클릭이 전달됩니다. Esc나 버튼을 한 번 더 클릭해도 닫히고, 행을 클릭하면 그 일정의 카드가 열립니다.",
+          "일정 카드, 월의 ‘+n개 더’ 목록, 다음 일정·미리 알림·초대에서 고른 카드는 창과 시트 뒤가 아니라 앞에 열립니다.",
+          "일 목록에서 스와이프해도 더 이상 새 일정이 눌리지 않습니다. 상단 막대는 줄어드는 한 줄이고 오늘 컨트롤은 하나이며, 클릭은 겨냥한 곳에 닿습니다."
+        ],
+        "pt-BR": [
+          "Busca: o campo aceita tudo o que você digita. Antes ele encolhia para uma lupa depois da primeira letra. Esc continua saindo da busca e ⌘F a seleciona.",
+          "Mês: a lista «+n mais» é um painel flutuante como o cartão do evento, então um clique fora a fecha e ainda alcança o que está embaixo. Esc ou um segundo clique no botão também a fecha, e um clique em uma linha abre o cartão desse evento.",
+          "O cartão do evento, a lista «+n mais» do mês e os cartões escolhidos em Próximo, Lembretes ou Convites abrem na frente da janela e das folhas, não atrás.",
+          "Deslizar na lista de um dia não toca mais em Novo evento. A barra superior é de uma linha que encolhe, com um único controle de Hoje, e os cliques caem onde você mira."
+        ],
+        "zh-Hans": [
+          "搜索：输入框现在能接收你输入的全部内容。此前输入第一个字母后它会缩成放大镜。按 Esc 仍可退出搜索，⌘F 可聚焦搜索。",
+          "月视图：“另外 n 项”列表现在是与事件卡片一样的浮动面板，因此在外部点按会关闭它，并且点击仍会作用于下方的内容。按 Esc 或再次点按该按钮也会关闭，点按某一行会打开该事件的卡片。",
+          "事件卡片、月视图的“另外 n 项”列表，以及从“接下来”、提醒事项或邀请中选取的卡片，现在会在窗口和面板的前面打开，而不是后面。",
+          "在某天的列表上滑动不再误点“新建事件”。顶部栏变为可收缩的一行，只有一个“今天”控件，点按会落在你瞄准的位置。"
+        ],
+        "zh-Hant": [
+          "搜尋：輸入欄現在能接收你輸入的全部內容。先前輸入第一個字母後它會縮成放大鏡。按 Esc 仍可離開搜尋，⌘F 可聚焦搜尋。",
+          "月檢視：「另外 n 項」列表現在是與活動卡片一樣的浮動面板，因此在外部點按會關閉它，而且點按仍會作用於下方的內容。按 Esc 或再次點按該按鈕也會關閉，點按某一列會開啟該活動的卡片。",
+          "活動卡片、月檢視的「另外 n 項」列表，以及從「接下來」、提醒事項或邀請中選取的卡片，現在會在視窗與面板的前面開啟，而不是後面。",
+          "在某天的列表上滑動不再誤點「新增活動」。頂部列變為可縮小的一行，只有一個「今天」控制項，點按會落在你瞄準的位置。"
         ]
       }
     },
@@ -89,6 +289,38 @@
         "de": [
           "Zieh eine Zeitleiste nach unten, um Kalender und Erinnerungen zu aktualisieren.",
           "Wischen in der Tagesliste im Monat tippt nicht mehr versehentlich auf „Neues Ereignis“."
+        ],
+        "es": [
+          "Tira hacia abajo en una línea de tiempo para actualizar tus calendarios y recordatorios.",
+          "Deslizar por la lista de un día en Mes ya no toca Nuevo evento por error."
+        ],
+        "fr": [
+          "Tirez vers le bas sur une frise pour actualiser vos calendriers et rappels.",
+          "Balayer la liste d’un jour dans Mois ne touche plus Nouvel événement par erreur."
+        ],
+        "it": [
+          "Trascina verso il basso una timeline per aggiornare calendari e promemoria.",
+          "Scorrere l’elenco di un giorno in Mese non tocca più Nuovo evento per errore."
+        ],
+        "ja": [
+          "タイムラインを引き下げると、カレンダーとリマインダーが更新されます。",
+          "月表示で日のリストをスワイプしても、誤って新規予定をタップしなくなりました。"
+        ],
+        "ko": [
+          "타임라인을 아래로 당겨 캘린더와 미리 알림을 새로 고칩니다.",
+          "월에서 일 목록을 스와이프해도 실수로 새 일정이 눌리지 않습니다."
+        ],
+        "pt-BR": [
+          "Puxe uma linha do tempo para baixo para atualizar seus calendários e lembretes.",
+          "Deslizar pela lista de um dia em Mês não toca mais em Novo evento por engano."
+        ],
+        "zh-Hans": [
+          "在时间线上下拉可刷新你的日历和提醒事项。",
+          "在月视图中滑动某天的列表，不再误点“新建事件”。"
+        ],
+        "zh-Hant": [
+          "在時間線上下拉可重新整理你的行事曆與提醒事項。",
+          "在月檢視中滑動某天的列表，不再誤點「新增活動」。"
         ]
       },
       "fixes": {
@@ -109,6 +341,30 @@
         ],
         "de": [
           "„Als Nächstes“: Eine überfällige ganztägige Erinnerung zeigt jetzt ihren eigenen Titel in der Pille statt eines leeren Labels."
+        ],
+        "es": [
+          "Próximo: un recordatorio vencido de todo el día ahora muestra su propio título en la píldora, en lugar de una etiqueta vacía."
+        ],
+        "fr": [
+          "À venir : un rappel en retard sur toute la journée affiche désormais son propre titre sur la pastille, au lieu d’une étiquette vide."
+        ],
+        "it": [
+          "Prossimo: un promemoria scaduto di tutto il giorno ora mostra il proprio titolo sulla pillola, invece di un’etichetta vuota."
+        ],
+        "ja": [
+          "次の予定：期限を過ぎた終日のリマインダーが、空のラベルではなく自身のタイトルをピルに表示するようになりました。"
+        ],
+        "ko": [
+          "다음 일정: 기한이 지난 하루 종일 미리 알림이 이제 빈 레이블 대신 자신의 제목을 표시합니다."
+        ],
+        "pt-BR": [
+          "Próximo: um lembrete atrasado de dia inteiro agora mostra o próprio título na pílula, em vez de um rótulo vazio."
+        ],
+        "zh-Hans": [
+          "接下来：已逾期的全天提醒事项现在会在胶囊上显示它自己的标题，而不是空白标签。"
+        ],
+        "zh-Hant": [
+          "接下來：已逾期的全天提醒事項現在會在膠囊上顯示它自己的標題，而不是空白標籤。"
         ]
       },
       "fixes": {
@@ -138,6 +394,62 @@
           "Die Listenzeilen in „Bearbeiten“ sind enger, damit Titel Platz behalten.",
           "Halte einen Termin oder eine Erinnerung in einer Liste gedrückt und tippe auf die Vorschau, um ihn zu öffnen. Das Menü bietet auch VoiceOver-Aktionen.",
           "Das optionale Modell auf dem Gerät für „Schnell hinzufügen“ lässt sich jetzt in mehr Regionen laden."
+        ],
+        "es": [
+          "Recordatorios: elimina una lista desde su menú, los grupos sin listas que mostrar se ocultan y tus grupos de listas ahora siguen a tu iCloud hasta tus otros dispositivos.",
+          "Vuelve a activar Programados u otra tarjeta y regresa a su sitio, no al final.",
+          "Las filas de listas en Editar son más compactas, así que los títulos conservan su espacio.",
+          "Mantén pulsado un evento o recordatorio en una lista y toca la ventana emergente para abrirlo, con acciones de VoiceOver para el menú.",
+          "El modelo opcional en el dispositivo para Añadir rápido ahora puede descargarse en más regiones."
+        ],
+        "fr": [
+          "Rappels : supprimez une liste depuis son menu, les groupes sans liste à afficher sont masqués et vos groupes de listes suivent désormais votre iCloud vers vos autres appareils.",
+          "Réactivez Planifiés ou une autre carte et elle retrouve sa place, pas la fin.",
+          "Les lignes de liste dans Modifier sont plus serrées, les titres gardent donc leur place.",
+          "Maintenez le doigt sur un événement ou un rappel dans une liste, puis touchez la fenêtre pour l’ouvrir, avec des actions VoiceOver pour le menu.",
+          "Le modèle facultatif sur l’appareil pour l’ajout rapide peut désormais être téléchargé dans plus de régions."
+        ],
+        "it": [
+          "Promemoria: elimina una lista dal suo menu, i gruppi senza liste da mostrare vengono nascosti e i tuoi gruppi di liste ora seguono iCloud sugli altri dispositivi.",
+          "Riattiva Programmati o un’altra scheda e torna al suo posto, non in fondo.",
+          "Le righe delle liste in Modifica sono più strette, così i titoli mantengono il loro spazio.",
+          "Tieni premuto un evento o un promemoria in un elenco e tocca il popup per aprirlo, con azioni VoiceOver per il menu.",
+          "Il modello facoltativo sul dispositivo per l’aggiunta rapida ora può essere scaricato in più regioni."
+        ],
+        "ja": [
+          "リマインダー：メニューからリストを削除でき、表示するリストがないグループは非表示になり、リストのグループがiCloud経由で他のデバイスにも引き継がれます。",
+          "「予定」などのカードを再びオンにすると、末尾ではなく元の位置に戻ります。",
+          "「編集」のリストの行を詰めたので、タイトルの幅が確保されます。",
+          "リストの予定やリマインダーを長押しして、表示されるポップアップをタップすると開きます。メニューにはVoiceOverアクションもあります。",
+          "クイック追加用のオプションのオンデバイスモデルを、より多くの地域でダウンロードできるようになりました。"
+        ],
+        "ko": [
+          "미리 알림: 메뉴에서 목록을 삭제하고, 표시할 목록이 없는 그룹은 숨겨지며, 목록 그룹이 이제 iCloud를 통해 다른 기기로 이어집니다.",
+          "예정 등 카드를 다시 켜면 맨 끝이 아니라 원래 자리로 돌아옵니다.",
+          "편집의 목록 행이 더 촘촘해져 제목이 공간을 유지합니다.",
+          "목록에서 일정이나 미리 알림을 길게 누른 뒤 팝업을 탭하면 열립니다. 메뉴에는 VoiceOver 동작이 있습니다.",
+          "빠른 추가용 선택 기기 내 모델을 이제 더 많은 지역에서 다운로드할 수 있습니다."
+        ],
+        "pt-BR": [
+          "Lembretes: exclua uma lista pelo menu dela, grupos sem lista para mostrar ficam ocultos e seus grupos de listas agora seguem seu iCloud para os outros dispositivos.",
+          "Ative de novo Agendados ou outro cartão e ele volta ao seu lugar, não ao fim.",
+          "As linhas de lista em Editar ficaram mais compactas, então os títulos mantêm seu espaço.",
+          "Toque e segure um evento ou lembrete em uma lista e toque no pop-up para abri-lo, com ações do VoiceOver para o menu.",
+          "O modelo opcional no dispositivo para Adição rápida agora pode ser baixado em mais regiões."
+        ],
+        "zh-Hans": [
+          "提醒事项：可从菜单删除列表，没有可显示列表的分组会被隐藏，并且你的列表分组现在会通过 iCloud 同步到其他设备。",
+          "重新打开“已计划”或其他卡片后，它会回到原来的位置，而不是末尾。",
+          "“编辑”中的列表行更紧凑，标题因此保留了空间。",
+          "在列表中长按事件或提醒事项，再点按弹出的内容即可打开，并为菜单提供旁白操作。",
+          "用于快速添加的可选设备端模型现在可在更多地区下载。"
+        ],
+        "zh-Hant": [
+          "提醒事項：可從選單刪除列表，沒有可顯示列表的群組會被隱藏，而且你的列表群組現在會透過 iCloud 同步到其他裝置。",
+          "重新開啟「已排程」或其他卡片後，它會回到原本的位置，而不是最後面。",
+          "「編輯」中的列表列更緊湊，標題因此保有空間。",
+          "在列表中長按活動或提醒事項，再點按彈出的內容即可開啟，並為選單提供旁白動作。",
+          "用於快速加入的選用裝置端模型現在可在更多地區下載。"
         ]
       },
       "fixes": {
@@ -165,6 +477,62 @@
           "Erinnerungen: Reihenfolge der Listen und welche Listen als Karten erscheinen frei wählbar, dazu automatische Listen-Emojis.",
           "Einstellungen: Kalender und Erinnerungen haben eigene Seiten, Berechtigungen werden überall gleich angezeigt.",
           "iPad: Einstellungen in der oberen Leiste, ⌘1–5 wechseln die Ansicht."
+        ],
+        "es": [
+          "Mac: Ajustes se abre en su propia ventana, y Day recuerda el tamaño de la ventana y la posición del calendario.",
+          "Mac: la vista Mes cabe más texto de eventos, muestra los detalles junto al evento y admite arrastrar eventos y programar recordatorios.",
+          "Recordatorios: elige el orden de las listas y qué listas se muestran como tarjetas, además de emojis automáticos para las listas.",
+          "Ajustes: Calendarios y Recordatorios tienen sus propias páginas, y los permisos se muestran igual en todas partes.",
+          "iPad: Ajustes está en la barra superior, y ⌘1–5 cambian de vista."
+        ],
+        "fr": [
+          "Mac : les Réglages s’ouvrent dans leur propre fenêtre, et Day retient la taille de la fenêtre et la position du calendrier.",
+          "Mac : la vue Mois affiche plus de texte d’événement, montre les détails à côté de l’événement et permet de glisser les événements et de planifier les rappels.",
+          "Rappels : choisissez l’ordre des listes et celles qui s’affichent en cartes, avec des émojis de liste automatiques.",
+          "Réglages : Calendriers et Rappels ont leurs propres pages, et les autorisations s’affichent partout de la même façon.",
+          "iPad : les Réglages sont dans la barre supérieure, et ⌘1 à ⌘5 changent de vue."
+        ],
+        "it": [
+          "Mac: le Impostazioni si aprono in una finestra propria, e Day ricorda la dimensione della finestra e la posizione del calendario.",
+          "Mac: la vista Mese contiene più testo degli eventi, mostra i dettagli accanto all’evento e supporta il trascinamento degli eventi e la pianificazione dei promemoria.",
+          "Promemoria: scegli l’ordine delle liste e quali liste mostrare come schede, più emoji automatiche per le liste.",
+          "Impostazioni: Calendari e Promemoria hanno pagine proprie, e le autorizzazioni sono mostrate ovunque allo stesso modo.",
+          "iPad: le Impostazioni sono nella barra superiore, e ⌘1–5 cambiano vista."
+        ],
+        "ja": [
+          "Mac：設定が独立したウインドウで開き、Dayはウインドウのサイズとカレンダーの位置を記憶します。",
+          "Mac：月表示で予定のテキストがより多く収まり、予定の横に詳細が表示され、予定のドラッグとリマインダーのスケジュールに対応しました。",
+          "リマインダー：リストの順序とカードとして表示するリストを選べるようになり、リストの絵文字も自動で付きます。",
+          "設定：カレンダーとリマインダーが専用のページになり、権限はどこでも同じ形式で表示されます。",
+          "iPad：設定が上部バーに移り、⌘1〜5で表示を切り替えられます。"
+        ],
+        "ko": [
+          "Mac: 설정이 별도 창에서 열리며, Day가 창 크기와 캘린더 위치를 기억합니다.",
+          "Mac: 월 보기에 일정 텍스트가 더 많이 들어가고, 일정 옆에 세부 정보가 표시되며, 일정 드래그와 미리 알림 예약을 지원합니다.",
+          "미리 알림: 목록 순서와 카드로 표시할 목록을 고를 수 있으며, 목록 이모지도 자동으로 붙습니다.",
+          "설정: 캘린더와 미리 알림이 각자의 페이지를 가지며, 권한은 어디서나 같은 방식으로 표시됩니다.",
+          "iPad: 설정이 상단 막대에 있고, ⌘1–5로 보기를 전환합니다."
+        ],
+        "pt-BR": [
+          "Mac: os Ajustes abrem em uma janela própria, e o Day lembra o tamanho da janela e a posição do calendário.",
+          "Mac: a visualização Mês comporta mais texto de eventos, mostra detalhes ao lado do evento e permite arrastar eventos e agendar lembretes.",
+          "Lembretes: escolha a ordem das listas e quais listas aparecem como cartões, além de emojis automáticos para as listas.",
+          "Ajustes: Calendários e Lembretes têm páginas próprias, e as permissões aparecem do mesmo jeito em todo lugar.",
+          "iPad: os Ajustes ficam na barra superior, e ⌘1–5 trocam de visualização."
+        ],
+        "zh-Hans": [
+          "Mac：设置在独立窗口中打开，Day 会记住窗口大小和日历位置。",
+          "Mac：月视图可容纳更多事件文字，在事件旁显示详细信息，并支持拖动事件和安排提醒事项。",
+          "提醒事项：可选择列表顺序以及哪些列表显示为卡片，并自动添加列表表情符号。",
+          "设置：日历和提醒事项各有独立页面，权限在各处的显示方式一致。",
+          "iPad：设置位于顶部栏，⌘1–5 可切换视图。"
+        ],
+        "zh-Hant": [
+          "Mac：設定在獨立視窗中開啟，Day 會記住視窗大小與行事曆位置。",
+          "Mac：月檢視可容納更多活動文字，在活動旁顯示詳細資訊，並支援拖移活動與安排提醒事項。",
+          "提醒事項：可選擇列表順序以及哪些列表顯示為卡片，並自動加入列表表情符號。",
+          "設定：行事曆與提醒事項各有獨立頁面，權限在各處的顯示方式一致。",
+          "iPad：設定位於頂部列，⌘1–5 可切換檢視。"
         ]
       },
       "fixes": {
@@ -173,6 +541,30 @@
         ],
         "de": [
           "Kleinere Verbesserungen an der unteren Leiste, der Suche und „Als Nächstes“."
+        ],
+        "es": [
+          "Correcciones menores en la barra inferior, la búsqueda y Próximo."
+        ],
+        "fr": [
+          "Petites corrections de la barre du bas, de la recherche et d’À venir."
+        ],
+        "it": [
+          "Correzioni minori alla barra inferiore, alla ricerca e a Prossimo."
+        ],
+        "ja": [
+          "下部バー、検索、次の予定の細かな修正。"
+        ],
+        "ko": [
+          "하단 막대, 검색, 다음 일정의 사소한 수정."
+        ],
+        "pt-BR": [
+          "Pequenas correções na barra inferior, na busca e em Próximo."
+        ],
+        "zh-Hans": [
+          "对底部栏、搜索和“接下来”的小修复。"
+        ],
+        "zh-Hant": [
+          "對底部列、搜尋與「接下來」的小修正。"
         ]
       }
     }
