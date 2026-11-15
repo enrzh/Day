@@ -68,12 +68,14 @@ T = {
 # The chosen language is remembered on this device (localStorage "dayLang"): picking one in the switcher saves it, and a page
 # in another language sends you to the saved one. Links are relative, so it works on GitHub Pages and on aiity.de/day alike.
 SWITCH_JS = """(function(){var K='dayLang',d=document.getElementById('lang');if(!d)return;
+var links=d.querySelectorAll('a[data-lang]');
+if(/[?&]app=1(&|$)/.test(location.search)){for(var i=0;i<links.length;i++){links[i].href+='?app=1'}}
+else{
 function get(){var v;try{v=localStorage.getItem(K)}catch(e){}if(v)return v;var m=document.cookie.match(/(?:^|; )dayLang=([^;]+)/);return m?m[1]:null}
 function set(v){try{localStorage.setItem(K,v)}catch(e){}document.cookie=K+'='+v+'; max-age=31536000; path=/; SameSite=Lax'}
 var cur=document.documentElement.lang,saved=get();
-var links=d.querySelectorAll('a[data-lang]');
 if(saved&&saved!==cur){for(var i=0;i<links.length;i++){if(links[i].dataset.lang===saved){location.replace(links[i].href+location.hash);return}}}
-for(var i=0;i<links.length;i++){links[i].addEventListener('click',function(){set(this.dataset.lang)})}
+for(var i=0;i<links.length;i++){links[i].addEventListener('click',function(){set(this.dataset.lang)})}}
 document.addEventListener('click',function(e){if(!d.contains(e.target))d.open=false});
 document.addEventListener('keydown',function(e){if(e.key==='Escape'){d.open=false}});})();"""
 
