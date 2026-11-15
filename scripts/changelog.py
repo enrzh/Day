@@ -67,10 +67,13 @@ T = {
 
 # The chosen language is remembered on this device (localStorage "dayLang"): picking one in the switcher saves it, and a page
 # in another language sends you to the saved one. Links are relative, so it works on GitHub Pages and on aiity.de/day alike.
-SWITCH_JS = """(function(){var K='dayLang',s=document.getElementById('lang');if(!s)return;
+SWITCH_JS = """(function(){var K='dayLang',d=document.getElementById('lang');if(!d)return;
 var cur=document.documentElement.lang,saved;try{saved=localStorage.getItem(K)}catch(e){}
-if(saved&&saved!==cur){for(var i=0;i<s.options.length;i++){if(s.options[i].dataset.lang===saved){location.replace(s.options[i].value+location.hash);return}}}
-s.addEventListener('change',function(){var o=s.options[s.selectedIndex];try{localStorage.setItem(K,o.dataset.lang)}catch(e){}location.href=o.value+location.hash});})();"""
+var links=d.querySelectorAll('a[data-lang]');
+if(saved&&saved!==cur){for(var i=0;i<links.length;i++){if(links[i].dataset.lang===saved){location.replace(links[i].href+location.hash);return}}}
+for(var i=0;i<links.length;i++){links[i].addEventListener('click',function(){try{localStorage.setItem(K,this.dataset.lang)}catch(e){}})}
+document.addEventListener('click',function(e){if(!d.contains(e.target))d.open=false});
+document.addEventListener('keydown',function(e){if(e.key==='Escape'){d.open=false}});})();"""
 
 def items(lines):
     return "<ul>" + "".join(f"<li>{html.escape(x)}</li>" for x in lines) + "</ul>"
@@ -104,11 +107,9 @@ def build(lang):
         if fixes:
             body += f'<h3>{t["fixes"]}</h3>{items(fixes)}'
         out.append(f'    <article id="{r["id"]}">\n      <h2>{r["version"]} <span class="meta">{t["platform"][plat]}{date}</span></h2>\n      {body}\n    </article>')
-    options = "".join(f'<option value="{href(lang, other)}" lang="{other}" data-lang="{other}"{" selected" if other == lang else ""}>{T[other]["name"]}</option>' for other in T)
-    links = "".join(f'<a href="{href(lang, other)}" hreflang="{other}" lang="{other}">{T[other]["name"]}</a>' for other in T if other != lang)
-    langs = (f'<label class="lang"><span aria-hidden="true">🌐</span><span class="sr">Language</span>'
-             f'<select id="lang" aria-label="Language">{options}</select></label>'
-             f'<noscript><span class="langs-links">{links}</span></noscript>')
+    links = "".join(f'<a href="{href(lang, other)}" hreflang="{other}" lang="{other}" data-lang="{other}"' + (' aria-current="true"' if other == lang else '') + f'>{T[other]["name"]}</a>' for other in T)
+    langs = (f'<details class="lang" id="lang"><summary aria-label="Language"><span aria-hidden="true">🌐</span> {t["name"]}</summary>'
+             f'<div class="menu">{links}</div></details>')
     alternates = "".join(f'\n  <link rel="alternate" hreflang="{other}" href="https://enrzh.github.io/Day/changelog/{T[other]["dir"] + "/" if T[other]["dir"] else ""}">' for other in T)
     page = f'''<!doctype html>
 <html lang="{lang}">
@@ -120,7 +121,7 @@ def build(lang):
   <meta name="color-scheme" content="light dark">
   <link rel="icon" href="{icon}">
   <link rel="stylesheet" href="{css}">{alternates}
-  <style>article {{ margin-top: 2rem; }} article h2 {{ font-size: 1.35rem; margin-bottom: .4rem; }} article h2 .meta {{ font-size: .9rem; font-weight: 400; color: var(--muted); }} article h3 {{ font-size: .95rem; color: var(--muted); margin: .9rem 0 .2rem; }} article ul {{ margin: 0; padding-left: 1.2rem; }} article li {{ margin-bottom: .35rem; }} .langs {{ display: flex; flex-wrap: wrap; align-items: center; gap: .3rem 1rem; margin: 0 0 1rem; font-size: .9rem; }} .lang {{ display: inline-flex; align-items: center; gap: .45rem; }} .lang select {{ font: inherit; color: inherit; background: transparent; border: 1px solid var(--line); border-radius: 8px; padding: .3rem 1.4rem .3rem .5rem; min-height: 2rem; font-size: .88rem; }} .lang select:focus-visible {{ outline: 2px solid currentColor; outline-offset: 2px; }} .sr {{ position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }} .langs-links {{ display: flex; flex-wrap: wrap; gap: .3rem 1rem; }}</style>
+  <style>article {{ margin-top: 2rem; }} article h2 {{ font-size: 1.35rem; margin-bottom: .4rem; }} article h2 .meta {{ font-size: .9rem; font-weight: 400; color: var(--muted); }} article h3 {{ font-size: .95rem; color: var(--muted); margin: .9rem 0 .2rem; }} article ul {{ margin: 0; padding-left: 1.2rem; }} article li {{ margin-bottom: .35rem; }} .langs {{ display: flex; flex-wrap: wrap; align-items: center; gap: .3rem 1rem; margin: 0 0 1rem; font-size: .9rem; }} .lang {{ position: relative; }} .lang summary {{ list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: .4rem; border: 1px solid var(--line); border-radius: 8px; padding: .3rem .7rem; min-height: 2rem; font-size: .88rem; color: var(--ink); user-select: none; }} .lang summary::-webkit-details-marker {{ display: none; }} .lang summary::after {{ content: "▾"; font-size: .8em; color: var(--muted); }} .lang summary:focus-visible {{ outline: 2px solid currentColor; outline-offset: 2px; }} .lang .menu {{ position: absolute; right: 0; top: calc(100% + 6px); z-index: 10; min-width: 11rem; display: flex; flex-direction: column; padding: .3rem; background: var(--bg); border: 1px solid var(--line); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,.18); }} .bar nav .lang .menu a {{ display: block !important; color: var(--ink); padding: .5rem .7rem; border-radius: 6px; font-size: .92rem; }} .bar nav .lang .menu a:hover {{ background: var(--line); color: var(--ink); }} .bar nav .lang .menu a[aria-current] {{ font-weight: 650; }} </style>
 </head>
 <body>
   <header class="top"><div class="wrap bar"><a class="brand" href="{back}"><img src="{icon}" width="32" height="32" alt="">Day</a><nav><a href="{back}">{t["home"]}</a>{langs}</nav></div></header>
