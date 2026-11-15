@@ -4,6 +4,30 @@ The same notes as a page, which Day's Settings → What's New opens: <https://en
 
 What changed in each version of Day, newest first. Day comes from the [App Store](https://apps.apple.com/app/day-calendar/id6822896434), which delivers updates itself, so there is no separate update feed; these are the notes from the store's "What's New", with what each version added on top of the one before.
 
+## 2.1.8 · iPhone and iPad
+
+- Ticking off a reminder whose time is still ahead now asks first, so a tap by mistake does not close it early.
+- A new Reminder Summary page in Settings.
+
+Fixes:
+
+- The reminder card is steadier: it no longer flickers.
+- The Day view stays on its page when you jump to Today, and the pagers keep their page when the window changes size.
+- iPad: views switch at once.
+
+## 2.1.8 · Mac
+
+- Everything in iPhone and iPad 2.1.8.
+- The next event is a bubble at the bottom of the window, with the Reminders button beside it. Both are sized to the window.
+- Zoom the whole window with ⌘+, ⌘- and ⌘0, from 80 % to 150 %.
+- A Done button in a reminder list's bar closes the Reminders sheet.
+
+Fixes:
+
+- Notifications fire on time after the Mac has slept: they now use a calendar date instead of a countdown that stops while the Mac sleeps.
+- Toolbar buttons are no longer bright discs in Dark Mode.
+- Views switch at once.
+
 ## 2.1.6 · iPhone and iPad
 
 - Habits: any repeating reminder can be a habit. Set a weekly goal (for example 4 times a week) and Day tracks the current streak, the longest streak, how many days you did it and missed, and in how many weeks you met the goal.

@@ -65,6 +65,13 @@ T = {
                month=[str(i) for i in range(1, 13)], fmt=lambda d, m: f"{d.year}年{d.month}月{d.day}日"),
 }
 
+# The chosen language is remembered on this device (localStorage "dayLang"): picking one in the switcher saves it, and a page
+# in another language sends you to the saved one. Links are relative, so it works on GitHub Pages and on aiity.de/day alike.
+SWITCH_JS = """(function(){var K='dayLang',s=document.getElementById('lang');if(!s)return;
+var cur=document.documentElement.lang,saved;try{saved=localStorage.getItem(K)}catch(e){}
+if(saved&&saved!==cur){for(var i=0;i<s.options.length;i++){if(s.options[i].dataset.lang===saved){location.replace(s.options[i].value+location.hash);return}}}
+s.addEventListener('change',function(){var o=s.options[s.selectedIndex];try{localStorage.setItem(K,o.dataset.lang)}catch(e){}location.href=o.value+location.hash});})();"""
+
 def items(lines):
     return "<ul>" + "".join(f"<li>{html.escape(x)}</li>" for x in lines) + "</ul>"
 
@@ -97,7 +104,11 @@ def build(lang):
         if fixes:
             body += f'<h3>{t["fixes"]}</h3>{items(fixes)}'
         out.append(f'    <article id="{r["id"]}">\n      <h2>{r["version"]} <span class="meta">{t["platform"][plat]}{date}</span></h2>\n      {body}\n    </article>')
-    langs = "".join(f'<a href="{href(lang, other)}" hreflang="{other}" lang="{other}">{T[other]["name"]}</a>' for other in T if other != lang)
+    options = "".join(f'<option value="{href(lang, other)}" lang="{other}" data-lang="{other}"{" selected" if other == lang else ""}>{T[other]["name"]}</option>' for other in T)
+    links = "".join(f'<a href="{href(lang, other)}" hreflang="{other}" lang="{other}">{T[other]["name"]}</a>' for other in T if other != lang)
+    langs = (f'<label class="lang"><span aria-hidden="true">🌐</span><span class="sr">Language</span>'
+             f'<select id="lang" aria-label="Language">{options}</select></label>'
+             f'<noscript><span class="langs-links">{links}</span></noscript>')
     alternates = "".join(f'\n  <link rel="alternate" hreflang="{other}" href="https://enrzh.github.io/Day/changelog/{T[other]["dir"] + "/" if T[other]["dir"] else ""}">' for other in T)
     page = f'''<!doctype html>
 <html lang="{lang}">
@@ -109,7 +120,7 @@ def build(lang):
   <meta name="color-scheme" content="light dark">
   <link rel="icon" href="{icon}">
   <link rel="stylesheet" href="{css}">{alternates}
-  <style>article {{ margin-top: 2rem; }} article h2 {{ font-size: 1.35rem; margin-bottom: .4rem; }} article h2 .meta {{ font-size: .9rem; font-weight: 400; color: var(--muted); }} article h3 {{ font-size: .95rem; color: var(--muted); margin: .9rem 0 .2rem; }} article ul {{ margin: 0; padding-left: 1.2rem; }} article li {{ margin-bottom: .35rem; }} .langs {{ display: flex; flex-wrap: wrap; gap: .3rem 1rem; margin: 0 0 1rem; font-size: .9rem; }}</style>
+  <style>article {{ margin-top: 2rem; }} article h2 {{ font-size: 1.35rem; margin-bottom: .4rem; }} article h2 .meta {{ font-size: .9rem; font-weight: 400; color: var(--muted); }} article h3 {{ font-size: .95rem; color: var(--muted); margin: .9rem 0 .2rem; }} article ul {{ margin: 0; padding-left: 1.2rem; }} article li {{ margin-bottom: .35rem; }} .langs {{ display: flex; flex-wrap: wrap; align-items: center; gap: .3rem 1rem; margin: 0 0 1rem; font-size: .9rem; }} .lang {{ display: inline-flex; align-items: center; gap: .45rem; }} .lang select {{ font: inherit; color: inherit; background: transparent; border: 1px solid var(--line); border-radius: 8px; padding: .35rem 1.6rem .35rem .6rem; min-height: 2.25rem; }} .lang select:focus-visible {{ outline: 2px solid currentColor; outline-offset: 2px; }} .sr {{ position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }} .langs-links {{ display: flex; flex-wrap: wrap; gap: .3rem 1rem; }}</style>
 </head>
 <body>
   <header class="top"><div class="wrap bar"><a class="brand" href="{back}"><img src="{icon}" width="32" height="32" alt="">Day</a><nav><a href="{back}">{t["home"]}</a></nav></div></header>
@@ -119,6 +130,7 @@ def build(lang):
     <nav class="langs" aria-label="Language">{langs}</nav>
 {chr(10).join(out)}
   </main>
+  <script>{SWITCH_JS}</script>
 </body>
 </html>
 '''

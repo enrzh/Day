@@ -18,14 +18,22 @@
   <link rel="alternate" hreflang="pt-BR" href="https://enrzh.github.io/Day/changelog/pt-BR/">
   <link rel="alternate" hreflang="zh-Hans" href="https://enrzh.github.io/Day/changelog/zh-Hans/">
   <link rel="alternate" hreflang="zh-Hant" href="https://enrzh.github.io/Day/changelog/zh-Hant/">
-  <style>article { margin-top: 2rem; } article h2 { font-size: 1.35rem; margin-bottom: .4rem; } article h2 .meta { font-size: .9rem; font-weight: 400; color: var(--muted); } article h3 { font-size: .95rem; color: var(--muted); margin: .9rem 0 .2rem; } article ul { margin: 0; padding-left: 1.2rem; } article li { margin-bottom: .35rem; } .langs { display: flex; flex-wrap: wrap; gap: .3rem 1rem; margin: 0 0 1rem; font-size: .9rem; }</style>
+  <style>article { margin-top: 2rem; } article h2 { font-size: 1.35rem; margin-bottom: .4rem; } article h2 .meta { font-size: .9rem; font-weight: 400; color: var(--muted); } article h3 { font-size: .95rem; color: var(--muted); margin: .9rem 0 .2rem; } article ul { margin: 0; padding-left: 1.2rem; } article li { margin-bottom: .35rem; } .langs { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem 1rem; margin: 0 0 1rem; font-size: .9rem; } .lang { display: inline-flex; align-items: center; gap: .45rem; } .lang select { font: inherit; color: inherit; background: transparent; border: 1px solid var(--line); border-radius: 8px; padding: .35rem 1.6rem .35rem .6rem; min-height: 2.25rem; } .lang select:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; } .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; } .langs-links { display: flex; flex-wrap: wrap; gap: .3rem 1rem; }</style>
 </head>
 <body>
   <header class="top"><div class="wrap bar"><a class="brand" href="../../"><img src="../../images/icon.png" width="32" height="32" alt="">Day</a><nav><a href="../../">首頁</a></nav></div></header>
   <main id="main" class="wrap doc">
     <h1>新功能</h1>
     <p class="meta">Day 各版本的更新內容，最新的在前。Day 來自 App Store，由 App Store 提供更新。</p>
-    <nav class="langs" aria-label="Language"><a href="../" hreflang="en" lang="en">English</a><a href="../de/" hreflang="de" lang="de">Deutsch</a><a href="../es/" hreflang="es" lang="es">Español</a><a href="../fr/" hreflang="fr" lang="fr">Français</a><a href="../it/" hreflang="it" lang="it">Italiano</a><a href="../ja/" hreflang="ja" lang="ja">日本語</a><a href="../ko/" hreflang="ko" lang="ko">한국어</a><a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português</a><a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a></nav>
+    <nav class="langs" aria-label="Language"><label class="lang"><span aria-hidden="true">🌐</span><span class="sr">Language</span><select id="lang" aria-label="Language"><option value="../" lang="en" data-lang="en">English</option><option value="../de/" lang="de" data-lang="de">Deutsch</option><option value="../es/" lang="es" data-lang="es">Español</option><option value="../fr/" lang="fr" data-lang="fr">Français</option><option value="../it/" lang="it" data-lang="it">Italiano</option><option value="../ja/" lang="ja" data-lang="ja">日本語</option><option value="../ko/" lang="ko" data-lang="ko">한국어</option><option value="../pt-BR/" lang="pt-BR" data-lang="pt-BR">Português</option><option value="../zh-Hans/" lang="zh-Hans" data-lang="zh-Hans">简体中文</option><option value="../zh-Hant/" lang="zh-Hant" data-lang="zh-Hant" selected>繁體中文</option></select></label><noscript><span class="langs-links"><a href="../" hreflang="en" lang="en">English</a><a href="../de/" hreflang="de" lang="de">Deutsch</a><a href="../es/" hreflang="es" lang="es">Español</a><a href="../fr/" hreflang="fr" lang="fr">Français</a><a href="../it/" hreflang="it" lang="it">Italiano</a><a href="../ja/" hreflang="ja" lang="ja">日本語</a><a href="../ko/" hreflang="ko" lang="ko">한국어</a><a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português</a><a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a></span></noscript></nav>
+    <article id="ios-2.1.8">
+      <h2>2.1.8 <span class="meta">iPhone 與 iPad</span></h2>
+      <h3>新功能</h3><ul><li>勾選尚未到時間的提醒事項前，現在會先詢問確認，避免誤觸而提前完成。</li><li>設定中新增「提醒事項摘要」頁面。</li></ul><h3>修正</h3><ul><li>提醒卡片更穩定，不再閃爍。</li><li>跳到今天時，日檢視會停留在正確的頁面；視窗大小改變時，分頁檢視也會停留在原來的頁面。</li><li>iPad：檢視即時切換。</li></ul>
+    </article>
+    <article id="mac-2.1.8">
+      <h2>2.1.8 <span class="meta">Mac</span></h2>
+      <h3>新功能</h3><ul><li>包含 iPhone 和 iPad 2.1.8 的全部內容。</li><li>下一個行程以氣泡形式顯示在視窗底部，旁邊是「提醒事項」按鈕，兩者都會隨視窗大小調整。</li><li>用 ⌘+、⌘- 和 ⌘0 縮放整個視窗，範圍 80 % 至 150 %。</li><li>提醒事項清單列中新增「完成」按鈕，可快速關閉提醒事項面板。</li></ul><h3>修正</h3><ul><li>Mac 睡眠後通知也會準時送達：現在使用行事曆日期，而不是睡眠時會停下的倒數計時。</li><li>深色模式下，工具列按鈕不再是明亮的圓盤。</li><li>檢視即時切換。</li></ul>
+    </article>
     <article id="ios-2.1.6">
       <h2>2.1.6 <span class="meta">iPhone 與 iPad</span></h2>
       <h3>新功能</h3><ul><li>習慣：任何重複的提醒事項都可以成為習慣。設定每週目標（例如每週 4 次），Day 會記錄目前的連續紀錄、最長的連續紀錄、你做到與沒做到的天數，以及達成目標的週數。</li><li>寬容的連續紀錄：你刻意略過的一天會被豁免。它既不算做到也不算錯過，因此不會中斷連續紀錄。</li><li>在一天結束時：為每個提醒事項選擇一天結束後 Day 的動作：保持未完成、標記為已完成，或（針對重複提醒事項）略過。Day 會以提醒事項原本到期的日期執行，在你打開 App 時以及 iOS 在午夜後允許的重新整理時執行。若某天結束時兩者都沒有執行，則在下一次處理。已處理的提醒事項被你重新標為未完成後，不會再被撤銷。規則儲存在此裝置上。</li><li>數值：在習慣卡片上依天記錄數量（8 公里、20 分鐘）並附單位，還能看到最近 30 天的折線。</li><li>每週習慣圖表（設定 &gt; 提醒事項 &gt; 習慣圖表，預設關閉）：以每週一根的長條圖取代重複提醒事項卡片上的 70 天方格，顯示完成了多少。連續紀錄、完成數與錯過數仍會顯示。</li><li>今天的習慣顯示在當天列表的最上方。</li><li>新的習慣小工具（小與中尺寸）：列出今天未完成的習慣，每項都有一個按鈕可勾選完成，與 App 中相同。</li><li>尋找空閒時間（行事曆選單，鍵盤上為 ⇧⌘F）：列出未來五天的空閒時段，8:00 到 20:00，今天從現在開始，時長從 15 分鐘到 2 小時。點一下空檔即可在其開頭新增活動。僅計入此裝置上的行事曆。</li><li>設定 &gt; 新功能現在會在 App 內開啟 Day 公開網站上的更新說明，新版本的說明無需更新 App 即可顯示。離線時顯示 App 內建的說明。不會傳送任何關於你的資訊；網站只會收到一次一般的網頁請求。</li><li>習慣與尋找空閒時間已翻譯為全部十種語言。</li></ul><h3>修正</h3><ul><li>接下來、提醒事項與邀請：從列表中選取的卡片現在會在前面開啟。在 Mac 上，它先前會隱藏在面板後面開啟。</li></ul>
@@ -51,5 +59,9 @@
       <h3>新功能</h3><ul><li>Mac：設定在獨立視窗中開啟，Day 會記住視窗大小與行事曆位置。</li><li>Mac：月檢視可容納更多活動文字，在活動旁顯示詳細資訊，並支援拖移活動與安排提醒事項。</li><li>提醒事項：可選擇列表順序以及哪些列表顯示為卡片，並自動加入列表表情符號。</li><li>設定：行事曆與提醒事項各有獨立頁面，權限在各處的顯示方式一致。</li><li>iPad：設定位於頂部列，⌘1–5 可切換檢視。</li></ul><h3>修正</h3><ul><li>對底部列、搜尋與「接下來」的小修正。</li></ul>
     </article>
   </main>
+  <script>(function(){var K='dayLang',s=document.getElementById('lang');if(!s)return;
+var cur=document.documentElement.lang,saved;try{saved=localStorage.getItem(K)}catch(e){}
+if(saved&&saved!==cur){for(var i=0;i<s.options.length;i++){if(s.options[i].dataset.lang===saved){location.replace(s.options[i].value+location.hash);return}}}
+s.addEventListener('change',function(){var o=s.options[s.selectedIndex];try{localStorage.setItem(K,o.dataset.lang)}catch(e){}location.href=o.value+location.hash});})();</script>
 </body>
 </html>
