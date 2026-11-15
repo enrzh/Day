@@ -1,6 +1,229 @@
 {
   "releases": [
     {
+      "id": "ios-2.1.8",
+      "version": "2.1.8",
+      "platforms": [
+        "ios",
+        "ipados"
+      ],
+      "features": {
+        "en": [
+          "Ticking off a reminder whose time is still ahead now asks first, so a tap by mistake does not close it early.",
+          "A new Reminder Summary page in Settings."
+        ],
+        "de": [
+          "Eine Erinnerung, deren Zeit noch bevorsteht, wird vor dem Abhaken erst nachgefragt, damit ein versehentliches Tippen sie nicht zu früh abschließt.",
+          "Neue Seite „Erinnerungen im Überblick“ in den Einstellungen."
+        ],
+        "es": [
+          "Marcar un recordatorio cuya hora aún no ha llegado ahora pide confirmación, para que un toque accidental no lo cierre antes de tiempo.",
+          "Nueva página de resumen de recordatorios en Ajustes."
+        ],
+        "fr": [
+          "Cocher un rappel dont l’heure n’est pas encore passée demande d’abord confirmation, pour qu’un toucher par erreur ne le clôture pas trop tôt.",
+          "Nouvelle page de résumé des rappels dans les réglages."
+        ],
+        "it": [
+          "Completare un promemoria la cui ora deve ancora arrivare ora chiede conferma, così un tocco involontario non lo chiude in anticipo.",
+          "Nuova pagina di riepilogo dei promemoria nelle Impostazioni."
+        ],
+        "ja": [
+          "時刻がまだ先のリマインダーを完了にする前に確認が表示され、うっかりタップしても早く完了してしまいません。",
+          "設定に「リマインダーのまとめ」ページを追加しました。"
+        ],
+        "ko": [
+          "시간이 아직 남은 미리 알림을 완료하기 전에 먼저 확인하므로, 실수로 탭해도 일찍 완료되지 않습니다.",
+          "설정에 미리 알림 요약 페이지가 추가되었습니다."
+        ],
+        "pt-BR": [
+          "Concluir um lembrete cujo horário ainda não chegou agora pede confirmação, para que um toque acidental não o conclua antes da hora.",
+          "Nova página de resumo de lembretes nos Ajustes."
+        ],
+        "zh-Hans": [
+          "勾选尚未到时间的提醒事项前，现在会先询问确认，避免误触而提前完成。",
+          "设置中新增“提醒事项摘要”页面。"
+        ],
+        "zh-Hant": [
+          "勾選尚未到時間的提醒事項前，現在會先詢問確認，避免誤觸而提前完成。",
+          "設定中新增「提醒事項摘要」頁面。"
+        ]
+      },
+      "fixes": {
+        "en": [
+          "The reminder card is steadier: it no longer flickers.",
+          "The Day view stays on its page when you jump to Today, and the pagers keep their page when the window changes size.",
+          "iPad: views switch at once."
+        ],
+        "de": [
+          "Die Erinnerungskarte ist ruhiger und flackert nicht mehr.",
+          "Die Tagesansicht bleibt beim Sprung zu Heute auf ihrer Seite, und die Seitenansichten behalten ihre Seite, wenn sich die Fenstergröße ändert.",
+          "iPad: Ansichten wechseln sofort."
+        ],
+        "es": [
+          "La tarjeta de recordatorio es más estable: ya no parpadea.",
+          "La vista del día se queda en su página al saltar a Hoy, y las vistas por páginas conservan su página al cambiar el tamaño de la ventana.",
+          "iPad: las vistas cambian al instante."
+        ],
+        "fr": [
+          "La carte de rappel est plus stable : elle ne clignote plus.",
+          "La vue Jour reste sur sa page en revenant à Aujourd’hui, et les vues paginées gardent leur page quand la fenêtre change de taille.",
+          "iPad : les vues changent instantanément."
+        ],
+        "it": [
+          "La scheda del promemoria è più stabile: non sfarfalla più.",
+          "La vista Giorno resta sulla sua pagina quando torni a Oggi, e le viste a pagine mantengono la pagina quando la finestra cambia dimensione.",
+          "iPad: le viste cambiano subito."
+        ],
+        "ja": [
+          "リマインダーのカードが安定し、ちらつかなくなりました。",
+          "「今日」へ移動しても日表示が正しいページに留まり、ウインドウのサイズが変わってもページ表示は同じページに留まります。",
+          "iPad: 表示の切り替えが即座に行われます。"
+        ],
+        "ko": [
+          "미리 알림 카드가 더 안정적으로 동작하며 더 이상 깜박이지 않습니다.",
+          "오늘로 이동해도 일간 보기가 올바른 페이지에 유지되고, 창 크기가 바뀌어도 페이지 보기가 같은 페이지에 유지됩니다.",
+          "iPad: 보기가 즉시 전환됩니다."
+        ],
+        "pt-BR": [
+          "O cartão de lembrete está mais estável: não pisca mais.",
+          "A vista do dia fica na própria página ao voltar para Hoje, e as vistas em páginas mantêm a página quando a janela muda de tamanho.",
+          "iPad: as vistas mudam na hora."
+        ],
+        "zh-Hans": [
+          "提醒卡片更稳定，不再闪烁。",
+          "跳转到今天时，日视图会停留在正确的页面；窗口大小改变时，分页视图也会停留在原来的页面。",
+          "iPad：视图即时切换。"
+        ],
+        "zh-Hant": [
+          "提醒卡片更穩定，不再閃爍。",
+          "跳到今天時，日檢視會停留在正確的頁面；視窗大小改變時，分頁檢視也會停留在原來的頁面。",
+          "iPad：檢視即時切換。"
+        ]
+      }
+    },
+    {
+      "id": "mac-2.1.8",
+      "version": "2.1.8",
+      "platforms": [
+        "mac"
+      ],
+      "features": {
+        "en": [
+          "Everything in iPhone and iPad 2.1.8.",
+          "The next event is a bubble at the bottom of the window, with the Reminders button beside it. Both are sized to the window.",
+          "Zoom the whole window with ⌘+, ⌘- and ⌘0, from 80 % to 150 %.",
+          "A Done button in a reminder list's bar closes the Reminders sheet."
+        ],
+        "de": [
+          "Alles aus iPhone und iPad 2.1.8.",
+          "Der nächste Termin steht als Blase unten im Fenster, daneben die Erinnerungen-Taste. Beide passen sich der Fenstergröße an.",
+          "Zoom für das ganze Fenster mit ⌘+, ⌘- und ⌘0, von 80 % bis 150 %.",
+          "Eine Fertig-Taste in der Leiste einer Erinnerungsliste schließt das Erinnerungen-Blatt."
+        ],
+        "es": [
+          "Todo lo de iPhone y iPad 2.1.8.",
+          "El próximo evento es una burbuja en la parte inferior de la ventana, con el botón Recordatorios al lado. Ambos se ajustan al tamaño de la ventana.",
+          "Zoom de toda la ventana con ⌘+, ⌘- y ⌘0, del 80 % al 150 %.",
+          "Un botón Hecho en la barra de una lista de recordatorios cierra la hoja de Recordatorios."
+        ],
+        "fr": [
+          "Tout ce qui est dans iPhone et iPad 2.1.8.",
+          "L’événement suivant est une bulle en bas de la fenêtre, avec le bouton Rappels à côté. Les deux s’adaptent à la taille de la fenêtre.",
+          "Zoom de toute la fenêtre avec ⌘+, ⌘- et ⌘0, de 80 % à 150 %.",
+          "Un bouton OK dans la barre d’une liste de rappels ferme la feuille Rappels."
+        ],
+        "it": [
+          "Tutto ciò che c’è in iPhone e iPad 2.1.8.",
+          "Il prossimo evento è una bolla in basso nella finestra, con il pulsante Promemoria accanto. Entrambi si adattano alla dimensione della finestra.",
+          "Zoom dell’intera finestra con ⌘+, ⌘- e ⌘0, dall’80 % al 150 %.",
+          "Un pulsante Fine nella barra di un elenco di promemoria chiude il foglio Promemoria."
+        ],
+        "ja": [
+          "iPhone と iPad 2.1.8 のすべての変更。",
+          "次の予定がウインドウ下部の吹き出しになり、その横にリマインダーボタンが並びます。どちらもウインドウの大きさに合わせて変わります。",
+          "⌘+、⌘-、⌘0 でウインドウ全体を 80 % から 150 % まで拡大・縮小できます。",
+          "リマインダーリストのバーに「完了」ボタンを追加し、リマインダーのシートをすばやく閉じられます。"
+        ],
+        "ko": [
+          "iPhone 및 iPad 2.1.8의 모든 내용.",
+          "다음 일정이 창 아래쪽의 말풍선으로 표시되고, 그 옆에 미리 알림 버튼이 놓입니다. 둘 다 창 크기에 맞춰집니다.",
+          "⌘+, ⌘-, ⌘0으로 창 전체를 80 %에서 150 %까지 확대·축소할 수 있습니다.",
+          "미리 알림 목록 막대의 완료 버튼으로 미리 알림 시트를 바로 닫을 수 있습니다."
+        ],
+        "pt-BR": [
+          "Tudo do iPhone e iPad 2.1.8.",
+          "O próximo evento aparece como um balão na parte de baixo da janela, com o botão Lembretes ao lado. Ambos se ajustam ao tamanho da janela.",
+          "Zoom da janela inteira com ⌘+, ⌘- e ⌘0, de 80 % a 150 %.",
+          "Um botão OK na barra de uma lista de lembretes fecha a folha de Lembretes."
+        ],
+        "zh-Hans": [
+          "包含 iPhone 和 iPad 2.1.8 的全部内容。",
+          "下一个日程以气泡形式显示在窗口底部，旁边是“提醒事项”按钮，两者都会随窗口大小调整。",
+          "用 ⌘+、⌘- 和 ⌘0 缩放整个窗口，范围 80 % 至 150 %。",
+          "提醒事项列表栏中新增“完成”按钮，可快速关闭提醒事项面板。"
+        ],
+        "zh-Hant": [
+          "包含 iPhone 和 iPad 2.1.8 的全部內容。",
+          "下一個行程以氣泡形式顯示在視窗底部，旁邊是「提醒事項」按鈕，兩者都會隨視窗大小調整。",
+          "用 ⌘+、⌘- 和 ⌘0 縮放整個視窗，範圍 80 % 至 150 %。",
+          "提醒事項清單列中新增「完成」按鈕，可快速關閉提醒事項面板。"
+        ]
+      },
+      "fixes": {
+        "en": [
+          "Notifications fire on time after the Mac has slept: they now use a calendar date instead of a countdown that stops while the Mac sleeps.",
+          "Toolbar buttons are no longer bright discs in Dark Mode.",
+          "Views switch at once."
+        ],
+        "de": [
+          "Mitteilungen kommen nach dem Ruhezustand des Mac pünktlich: Sie nutzen jetzt ein Kalenderdatum statt eines Countdowns, der im Ruhezustand stehen bleibt.",
+          "Die Symbolleistentasten sind im Dunkelmodus keine hellen Scheiben mehr.",
+          "Ansichten wechseln sofort."
+        ],
+        "es": [
+          "Las notificaciones llegan a tiempo después de que el Mac haya estado en reposo: ahora usan una fecha de calendario en lugar de una cuenta atrás que se detiene durante el reposo.",
+          "Los botones de la barra de herramientas ya no son discos brillantes en el modo oscuro.",
+          "Las vistas cambian al instante."
+        ],
+        "fr": [
+          "Les notifications arrivent à l’heure après la mise en veille du Mac : elles utilisent désormais une date de calendrier plutôt qu’un compte à rebours qui s’arrête pendant la veille.",
+          "Les boutons de la barre d’outils ne sont plus des disques éclatants en mode sombre.",
+          "Les vues changent instantanément."
+        ],
+        "it": [
+          "Le notifiche arrivano in orario dopo la sospensione del Mac: ora usano una data di calendario invece di un conto alla rovescia che si ferma durante la sospensione.",
+          "I pulsanti della barra degli strumenti non sono più dischi luminosi in modalità scura.",
+          "Le viste cambiano subito."
+        ],
+        "ja": [
+          "Mac がスリープした後でも通知が時間どおりに届きます。スリープ中に止まるカウントダウンではなく、カレンダーの日時を使うようになりました。",
+          "ダークモードで、ツールバーのボタンが明るい円盤状に表示されなくなりました。",
+          "表示の切り替えが即座に行われます。"
+        ],
+        "ko": [
+          "Mac이 잠자기 상태였다가 깨어나도 알림이 제때 옵니다. 잠자기 중 멈추는 카운트다운 대신 캘린더 날짜와 시간을 사용합니다.",
+          "다크 모드에서 도구 막대 버튼이 더 이상 밝은 원판으로 보이지 않습니다.",
+          "보기가 즉시 전환됩니다."
+        ],
+        "pt-BR": [
+          "As notificações chegam na hora depois que o Mac entra em repouso: agora usam uma data do calendário em vez de uma contagem regressiva que para durante o repouso.",
+          "Os botões da barra de ferramentas não são mais discos brilhantes no Modo Escuro.",
+          "As vistas mudam na hora."
+        ],
+        "zh-Hans": [
+          "Mac 睡眠后通知也会准时送达：现在使用日历日期，而不是睡眠时会停下的倒计时。",
+          "深色模式下，工具栏按钮不再是明亮的圆盘。",
+          "视图即时切换。"
+        ],
+        "zh-Hant": [
+          "Mac 睡眠後通知也會準時送達：現在使用行事曆日期，而不是睡眠時會停下的倒數計時。",
+          "深色模式下，工具列按鈕不再是明亮的圓盤。",
+          "檢視即時切換。"
+        ]
+      }
+    },
+    {
       "id": "ios-2.1.6",
       "version": "2.1.6",
       "platforms": [
