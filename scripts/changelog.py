@@ -120,14 +120,13 @@ def build(lang):
   <meta name="color-scheme" content="light dark">
   <link rel="icon" href="{icon}">
   <link rel="stylesheet" href="{css}">{alternates}
-  <style>article {{ margin-top: 2rem; }} article h2 {{ font-size: 1.35rem; margin-bottom: .4rem; }} article h2 .meta {{ font-size: .9rem; font-weight: 400; color: var(--muted); }} article h3 {{ font-size: .95rem; color: var(--muted); margin: .9rem 0 .2rem; }} article ul {{ margin: 0; padding-left: 1.2rem; }} article li {{ margin-bottom: .35rem; }} .langs {{ display: flex; flex-wrap: wrap; align-items: center; gap: .3rem 1rem; margin: 0 0 1rem; font-size: .9rem; }} .lang {{ display: inline-flex; align-items: center; gap: .45rem; }} .lang select {{ font: inherit; color: inherit; background: transparent; border: 1px solid var(--line); border-radius: 8px; padding: .35rem 1.6rem .35rem .6rem; min-height: 2.25rem; }} .lang select:focus-visible {{ outline: 2px solid currentColor; outline-offset: 2px; }} .sr {{ position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }} .langs-links {{ display: flex; flex-wrap: wrap; gap: .3rem 1rem; }}</style>
+  <style>article {{ margin-top: 2rem; }} article h2 {{ font-size: 1.35rem; margin-bottom: .4rem; }} article h2 .meta {{ font-size: .9rem; font-weight: 400; color: var(--muted); }} article h3 {{ font-size: .95rem; color: var(--muted); margin: .9rem 0 .2rem; }} article ul {{ margin: 0; padding-left: 1.2rem; }} article li {{ margin-bottom: .35rem; }} .langs {{ display: flex; flex-wrap: wrap; align-items: center; gap: .3rem 1rem; margin: 0 0 1rem; font-size: .9rem; }} .lang {{ display: inline-flex; align-items: center; gap: .45rem; }} .lang select {{ font: inherit; color: inherit; background: transparent; border: 1px solid var(--line); border-radius: 8px; padding: .3rem 1.4rem .3rem .5rem; min-height: 2rem; font-size: .88rem; }} .lang select:focus-visible {{ outline: 2px solid currentColor; outline-offset: 2px; }} .sr {{ position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }} .langs-links {{ display: flex; flex-wrap: wrap; gap: .3rem 1rem; }}</style>
 </head>
 <body>
-  <header class="top"><div class="wrap bar"><a class="brand" href="{back}"><img src="{icon}" width="32" height="32" alt="">Day</a><nav><a href="{back}">{t["home"]}</a></nav></div></header>
+  <header class="top"><div class="wrap bar"><a class="brand" href="{back}"><img src="{icon}" width="32" height="32" alt="">Day</a><nav><a href="{back}">{t["home"]}</a>{langs}</nav></div></header>
   <main id="main" class="wrap doc">
     <h1>{t["h1"]}</h1>
     <p class="meta">{t["meta"]}</p>
-    <nav class="langs" aria-label="Language">{langs}</nav>
 {chr(10).join(out)}
   </main>
   <script>{SWITCH_JS}</script>
