@@ -1,6 +1,208 @@
 {
   "releases": [
     {
+      "id": "ios-2.2.2",
+      "version": "2.2.2",
+      "platforms": [
+        "ios",
+        "ipados"
+      ],
+      "features": {
+        "en": [
+          "Dictate in any language: Day now understands speech on this device with an optional Qwen model, detects the language by itself and no longer drops words after a pause.",
+          "Reminder lists in the calendar: show a whole list as one element a day, with its progress; tap it to tick items off. Widgets and Apple Watch follow.",
+          "Search opens as a sheet with your recent searches.",
+          "The next event and search share one capsule at the bottom; New Event sits on the right.",
+          "New look for the Reminder Summary and the reminder card.",
+          "On-Device AI in Settings: choose the engines for Quick Add and dictation and manage the models.",
+          "A new welcome tour, and on iPad a page to see and change keyboard shortcuts.",
+          "Rename reminder lists, and add a list right from the editor.",
+          "Reminder lists are sorted by day: Overdue, Today, Tomorrow, then each date; reminders without a date come last.",
+          "What's New now opens inside the app."
+        ],
+        "de": [
+          "Diktieren in jeder Sprache: Day versteht Sprache jetzt auf dem Gerät mit einem optionalen Qwen-Modell, erkennt die Sprache selbst und verliert nach einer Pause keine Wörter mehr.",
+          "Erinnerungslisten im Kalender: Zeig eine ganze Liste als ein Element pro Tag mit Fortschritt; tippen zum Abhaken. Widgets und Apple Watch folgen.",
+          "Die Suche öffnet sich als Sheet mit deinen letzten Suchen.",
+          "Nächster Termin und Suche teilen sich unten eine Kapsel; Neuer Termin sitzt rechts.",
+          "Neues Aussehen für die Erinnerungs-Übersicht und die Erinnerungskarte.",
+          "KI auf dem Gerät in den Einstellungen: Engines für Quick Add und Diktieren wählen und Modelle verwalten.",
+          "Eine neue Willkommens-Tour und auf dem iPad eine Seite, um Tastenkürzel anzusehen und zu ändern.",
+          "Erinnerungslisten umbenennen und eine Liste direkt im Bearbeiten-Menü anlegen.",
+          "Erinnerungslisten sind nach Tagen sortiert: Überfällig, Heute, Morgen, dann jedes Datum; Erinnerungen ohne Datum stehen am Ende.",
+          "Neuigkeiten öffnen sich jetzt direkt in der App."
+        ],
+        "es": [
+          "Dicta en cualquier idioma: Day entiende la voz en el dispositivo con un modelo Qwen opcional, detecta el idioma solo y ya no pierde palabras tras una pausa.",
+          "Listas de recordatorios en el calendario: muestra una lista entera como un elemento al día con su progreso; tócala para marcar tareas. Widgets y Apple Watch también.",
+          "La búsqueda se abre en una hoja con tus búsquedas recientes.",
+          "El próximo evento y la búsqueda comparten una cápsula abajo; Nuevo evento está a la derecha.",
+          "Nuevo aspecto del resumen de recordatorios y de la tarjeta de recordatorio.",
+          "IA en el dispositivo en Ajustes: elige los motores de Añadido rápido y dictado y gestiona los modelos.",
+          "Un nuevo recorrido de bienvenida y, en iPad, una página para ver y cambiar los atajos de teclado.",
+          "Cambia el nombre de las listas y añade una lista desde el editor.",
+          "Las listas de recordatorios se ordenan por día: Vencidos, Hoy, Mañana y luego cada fecha; los que no tienen fecha van al final.",
+          "Novedades se abre dentro de la app."
+        ],
+        "fr": [
+          "Dictez dans n’importe quelle langue : Day comprend la voix sur l’appareil avec un modèle Qwen facultatif, détecte la langue seul et ne perd plus de mots après une pause.",
+          "Listes de rappels dans le calendrier : affichez une liste entière comme un seul élément par jour avec sa progression ; touchez-la pour cocher. Widgets et Apple Watch suivent.",
+          "La recherche s’ouvre dans une feuille avec vos recherches récentes.",
+          "Le prochain événement et la recherche partagent une capsule en bas ; Nouvel événement est à droite.",
+          "Nouveau look pour le résumé des rappels et la carte de rappel.",
+          "IA sur l’appareil dans Réglages : choisissez les moteurs de l’ajout rapide et de la dictée et gérez les modèles.",
+          "Une nouvelle visite d’accueil et, sur iPad, une page pour voir et modifier les raccourcis clavier.",
+          "Renommez les listes de rappels et ajoutez une liste depuis l’éditeur.",
+          "Les listes de rappels sont triées par jour : En retard, Aujourd’hui, Demain, puis chaque date ; les rappels sans date viennent en dernier.",
+          "Nouveautés s’ouvre dans l’app."
+        ],
+        "it": [
+          "Detta in qualsiasi lingua: Day capisce la voce sul dispositivo con un modello Qwen facoltativo, riconosce la lingua da solo e non perde più parole dopo una pausa.",
+          "Elenchi di promemoria nel calendario: mostra un elenco intero come un solo elemento al giorno con i progressi; toccalo per spuntare. Widget e Apple Watch seguono.",
+          "La ricerca si apre in un foglio con le ricerche recenti.",
+          "Il prossimo evento e la ricerca condividono una capsula in basso; Nuovo evento è a destra.",
+          "Nuovo aspetto per il riepilogo e la scheda dei promemoria.",
+          "IA sul dispositivo in Impostazioni: scegli i motori per Aggiunta rapida e dettatura e gestisci i modelli.",
+          "Un nuovo tour di benvenuto e, su iPad, una pagina per vedere e cambiare le scorciatoie da tastiera.",
+          "Rinomina gli elenchi e aggiungine uno direttamente dall’editor.",
+          "Gli elenchi di promemoria sono ordinati per giorno: Scaduti, Oggi, Domani e poi ogni data; quelli senza data vengono per ultimi.",
+          "Novità si apre nell’app."
+        ],
+        "ja": [
+          "どの言語でも音声入力：オプションの Qwen モデルでデバイス上で音声を理解し、言語を自動判別。間を置いても言葉が消えなくなりました。",
+          "カレンダーにリマインダーリスト：リスト全体を1日1つの項目として進捗付きで表示。タップしてチェックできます。ウィジェットと Apple Watch も対応。",
+          "検索は最近の検索履歴付きのシートで開きます。",
+          "次の予定と検索が下部の1つのカプセルに。新規イベントは右側です。",
+          "リマインダーのまとめとリマインダーカードのデザインを一新。",
+          "設定の「デバイス上のAI」：クイック追加と音声入力のエンジンを選び、モデルを管理できます。",
+          "新しいウェルカムツアー。iPad ではキーボードショートカットを確認・変更するページ。",
+          "リマインダーリストの名前変更と、編集画面からのリスト追加。",
+          "リマインダーリストを日付順に表示：期限切れ、今日、明日、以降の日付ごと。日付のないものは最後に。",
+          "新機能はアプリ内で開きます。"
+        ],
+        "ko": [
+          "어떤 언어로든 받아쓰기: 선택형 Qwen 모델로 기기에서 음성을 이해하고 언어를 자동 감지하며, 잠시 멈춰도 단어가 사라지지 않습니다.",
+          "캘린더 속 미리 알림 목록: 목록 전체를 하루 하나의 항목으로 진행 상황과 함께 표시하고, 탭해서 완료할 수 있습니다. 위젯과 Apple Watch도 지원합니다.",
+          "검색이 최근 검색이 있는 시트로 열립니다.",
+          "다음 일정과 검색이 아래쪽 하나의 캡슐에 있고, 새 이벤트는 오른쪽에 있습니다.",
+          "미리 알림 요약과 미리 알림 카드의 새로운 디자인.",
+          "설정의 기기 내 AI: 빠른 추가와 받아쓰기 엔진을 고르고 모델을 관리합니다.",
+          "새로운 환영 투어와 iPad의 키보드 단축키 보기·변경 페이지.",
+          "미리 알림 목록 이름 변경, 편집 화면에서 바로 목록 추가.",
+          "미리 알림 목록을 날짜별로 정렬: 지연됨, 오늘, 내일, 이후 날짜별로, 날짜 없는 항목은 맨 아래.",
+          "새로운 기능이 앱 안에서 열립니다."
+        ],
+        "pt-BR": [
+          "Dite em qualquer idioma: o Day entende a voz no dispositivo com um modelo Qwen opcional, detecta o idioma sozinho e não perde mais palavras após uma pausa.",
+          "Listas de lembretes no calendário: mostre uma lista inteira como um item por dia com o progresso; toque para concluir. Widgets e Apple Watch acompanham.",
+          "A busca abre em uma folha com suas buscas recentes.",
+          "O próximo evento e a busca dividem uma cápsula embaixo; Novo evento fica à direita.",
+          "Novo visual para o resumo e o cartão de lembretes.",
+          "IA no dispositivo em Ajustes: escolha os mecanismos de Adição rápida e ditado e gerencie os modelos.",
+          "Um novo tour de boas-vindas e, no iPad, uma página para ver e mudar os atalhos de teclado.",
+          "Renomeie listas de lembretes e crie uma lista direto no editor.",
+          "As listas de lembretes são organizadas por dia: Atrasados, Hoje, Amanhã e depois cada data; os sem data ficam no fim.",
+          "Novidades abre dentro do app."
+        ],
+        "zh-Hans": [
+          "任意语言听写：Day 借助可选的 Qwen 模型在设备上理解语音，自动识别语言，停顿后不再丢字。",
+          "日历中的提醒事项列表：将整个列表每天显示为一个带进度的项目，轻点即可勾选。小组件和 Apple Watch 同步支持。",
+          "搜索以表单打开，并显示最近搜索。",
+          "下一个日程和搜索合并在底部的一个胶囊中，新建日程在右侧。",
+          "提醒事项概览和提醒事项卡片焕然一新。",
+          "设置中的“设备上的 AI”：为快速添加和听写选择引擎并管理模型。",
+          "全新的欢迎导览；在 iPad 上可查看和修改键盘快捷键。",
+          "可重命名提醒事项列表，并在编辑界面中直接新建列表。",
+          "提醒事项列表按日期分组：已过期、今天、明天，然后按日期排列；没有日期的放在最后。",
+          "“新功能”直接在 App 内打开。"
+        ],
+        "zh-Hant": [
+          "任何語言聽寫：Day 透過可選的 Qwen 模型在裝置上理解語音，自動辨識語言，停頓後不再漏字。",
+          "行事曆中的提醒事項列表：將整個列表每天顯示為一個含進度的項目，點一下即可勾選。小工具與 Apple Watch 同步支援。",
+          "搜尋以表單開啟，並顯示最近搜尋。",
+          "下一個行程與搜尋合併在底部的一個膠囊中，新增行程在右側。",
+          "提醒事項概覽與提醒事項卡片全新設計。",
+          "設定中的「裝置上的 AI」：為快速新增與聽寫選擇引擎並管理模型。",
+          "全新的歡迎導覽；在 iPad 上可檢視與修改鍵盤快速鍵。",
+          "可重新命名提醒事項列表，並在編輯畫面中直接新增列表。",
+          "提醒事項列表依日期分組：已過期、今天、明天，然後依日期排列；沒有日期的放在最後。",
+          "「新功能」直接在 App 內開啟。"
+        ]
+      },
+      "fixes": {
+        "en": [
+          "No more freeze with the keyboard up.",
+          "The month's day list scrolls fully.",
+          "Today and Reminders stay put when a sheet opens.",
+          "The now line in the month no longer sits under the habits.",
+          "List order and the habit graph sync through iCloud."
+        ],
+        "de": [
+          "Kein Hängen mehr bei offener Tastatur.",
+          "Die Tagesliste im Monat scrollt ganz.",
+          "Heute und Erinnerungen bleiben beim Öffnen eines Sheets an ihrem Platz.",
+          "Die Jetzt-Linie im Monat steht nicht mehr unter den Gewohnheiten.",
+          "Listen-Reihenfolge und Gewohnheitsgraph synchronisieren über iCloud."
+        ],
+        "es": [
+          "Ya no se bloquea con el teclado abierto.",
+          "La lista del día del mes se desplaza entera.",
+          "Hoy y Recordatorios no se mueven al abrir una hoja.",
+          "La línea de la hora actual en el mes ya no aparece bajo los hábitos.",
+          "El orden de listas y el gráfico de hábitos se sincronizan con iCloud."
+        ],
+        "fr": [
+          "Plus de blocage clavier ouvert.",
+          "La liste du jour du mois défile entièrement.",
+          "Aujourd’hui et Rappels restent en place à l’ouverture d’une feuille.",
+          "La ligne de l’heure actuelle dans le mois n’apparaît plus sous les habitudes.",
+          "L’ordre des listes et le graphique des habitudes se synchronisent via iCloud."
+        ],
+        "it": [
+          "Niente più blocchi con la tastiera aperta.",
+          "L’elenco del giorno nel mese scorre fino in fondo.",
+          "Oggi e Promemoria restano al loro posto quando si apre un foglio.",
+          "La linea dell’ora attuale nel mese non compare più sotto le abitudini.",
+          "Ordine degli elenchi e grafico delle abitudini si sincronizzano con iCloud."
+        ],
+        "ja": [
+          "キーボード表示中のフリーズを解消。",
+          "月表示の日リストが最後までスクロール。",
+          "シートを開いても「今日」とリマインダーのボタンが動かない。",
+          "リストの順序と習慣グラフが iCloud で同期。",
+          "月表示の現在時刻の線が習慣の下に表示されなくなりました。"
+        ],
+        "ko": [
+          "키보드가 열린 상태의 멈춤 해결.",
+          "월 보기의 날짜 목록이 끝까지 스크롤.",
+          "시트를 열어도 오늘·미리 알림 버튼이 제자리에 머묾.",
+          "목록 순서와 습관 그래프가 iCloud로 동기화.",
+          "월 보기의 현재 시각 선이 더 이상 습관 아래에 표시되지 않음."
+        ],
+        "pt-BR": [
+          "Sem travamentos com o teclado aberto.",
+          "A lista do dia no mês rola até o fim.",
+          "Hoje e Lembretes ficam no lugar ao abrir uma folha.",
+          "A linha da hora atual no mês não aparece mais sob os hábitos.",
+          "A ordem das listas e o gráfico de hábitos sincronizam pelo iCloud."
+        ],
+        "zh-Hans": [
+          "键盘弹出时不再卡住。",
+          "月视图的日程列表可完整滚动。",
+          "打开表单时“今天”和提醒事项按钮保持不动。",
+          "列表顺序和习惯图表通过 iCloud 同步。",
+          "月视图中的当前时间线不再出现在习惯下方。"
+        ],
+        "zh-Hant": [
+          "鍵盤開啟時不再卡住。",
+          "月檢視的日程列表可完整捲動。",
+          "開啟表單時「今天」與提醒事項按鈕保持不動。",
+          "列表順序與習慣圖表透過 iCloud 同步。",
+          "月檢視中的目前時間線不再出現在習慣下方。"
+        ]
+      }
+    },
+    {
       "id": "ios-2.2.1",
       "version": "2.2.1",
       "platforms": [
