@@ -9,106 +9,156 @@
       ],
       "features": {
         "en": [
-          "iPhone Duo: Day now uses the whole unfolded screen. Next to the fold, Today, search, Reminders and New Event sit in a column; the month shows its agenda at the right.",
-          "One fixed bottom bar on iPhone and small iPad windows: views, next event, search. New Event sits at the bottom right, next to search.",
-          "Search opens from its button into a field above the keyboard.",
-          "iPad: the view switcher sits right next to the title.",
-          "Up Next widget: a reminder with a time shows as a big card, like an event."
+          "iPhone Duo: Day uses the whole unfolded screen. Up Next and New Event sit at the bottom, and the month shows the day's events in a column on the right.",
+          "iPhone Duo with the system strip beside it: Day's buttons move into the strip (search, views, New Event, Today, Reminders and the month's (i)). The strip follows light and dark mode, and the next event spans the area beside it.",
+          "One fixed bottom bar on iPhone and in small iPad windows: views, the next event and search, with New Event at the bottom right next to search. The options to move the bar's buttons are gone.",
+          "Search opens from its button into a field above the keyboard, with a round button to close it. On iPad, search sits in the top bar.",
+          "iPad: the view switcher sits right after the title, Reminders has its own button in the top bar, and the header no longer has a Settings button.",
+          "Reminder Summary: an activity graph of the last weeks, the share done on time as a ring, a chart by list and a short note about your week.",
+          "What's New follows the app's language, and a language picked there is kept.",
+          "Up Next widget: a reminder with a time that comes first shows as the big card, like an event."
         ],
         "de": [
-          "iPhone Duo: Day nutzt jetzt den ganzen aufgeklappten Bildschirm. Neben dem Falz sitzen Heute, Suche, Erinnerungen und Neuer Termin in einer Spalte; der Monat zeigt seine Termine rechts.",
-          "Eine feste untere Leiste auf dem iPhone und in kleinen iPad-Fenstern: Ansichten, nächster Termin, Suche. Neuer Termin sitzt unten rechts neben der Suche.",
-          "Die Suche öffnet sich aus ihrem Button in ein Feld über der Tastatur.",
-          "iPad: Die Ansichtswahl steht direkt neben dem Titel.",
-          "Up-Next-Widget: Eine Erinnerung mit Uhrzeit erscheint als große Karte, wie ein Termin."
+          "iPhone Duo: Day nutzt den ganzen aufgeklappten Bildschirm. Nächster Termin und Neuer Termin sitzen unten, und der Monat zeigt die Termine des Tages in einer Spalte rechts.",
+          "iPhone Duo mit der Systemleiste daneben: Days Knöpfe wandern in die Leiste (Suche, Ansichten, Neuer Termin, Heute, Erinnerungen und das (i) des Monats). Die Leiste folgt hellem und dunklem Modus, und der nächste Termin nutzt die Fläche daneben.",
+          "Eine feste untere Leiste auf dem iPhone und in kleinen iPad-Fenstern: Ansichten, nächster Termin und Suche, Neuer Termin unten rechts neben der Suche. Die Optionen zum Verschieben der Knöpfe entfallen.",
+          "Die Suche öffnet sich aus ihrem Knopf in ein Feld über der Tastatur, mit einem runden Knopf zum Schließen. Auf dem iPad sitzt die Suche in der oberen Leiste.",
+          "iPad: Die Ansichtswahl steht direkt nach dem Titel, Erinnerungen haben einen eigenen Knopf in der oberen Leiste, und der Einstellungen-Knopf im Kopf entfällt.",
+          "Erinnerungen im Überblick: ein Aktivitätsgraph der letzten Wochen, der pünktlich erledigte Anteil als Ring, ein Diagramm nach Liste und eine kurze Notiz zu deiner Woche.",
+          "Neuigkeiten folgen der Sprache der App, und eine dort gewählte Sprache bleibt erhalten.",
+          "Up-Next-Widget: Eine Erinnerung mit Uhrzeit, die als Nächstes kommt, erscheint als große Karte, wie ein Termin."
         ],
         "es": [
-          "iPhone Duo: Day usa ahora toda la pantalla desplegada. Junto al pliegue, Hoy, buscar, Recordatorios y Nuevo evento van en una columna; el mes muestra su agenda a la derecha.",
-          "Una barra inferior fija en iPhone y en ventanas pequeñas de iPad: vistas, próximo evento, búsqueda. Nuevo evento está abajo a la derecha, junto a la búsqueda.",
-          "La búsqueda se abre desde su botón en un campo sobre el teclado.",
-          "iPad: el selector de vistas está junto al título.",
-          "Widget Próximo: un recordatorio con hora aparece como tarjeta grande, como un evento."
+          "iPhone Duo: Day usa toda la pantalla desplegada. Próximo y Nuevo evento quedan abajo, y el mes muestra los eventos del día en una columna a la derecha.",
+          "iPhone Duo con la franja del sistema al lado: los botones de Day pasan a la franja (búsqueda, vistas, Nuevo evento, Hoy, Recordatorios y la (i) del mes). La franja sigue el modo claro y oscuro, y el próximo evento ocupa el área de al lado.",
+          "Una barra inferior fija en iPhone y en ventanas pequeñas de iPad: vistas, el próximo evento y búsqueda, con Nuevo evento abajo a la derecha junto a la búsqueda. Desaparecen las opciones para mover sus botones.",
+          "La búsqueda se abre desde su botón en un campo sobre el teclado, con un botón redondo para cerrarla. En iPad, la búsqueda está en la barra superior.",
+          "iPad: el selector de vista va justo después del título, Recordatorios tiene su propio botón en la barra superior y la cabecera ya no tiene botón de Ajustes.",
+          "Resumen de recordatorios: un gráfico de actividad de las últimas semanas, la parte hecha a tiempo como un anillo, un gráfico por lista y una nota breve sobre tu semana.",
+          "Novedades sigue el idioma de la app, y se conserva el idioma que elijas allí.",
+          "Widget Próximo: un recordatorio con hora que va primero se muestra como la tarjeta grande, igual que un evento."
         ],
         "fr": [
-          "iPhone Duo : Day utilise désormais tout l'écran déplié. À côté du pli, Aujourd'hui, recherche, Rappels et Nouvel événement forment une colonne ; le mois affiche son agenda à droite.",
-          "Une barre inférieure fixe sur iPhone et dans les petites fenêtres iPad : vues, prochain événement, recherche. Nouvel événement est en bas à droite, à côté de la recherche.",
-          "La recherche s'ouvre depuis son bouton dans un champ au-dessus du clavier.",
-          "iPad : le sélecteur de vues se place à côté du titre.",
-          "Widget À suivre : un rappel avec une heure s'affiche en grande carte, comme un événement."
+          "iPhone Duo : Day utilise tout l’écran déplié. Prochain et Nouvel événement sont en bas, et le mois affiche les événements du jour dans une colonne à droite.",
+          "iPhone Duo avec la bande système à côté : les boutons de Day passent dans la bande (recherche, vues, Nouvel événement, Aujourd’hui, Rappels et le (i) du mois). La bande suit le mode clair et sombre, et le prochain événement occupe la zone à côté.",
+          "Une barre inférieure fixe sur iPhone et dans les petites fenêtres iPad : vues, prochain événement et recherche, avec Nouvel événement en bas à droite à côté de la recherche. Les options pour déplacer ses boutons disparaissent.",
+          "La recherche s’ouvre depuis son bouton dans un champ au-dessus du clavier, avec un bouton rond pour la fermer. Sur iPad, la recherche est dans la barre du haut.",
+          "iPad : le sélecteur de vue suit directement le titre, Rappels a son propre bouton dans la barre du haut, et l’en-tête n’a plus de bouton Réglages.",
+          "Résumé des rappels : un graphique d’activité des dernières semaines, la part faite à temps sous forme d’anneau, un graphique par liste et une courte note sur votre semaine.",
+          "Nouveautés suit la langue de l’app, et une langue choisie là est conservée.",
+          "Widget À venir : un rappel avec heure qui arrive en premier s’affiche en grande carte, comme un événement."
         ],
         "it": [
-          "iPhone Duo: Day usa ora tutto lo schermo aperto. Accanto alla piega, Oggi, cerca, Promemoria e Nuovo evento stanno in una colonna; il mese mostra l'agenda a destra.",
-          "Una barra inferiore fissa su iPhone e nelle finestre piccole di iPad: viste, prossimo evento, ricerca. Nuovo evento è in basso a destra, accanto alla ricerca.",
-          "La ricerca si apre dal suo pulsante in un campo sopra la tastiera.",
-          "iPad: il selettore delle viste è accanto al titolo.",
-          "Widget Prossimo: un promemoria con orario appare come scheda grande, come un evento."
+          "iPhone Duo: Day usa tutto lo schermo aperto. Prossimo e Nuovo evento stanno in basso, e il mese mostra gli eventi del giorno in una colonna a destra.",
+          "iPhone Duo con la barra di sistema accanto: i pulsanti di Day passano nella barra (ricerca, viste, Nuovo evento, Oggi, Promemoria e la (i) del mese). La barra segue la modalità chiara e scura, e il prossimo evento occupa l’area accanto.",
+          "Una barra inferiore fissa su iPhone e nelle finestre piccole di iPad: viste, prossimo evento e ricerca, con Nuovo evento in basso a destra accanto alla ricerca. Le opzioni per spostare i pulsanti non ci sono più.",
+          "La ricerca si apre dal suo pulsante in un campo sopra la tastiera, con un pulsante rotondo per chiuderla. Su iPad la ricerca è nella barra in alto.",
+          "iPad: il selettore delle viste segue subito il titolo, Promemoria ha il suo pulsante nella barra in alto e l’intestazione non ha più il pulsante Impostazioni.",
+          "Riepilogo promemoria: un grafico di attività delle ultime settimane, la quota completata in tempo come anello, un grafico per elenco e una breve nota sulla tua settimana.",
+          "Novità segue la lingua dell’app, e una lingua scelta lì resta impostata.",
+          "Widget Prossimo: un promemoria con orario che viene per primo appare come scheda grande, come un evento."
         ],
         "ja": [
-          "iPhone Duo：開いた画面全体を使えるようになりました。折り目の横に「今日」「検索」「リマインダー」「新規イベント」を縦に並べ、月表示では右側に予定を表示します。",
-          "iPhoneとiPadの小さなウインドウで下部バーを固定：表示切替、次の予定、検索。「新規イベント」は右下、検索の隣にあります。",
-          "検索はボタンからキーボード上の入力欄に開きます。",
-          "iPad：表示切替をタイトルのすぐ隣に配置しました。",
-          "「次の予定」ウィジェット：時刻付きのリマインダーを、予定と同じ大きなカードで表示します。"
+          "iPhone Duo：開いた画面全体を使います。次の予定と新規イベントは下に、月表示では日の予定が右の列に表示されます。",
+          "システムストリップのある iPhone Duo：Day のボタン（検索、表示、新規イベント、今日、リマインダー、月の (i)）がストリップに移ります。ストリップはライト／ダークモードに合わせ、次の予定はその横の領域に広がります。",
+          "iPhone と iPad の小さなウインドウで下部バーを固定：表示切替、次の予定、検索。新規イベントは右下の検索の隣です。ボタンを移動する設定はなくなりました。",
+          "検索はボタンからキーボードの上の入力欄に開き、丸いボタンで閉じます。iPad では検索が上部バーにあります。",
+          "iPad：表示切替はタイトルのすぐ後ろに、リマインダーは上部バーに専用ボタンがあり、ヘッダーの設定ボタンはなくなりました。",
+          "リマインダーのまとめ：最近数週間のアクティビティグラフ、期限内に完了した割合のリング、リスト別のグラフ、1週間についての短いメモ。",
+          "「新機能」はアプリの言語に合わせ、そこで選んだ言語は保持されます。",
+          "次の予定ウィジェット：時刻付きのリマインダーが最初に来るときは、イベントと同じく大きなカードで表示されます。"
         ],
         "ko": [
-          "iPhone Duo: 펼친 화면 전체를 사용합니다. 접힌 부분 옆에 오늘, 검색, 미리 알림, 새 이벤트가 한 열로 놓이고, 월 보기는 오른쪽에 일정을 보여 줍니다.",
-          "iPhone과 작은 iPad 창에서 하단 막대를 고정: 보기, 다음 일정, 검색. 새 이벤트는 오른쪽 아래, 검색 옆에 있습니다.",
-          "검색은 버튼에서 키보드 위 입력란으로 열립니다.",
-          "iPad: 보기 전환이 제목 바로 옆에 있습니다.",
-          "다음 일정 위젯: 시간이 있는 미리 알림을 일정처럼 큰 카드로 보여 줍니다."
+          "iPhone Duo: Day가 펼친 화면 전체를 사용합니다. 다음 일정과 새 이벤트는 아래에, 월 보기는 그날의 일정을 오른쪽 열에 보여 줍니다.",
+          "시스템 스트립이 옆에 있는 iPhone Duo: Day의 버튼(검색, 보기, 새 이벤트, 오늘, 미리 알림, 월의 (i))이 스트립으로 옮겨집니다. 스트립은 라이트·다크 모드를 따르고, 다음 일정은 그 옆 영역에 펼쳐집니다.",
+          "iPhone과 작은 iPad 창에서 하단 막대 고정: 보기, 다음 일정, 검색. 새 이벤트는 오른쪽 아래 검색 옆에 있습니다. 버튼을 옮기는 설정은 없어졌습니다.",
+          "검색은 버튼에서 키보드 위의 입력란으로 열리고, 둥근 버튼으로 닫습니다. iPad에서는 검색이 위쪽 막대에 있습니다.",
+          "iPad: 보기 선택이 제목 바로 뒤에 있고, 미리 알림은 위쪽 막대에 전용 버튼이 있으며, 머리글의 설정 버튼은 없어졌습니다.",
+          "미리 알림 요약: 최근 몇 주의 활동 그래프, 제시간에 완료한 비율 링, 목록별 차트, 한 주에 대한 짧은 메모.",
+          "새로운 기능은 앱 언어를 따르며, 그곳에서 고른 언어는 유지됩니다.",
+          "다음 일정 위젯: 시간이 있는 미리 알림이 가장 먼저 오면 이벤트처럼 큰 카드로 표시됩니다."
         ],
         "pt-BR": [
-          "iPhone Duo: o Day agora usa toda a tela aberta. Ao lado da dobra, Hoje, buscar, Lembretes e Novo evento ficam em uma coluna; o mês mostra a agenda à direita.",
-          "Uma barra inferior fixa no iPhone e em janelas pequenas do iPad: visualizações, próximo evento, busca. Novo evento fica no canto inferior direito, ao lado da busca.",
-          "A busca abre a partir do botão em um campo acima do teclado.",
-          "iPad: o seletor de visualizações fica ao lado do título.",
-          "Widget Próximo: um lembrete com horário aparece como cartão grande, como um evento."
+          "iPhone Duo: o Day usa a tela aberta inteira. Próximo e Novo evento ficam embaixo, e o mês mostra os eventos do dia em uma coluna à direita.",
+          "iPhone Duo com a faixa do sistema ao lado: os botões do Day vão para a faixa (busca, visualizações, Novo evento, Hoje, Lembretes e o (i) do mês). A faixa segue o modo claro e escuro, e o próximo evento ocupa a área ao lado.",
+          "Uma barra inferior fixa no iPhone e em janelas pequenas do iPad: visualizações, o próximo evento e busca, com Novo evento no canto inferior direito ao lado da busca. As opções para mover os botões saíram.",
+          "A busca abre a partir do seu botão em um campo acima do teclado, com um botão redondo para fechar. No iPad, a busca fica na barra superior.",
+          "iPad: o seletor de visualização vem logo após o título, Lembretes tem seu próprio botão na barra superior e o cabeçalho não tem mais o botão Ajustes.",
+          "Resumo de lembretes: um gráfico de atividade das últimas semanas, a parte feita no prazo como anel, um gráfico por lista e uma nota curta sobre a sua semana.",
+          "Novidades segue o idioma do app, e um idioma escolhido ali é mantido.",
+          "Widget Próximo: um lembrete com horário que vem primeiro aparece como o cartão grande, como um evento."
         ],
         "zh-Hans": [
-          "iPhone Duo：现在可使用展开后的整个屏幕。折痕旁以一列显示“今天”、搜索、提醒事项和新建日程；月视图在右侧显示日程。",
-          "iPhone 和 iPad 小窗口使用固定底栏：视图、下一个日程、搜索。新建日程位于右下角，搜索旁边。",
-          "搜索从按钮展开为键盘上方的输入框。",
-          "iPad：视图切换位于标题旁边。",
-          "“下一个”小组件：带时间的提醒事项以大卡片显示，与日程一样。"
+          "iPhone Duo：Day 使用展开后的整个屏幕。下一个日程和新建日程位于底部，月视图在右侧一栏显示当天日程。",
+          "旁边带系统侧栏的 iPhone Duo：Day 的按钮（搜索、视图、新建日程、今天、提醒事项和月视图的 (i)）移到侧栏中。侧栏跟随浅色和深色模式，下一个日程占据旁边的区域。",
+          "iPhone 和 iPad 小窗口使用固定底栏：视图、下一个日程和搜索，新建日程位于右下角搜索旁边。移动按钮的选项已移除。",
+          "搜索从按钮展开为键盘上方的输入框，用圆形按钮关闭。在 iPad 上，搜索位于顶部栏。",
+          "iPad：视图切换紧跟标题，提醒事项在顶部栏有自己的按钮，标题栏不再有设置按钮。",
+          "提醒事项概览：最近几周的活动图、按时完成比例的圆环、按列表的图表，以及一段关于你这一周的简短说明。",
+          "“新功能”跟随 App 语言，在那里选择的语言会被保留。",
+          "下一个日程小组件：带时间的提醒事项排在最前时，会像日程一样显示为大卡片。"
         ],
         "zh-Hant": [
-          "iPhone Duo：現在可使用展開後的整個螢幕。摺痕旁以一列顯示「今天」、搜尋、提醒事項和新增行程；月檢視在右側顯示行程。",
-          "iPhone 和 iPad 小視窗使用固定底部列：檢視、下一個行程、搜尋。新增行程位於右下角，搜尋旁邊。",
-          "搜尋從按鈕展開為鍵盤上方的輸入欄。",
-          "iPad：檢視切換位於標題旁邊。",
-          "「下一個」小工具：有時間的提醒事項以大卡片顯示，與行程一樣。"
+          "iPhone Duo：Day 使用展開後的整個螢幕。下一個行程和新增行程位於底部，月檢視在右側一欄顯示當天行程。",
+          "旁邊有系統側欄的 iPhone Duo：Day 的按鈕（搜尋、檢視、新增行程、今天、提醒事項和月檢視的 (i)）移到側欄中。側欄跟隨淺色和深色模式，下一個行程佔據旁邊的區域。",
+          "iPhone 和 iPad 小視窗使用固定底部列：檢視、下一個行程和搜尋，新增行程位於右下角搜尋旁邊。移動按鈕的選項已移除。",
+          "搜尋從按鈕展開為鍵盤上方的輸入欄，用圓形按鈕關閉。在 iPad 上，搜尋位於頂部列。",
+          "iPad：檢視切換緊接標題，提醒事項在頂部列有自己的按鈕，標題列不再有設定按鈕。",
+          "提醒事項概覽：最近幾週的活動圖、準時完成比例的圓環、依列表的圖表，以及一段關於你這一週的簡短說明。",
+          "「新功能」跟隨 App 語言，在那裡選擇的語言會被保留。",
+          "下一個行程小工具：有時間的提醒事項排在最前時，會像行程一樣顯示為大卡片。"
         ]
       },
       "fixes": {
         "en": [
-          "Fixes for switching between folded, unfolded and turned states."
+          "Folding, unfolding and turning the Duo: sheets and search close cleanly, the window gets its full frame back, and the bottom bar no longer goes missing after many changes.",
+          "iPad: in a small window turned sideways, Day no longer resizes itself to full screen, and the title keeps clear of the window controls.",
+          "Smoother: swiping between days and months redraws less, and event menus are built only when you open them."
         ],
         "de": [
-          "Korrekturen beim Wechsel zwischen zugeklappt, aufgeklappt und gedreht."
+          "Duo falten, aufklappen und drehen: Sheets und Suche schließen sauber, das Fenster bekommt seine volle Größe zurück, und die untere Leiste verschwindet nach vielen Wechseln nicht mehr.",
+          "iPad: In einem kleinen Fenster im Querformat zieht sich Day nicht mehr auf Vollbild, und der Titel hält Abstand zu den Fensterknöpfen.",
+          "Flüssiger: Wischen zwischen Tagen und Monaten zeichnet weniger neu, und Menüs von Terminen werden erst beim Öffnen gebaut."
         ],
         "es": [
-          "Correcciones al cambiar entre plegado, desplegado y girado."
+          "Plegar, desplegar y girar el Duo: las hojas y la búsqueda se cierran bien, la ventana recupera su tamaño completo y la barra inferior ya no desaparece tras muchos cambios.",
+          "iPad: en una ventana pequeña en horizontal, Day ya no se amplía a pantalla completa, y el título deja espacio a los controles de la ventana.",
+          "Más fluido: deslizar entre días y meses redibuja menos, y los menús de los eventos se crean solo al abrirlos."
         ],
         "fr": [
-          "Corrections lors du passage entre plié, déplié et pivoté."
+          "Plier, déplier et tourner le Duo : les feuilles et la recherche se ferment proprement, la fenêtre retrouve toute sa taille, et la barre du bas ne disparaît plus après de nombreux changements.",
+          "iPad : dans une petite fenêtre en paysage, Day ne passe plus en plein écran tout seul, et le titre laisse de la place aux boutons de la fenêtre.",
+          "Plus fluide : passer d’un jour ou d’un mois à l’autre redessine moins, et les menus des événements ne sont créés qu’à l’ouverture."
         ],
         "it": [
-          "Correzioni nel passaggio tra chiuso, aperto e ruotato."
+          "Piegare, aprire e ruotare il Duo: fogli e ricerca si chiudono correttamente, la finestra riprende la sua dimensione piena e la barra inferiore non sparisce più dopo molti cambi.",
+          "iPad: in una finestra piccola in orizzontale Day non si ingrandisce più a schermo intero, e il titolo lascia spazio ai controlli della finestra.",
+          "Più fluido: scorrere tra giorni e mesi ridisegna meno, e i menu degli eventi vengono creati solo all’apertura."
         ],
         "ja": [
-          "折りたたみ、展開、回転の切り替え時の不具合を修正しました。"
+          "Duo の折りたたみ・展開・回転：シートと検索がきちんと閉じ、ウインドウが元のサイズに戻り、何度切り替えても下部バーが消えなくなりました。",
+          "iPad：横向きの小さなウインドウで Day が勝手にフルスクリーンにならなくなり、タイトルがウインドウボタンと重ならなくなりました。",
+          "より滑らかに：日や月の切り替えで再描画が減り、イベントのメニューは開いたときにだけ作られます。"
         ],
         "ko": [
-          "접기, 펼치기, 회전 전환 시 문제를 수정했습니다."
+          "Duo 접기, 펼치기, 회전: 시트와 검색이 깔끔하게 닫히고, 창이 전체 크기로 돌아오며, 여러 번 바꿔도 하단 막대가 사라지지 않습니다.",
+          "iPad: 가로 방향의 작은 창에서 Day가 더 이상 전체 화면으로 커지지 않으며, 제목이 창 버튼과 겹치지 않습니다.",
+          "더 부드럽게: 날짜와 월 사이를 넘길 때 다시 그리는 양이 줄었고, 이벤트 메뉴는 열 때만 만들어집니다."
         ],
         "pt-BR": [
-          "Correções ao alternar entre dobrado, aberto e girado."
+          "Dobrar, abrir e girar o Duo: folhas e busca fecham direito, a janela volta ao tamanho cheio e a barra inferior não some mais depois de muitas mudanças.",
+          "iPad: em uma janela pequena na horizontal, o Day não se expande mais para tela cheia, e o título deixa espaço para os controles da janela.",
+          "Mais fluido: deslizar entre dias e meses redesenha menos, e os menus dos eventos só são montados quando você os abre."
         ],
         "zh-Hans": [
-          "修复折叠、展开和旋转切换时的问题。"
+          "折叠、展开和旋转 Duo：表单和搜索会正常关闭，窗口恢复完整大小，多次切换后底栏也不再消失。",
+          "iPad：横向的小窗口中，Day 不再自动变成全屏，标题也不再挡住窗口按钮。",
+          "更流畅：在日与月之间滑动时重绘更少，日程菜单只在打开时才生成。"
         ],
         "zh-Hant": [
-          "修正摺疊、展開和旋轉切換時的問題。"
+          "摺疊、展開和旋轉 Duo：表單和搜尋會正常關閉，視窗恢復完整大小，多次切換後底部列也不再消失。",
+          "iPad：橫向的小視窗中，Day 不再自動變成全螢幕，標題也不再擋住視窗按鈕。",
+          "更流暢：在日與月之間滑動時重繪更少，行程選單只在開啟時才產生。"
         ]
       }
     },

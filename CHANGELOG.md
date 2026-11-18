@@ -6,15 +6,20 @@ What changed in each version of Day, newest first. Day comes from the [App Store
 
 ## 2.2.1 · iPhone and iPad
 
-- iPhone Duo: Day now uses the whole unfolded screen. Next to the fold, Today, search, Reminders and New Event sit in a column; the month shows its agenda at the right.
-- One fixed bottom bar on iPhone and small iPad windows: views, next event, search. New Event sits at the bottom right, next to search.
-- Search opens from its button into a field above the keyboard.
-- iPad: the view switcher sits right next to the title.
-- Up Next widget: a reminder with a time shows as a big card, like an event.
+- iPhone Duo: Day uses the whole unfolded screen. Up Next and New Event sit at the bottom, and the month shows the day's events in a column on the right.
+- iPhone Duo with the system strip beside it: Day's buttons move into the strip (search, views, New Event, Today, Reminders and the month's (i)). The strip follows light and dark mode, and the next event spans the area beside it.
+- One fixed bottom bar on iPhone and in small iPad windows: views, the next event and search, with New Event at the bottom right next to search. The options to move the bar's buttons are gone.
+- Search opens from its button into a field above the keyboard, with a round button to close it. On iPad, search sits in the top bar.
+- iPad: the view switcher sits right after the title, Reminders has its own button in the top bar, and the header no longer has a Settings button.
+- Reminder Summary: an activity graph of the last weeks, the share done on time as a ring, a chart by list and a short note about your week.
+- What's New follows the app's language, and a language picked there is kept.
+- Up Next widget: a reminder with a time that comes first shows as the big card, like an event.
 
 Fixes:
 
-- Fixes for switching between folded, unfolded and turned states.
+- Folding, unfolding and turning the Duo: sheets and search close cleanly, the window gets its full frame back, and the bottom bar no longer goes missing after many changes.
+- iPad: in a small window turned sideways, Day no longer resizes itself to full screen, and the title keeps clear of the window controls.
+- Smoother: swiping between days and months redraws less, and event menus are built only when you open them.
 
 ## 2.1.8 · iPhone and iPad
 
