@@ -1,6 +1,118 @@
 {
   "releases": [
     {
+      "id": "ios-2.2.1",
+      "version": "2.2.1",
+      "platforms": [
+        "ios",
+        "ipados"
+      ],
+      "features": {
+        "en": [
+          "iPhone Duo: Day now uses the whole unfolded screen. Next to the fold, Today, search, Reminders and New Event sit in a column; the month shows its agenda at the right.",
+          "One fixed bottom bar on iPhone and small iPad windows: views, next event, search. New Event sits at the bottom right, next to search.",
+          "Search opens from its button into a field above the keyboard.",
+          "iPad: the view switcher sits right next to the title.",
+          "Up Next widget: a reminder with a time shows as a big card, like an event."
+        ],
+        "de": [
+          "iPhone Duo: Day nutzt jetzt den ganzen aufgeklappten Bildschirm. Neben dem Falz sitzen Heute, Suche, Erinnerungen und Neuer Termin in einer Spalte; der Monat zeigt seine Termine rechts.",
+          "Eine feste untere Leiste auf dem iPhone und in kleinen iPad-Fenstern: Ansichten, nächster Termin, Suche. Neuer Termin sitzt unten rechts neben der Suche.",
+          "Die Suche öffnet sich aus ihrem Button in ein Feld über der Tastatur.",
+          "iPad: Die Ansichtswahl steht direkt neben dem Titel.",
+          "Up-Next-Widget: Eine Erinnerung mit Uhrzeit erscheint als große Karte, wie ein Termin."
+        ],
+        "es": [
+          "iPhone Duo: Day usa ahora toda la pantalla desplegada. Junto al pliegue, Hoy, buscar, Recordatorios y Nuevo evento van en una columna; el mes muestra su agenda a la derecha.",
+          "Una barra inferior fija en iPhone y en ventanas pequeñas de iPad: vistas, próximo evento, búsqueda. Nuevo evento está abajo a la derecha, junto a la búsqueda.",
+          "La búsqueda se abre desde su botón en un campo sobre el teclado.",
+          "iPad: el selector de vistas está junto al título.",
+          "Widget Próximo: un recordatorio con hora aparece como tarjeta grande, como un evento."
+        ],
+        "fr": [
+          "iPhone Duo : Day utilise désormais tout l'écran déplié. À côté du pli, Aujourd'hui, recherche, Rappels et Nouvel événement forment une colonne ; le mois affiche son agenda à droite.",
+          "Une barre inférieure fixe sur iPhone et dans les petites fenêtres iPad : vues, prochain événement, recherche. Nouvel événement est en bas à droite, à côté de la recherche.",
+          "La recherche s'ouvre depuis son bouton dans un champ au-dessus du clavier.",
+          "iPad : le sélecteur de vues se place à côté du titre.",
+          "Widget À suivre : un rappel avec une heure s'affiche en grande carte, comme un événement."
+        ],
+        "it": [
+          "iPhone Duo: Day usa ora tutto lo schermo aperto. Accanto alla piega, Oggi, cerca, Promemoria e Nuovo evento stanno in una colonna; il mese mostra l'agenda a destra.",
+          "Una barra inferiore fissa su iPhone e nelle finestre piccole di iPad: viste, prossimo evento, ricerca. Nuovo evento è in basso a destra, accanto alla ricerca.",
+          "La ricerca si apre dal suo pulsante in un campo sopra la tastiera.",
+          "iPad: il selettore delle viste è accanto al titolo.",
+          "Widget Prossimo: un promemoria con orario appare come scheda grande, come un evento."
+        ],
+        "ja": [
+          "iPhone Duo：開いた画面全体を使えるようになりました。折り目の横に「今日」「検索」「リマインダー」「新規イベント」を縦に並べ、月表示では右側に予定を表示します。",
+          "iPhoneとiPadの小さなウインドウで下部バーを固定：表示切替、次の予定、検索。「新規イベント」は右下、検索の隣にあります。",
+          "検索はボタンからキーボード上の入力欄に開きます。",
+          "iPad：表示切替をタイトルのすぐ隣に配置しました。",
+          "「次の予定」ウィジェット：時刻付きのリマインダーを、予定と同じ大きなカードで表示します。"
+        ],
+        "ko": [
+          "iPhone Duo: 펼친 화면 전체를 사용합니다. 접힌 부분 옆에 오늘, 검색, 미리 알림, 새 이벤트가 한 열로 놓이고, 월 보기는 오른쪽에 일정을 보여 줍니다.",
+          "iPhone과 작은 iPad 창에서 하단 막대를 고정: 보기, 다음 일정, 검색. 새 이벤트는 오른쪽 아래, 검색 옆에 있습니다.",
+          "검색은 버튼에서 키보드 위 입력란으로 열립니다.",
+          "iPad: 보기 전환이 제목 바로 옆에 있습니다.",
+          "다음 일정 위젯: 시간이 있는 미리 알림을 일정처럼 큰 카드로 보여 줍니다."
+        ],
+        "pt-BR": [
+          "iPhone Duo: o Day agora usa toda a tela aberta. Ao lado da dobra, Hoje, buscar, Lembretes e Novo evento ficam em uma coluna; o mês mostra a agenda à direita.",
+          "Uma barra inferior fixa no iPhone e em janelas pequenas do iPad: visualizações, próximo evento, busca. Novo evento fica no canto inferior direito, ao lado da busca.",
+          "A busca abre a partir do botão em um campo acima do teclado.",
+          "iPad: o seletor de visualizações fica ao lado do título.",
+          "Widget Próximo: um lembrete com horário aparece como cartão grande, como um evento."
+        ],
+        "zh-Hans": [
+          "iPhone Duo：现在可使用展开后的整个屏幕。折痕旁以一列显示“今天”、搜索、提醒事项和新建日程；月视图在右侧显示日程。",
+          "iPhone 和 iPad 小窗口使用固定底栏：视图、下一个日程、搜索。新建日程位于右下角，搜索旁边。",
+          "搜索从按钮展开为键盘上方的输入框。",
+          "iPad：视图切换位于标题旁边。",
+          "“下一个”小组件：带时间的提醒事项以大卡片显示，与日程一样。"
+        ],
+        "zh-Hant": [
+          "iPhone Duo：現在可使用展開後的整個螢幕。摺痕旁以一列顯示「今天」、搜尋、提醒事項和新增行程；月檢視在右側顯示行程。",
+          "iPhone 和 iPad 小視窗使用固定底部列：檢視、下一個行程、搜尋。新增行程位於右下角，搜尋旁邊。",
+          "搜尋從按鈕展開為鍵盤上方的輸入欄。",
+          "iPad：檢視切換位於標題旁邊。",
+          "「下一個」小工具：有時間的提醒事項以大卡片顯示，與行程一樣。"
+        ]
+      },
+      "fixes": {
+        "en": [
+          "Fixes for switching between folded, unfolded and turned states."
+        ],
+        "de": [
+          "Korrekturen beim Wechsel zwischen zugeklappt, aufgeklappt und gedreht."
+        ],
+        "es": [
+          "Correcciones al cambiar entre plegado, desplegado y girado."
+        ],
+        "fr": [
+          "Corrections lors du passage entre plié, déplié et pivoté."
+        ],
+        "it": [
+          "Correzioni nel passaggio tra chiuso, aperto e ruotato."
+        ],
+        "ja": [
+          "折りたたみ、展開、回転の切り替え時の不具合を修正しました。"
+        ],
+        "ko": [
+          "접기, 펼치기, 회전 전환 시 문제를 수정했습니다."
+        ],
+        "pt-BR": [
+          "Correções ao alternar entre dobrado, aberto e girado."
+        ],
+        "zh-Hans": [
+          "修复折叠、展开和旋转切换时的问题。"
+        ],
+        "zh-Hant": [
+          "修正摺疊、展開和旋轉切換時的問題。"
+        ]
+      }
+    },
+    {
       "id": "ios-2.1.8",
       "version": "2.1.8",
       "platforms": [

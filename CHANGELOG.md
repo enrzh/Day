@@ -4,6 +4,18 @@ The same notes as a page, which Day's Settings → What's New opens: <https://en
 
 What changed in each version of Day, newest first. Day comes from the [App Store](https://apps.apple.com/app/day-calendar/id6822896434), which delivers updates itself, so there is no separate update feed; these are the notes from the store's "What's New", with what each version added on top of the one before.
 
+## 2.2.1 · iPhone and iPad
+
+- iPhone Duo: Day now uses the whole unfolded screen. Next to the fold, Today, search, Reminders and New Event sit in a column; the month shows its agenda at the right.
+- One fixed bottom bar on iPhone and small iPad windows: views, next event, search. New Event sits at the bottom right, next to search.
+- Search opens from its button into a field above the keyboard.
+- iPad: the view switcher sits right next to the title.
+- Up Next widget: a reminder with a time shows as a big card, like an event.
+
+Fixes:
+
+- Fixes for switching between folded, unfolded and turned states.
+
 ## 2.1.8 · iPhone and iPad
 
 - Ticking off a reminder whose time is still ahead now asks first, so a tap by mistake does not close it early.
