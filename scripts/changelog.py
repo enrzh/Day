@@ -4,6 +4,7 @@ language Day is in at changelog/<lang>/index.html (de, es, fr, it, ja, ko, pt-BR
 
 To publish a version: add it to the top of changelog/releases.json (same shape as the other entries, with a "features" and
 "fixes" list in every language; leave out "released" if the day isn't known), run `python3 scripts/changelog.py`, commit.
+Then run `scripts/deploy-aiity.sh` so Day's own server (aiity.de, reachable in mainland China) has the same pages.
 Day's Settings > What's New opens https://enrzh.github.io/Day/changelog/ (or the page for the device's language), so the app
 shows it right away. A language missing from an entry falls back to English.
 
