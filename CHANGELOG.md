@@ -23,6 +23,35 @@ Fixes:
 - Up Next redraws only when the next item changes, which saves battery.
 - Months, weeks and the year redraw less when you swipe.
 
+## 2.2.3 · Mac
+
+- Resizing the window is smooth: the calendar keeps its layout while you drag and arranges itself once you let go.
+- Switching months is much faster, with a new month calendar in the sidebar.
+- A tidier top bar: ‹ Today › and New Event with search sit in two capsules, and the bar no longer overflows. The sidebar follows the window's width.
+- Dictate in any language: Day now understands speech on this device with an optional Qwen model, detects the language by itself and no longer drops words after a pause.
+- Reminder lists in the calendar: show a whole list as one element a day, with its progress.
+- Reminder lists are sorted by day: Overdue, Today, Tomorrow, then each date; reminders without a date come last.
+- Rename reminder lists, and add a list right from the editor.
+- New look for the Reminder Summary and the reminder card.
+- Favorites: star an event or reminder on its card. The yellow star next to Reminders opens them all, synced through iCloud.
+- Days Counter widget: the days to an event or reminder, or since it, in four styles (Classic, Bold, Calendar Page, Minimal) and a text color of your choice.
+- Day Counter on Cards: an option in Settings that shows the days left at the top right of an event or reminder card.
+- Coming Up in Settings: how far ahead an event comes first in Up Next: the rest of today, the next event, 6, 12 or 24 hours, or a number of your own.
+- Reminders with a date but no time can have an alert or be urgent; they go off at 9:00.
+- On-Device AI in Settings: choose the engines for Quick Add and dictation and manage the models.
+- Keyboard Shortcuts in Settings: see every shortcut and change it.
+- A new welcome tour and a new app icon.
+- What's New now opens inside the app.
+- The Habits widget is gone.
+
+Fixes:
+
+- A renamed or recolored calendar shows its new name and color in the sidebar at once.
+- Saving or deleting no longer reloads the whole calendar.
+- Spotlight and notifications are prepared in the background, so Day stays responsive.
+- The now line in the month no longer sits under the habits.
+- List order and the habit graph sync through iCloud.
+
 ## 2.2.1 · iPhone and iPad
 
 - iPhone Duo: Day uses the whole unfolded screen. Up Next and New Event sit at the bottom, and the month shows the day's events in a column on the right.
