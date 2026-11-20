@@ -4,6 +4,25 @@ The same notes as a page, which Day's Settings → What's New opens: <https://en
 
 What changed in each version of Day, newest first. Day comes from the [App Store](https://apps.apple.com/app/day-calendar/id6822896434), which delivers updates itself, so there is no separate update feed; these are the notes from the store's "What's New", with what each version added on top of the one before.
 
+## 2.2.3 · iPhone and iPad
+
+- Favorites: star an event or reminder on its card. The yellow star next to Reminders opens them all, synced through iCloud.
+- Days Counter widget: the days to an event or reminder, or since it. Pick from all or only favorites, choose a style (Classic, Bold, Calendar Page, Minimal) and a text color; also on the Lock Screen.
+- Day Counter on Cards: an option in Settings that shows the days left at the top right of an event or reminder card.
+- Coming Up in Settings: how far ahead an event comes first in Up Next: the rest of today, the next event, 6, 12 or 24 hours, or a number of your own.
+- Up Next shows a reminder's day and time like an event's.
+- The large Up Next widget is tidier: aligned rows, a list that fills the space and a clear empty state.
+- Reminders with a date but no time can have an alert or be urgent; they go off at 9:00.
+- A new app icon, and new date icons for every day of the month.
+- The Habits widget is gone.
+
+Fixes:
+
+- Saving or deleting no longer reloads the whole calendar.
+- Spotlight and notifications are prepared in the background, so Day stays responsive.
+- Up Next redraws only when the next item changes, which saves battery.
+- Months, weeks and the year redraw less when you swipe.
+
 ## 2.2.1 · iPhone and iPad
 
 - iPhone Duo: Day uses the whole unfolded screen. Up Next and New Event sit at the bottom, and the month shows the day's events in a column on the right.

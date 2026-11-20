@@ -1,6 +1,188 @@
 {
   "releases": [
     {
+      "id": "ios-2.2.3",
+      "version": "2.2.3",
+      "platforms": [
+        "ios",
+        "ipados"
+      ],
+      "features": {
+        "en": [
+          "Favorites: star an event or reminder on its card. The yellow star next to Reminders opens them all, synced through iCloud.",
+          "Days Counter widget: the days to an event or reminder, or since it. Pick from all or only favorites, choose a style (Classic, Bold, Calendar Page, Minimal) and a text color; also on the Lock Screen.",
+          "Day Counter on Cards: an option in Settings that shows the days left at the top right of an event or reminder card.",
+          "Coming Up in Settings: how far ahead an event comes first in Up Next: the rest of today, the next event, 6, 12 or 24 hours, or a number of your own.",
+          "Up Next shows a reminder's day and time like an event's.",
+          "The large Up Next widget is tidier: aligned rows, a list that fills the space and a clear empty state.",
+          "Reminders with a date but no time can have an alert or be urgent; they go off at 9:00.",
+          "A new app icon, and new date icons for every day of the month.",
+          "The Habits widget is gone."
+        ],
+        "de": [
+          "Favoriten: Markiere einen Termin oder eine Erinnerung auf der Karte mit einem Stern. Der gelbe Stern neben Erinnerungen öffnet alle, über iCloud synchronisiert.",
+          "Tageszähler-Widget: die Tage bis zu einem Termin oder einer Erinnerung oder seitdem. Wähle aus allen oder nur aus Favoriten, einen Stil (Klassisch, Kräftig, Kalenderblatt, Minimal) und eine Textfarbe; auch auf dem Sperrbildschirm.",
+          "Tageszähler auf Karten: eine Option in den Einstellungen, die oben rechts auf der Karte eines Termins oder einer Erinnerung die verbleibenden Tage zeigt.",
+          "Demnächst in den Einstellungen: wie weit im Voraus ein Termin in Als Nächstes zuerst kommt: der Rest des Tages, der nächste Termin, 6, 12 oder 24 Stunden oder eine eigene Zahl.",
+          "Als Nächstes zeigt bei einer Erinnerung Tag und Uhrzeit wie bei einem Termin.",
+          "Das große Als-Nächstes-Widget ist aufgeräumter: ausgerichtete Zeilen, eine Liste, die den Platz füllt, und ein klarer leerer Zustand.",
+          "Erinnerungen mit Datum, aber ohne Uhrzeit können einen Hinweis haben oder dringend sein; sie melden sich um 9:00.",
+          "Ein neues App-Symbol und neue Datumssymbole für jeden Tag des Monats.",
+          "Das Gewohnheiten-Widget ist entfallen."
+        ],
+        "es": [
+          "Favoritos: marca con una estrella un evento o recordatorio en su tarjeta. La estrella amarilla junto a Recordatorios los abre todos, sincronizados con iCloud.",
+          "Widget Contador de días: los días hasta un evento o recordatorio, o desde él. Elige entre todos o solo favoritos, un estilo (Clásico, Intenso, Hoja de calendario, Mínimo) y un color de texto; también en la pantalla bloqueada.",
+          "Contador de días en tarjetas: una opción en Ajustes que muestra los días que faltan arriba a la derecha de la tarjeta de un evento o recordatorio.",
+          "Próximamente en Ajustes: con cuánta antelación un evento aparece primero en A continuación: el resto del día, el próximo evento, 6, 12 o 24 horas, o un número propio.",
+          "A continuación muestra el día y la hora de un recordatorio como los de un evento.",
+          "El widget grande de A continuación está más ordenado: filas alineadas, una lista que llena el espacio y un estado vacío claro.",
+          "Los recordatorios con fecha pero sin hora pueden tener un aviso o ser urgentes; suenan a las 9:00.",
+          "Un nuevo icono de la app y nuevos iconos de fecha para cada día del mes.",
+          "El widget de Hábitos ya no está."
+        ],
+        "fr": [
+          "Favoris : ajoutez une étoile à un événement ou un rappel depuis sa fiche. L’étoile jaune à côté de Rappels les ouvre tous, synchronisés via iCloud.",
+          "Widget Compteur de jours : les jours jusqu’à un événement ou un rappel, ou depuis. Choisissez parmi tous ou seulement les favoris, un style (Classique, Intense, Page de calendrier, Minimal) et une couleur de texte ; aussi sur l’écran verrouillé.",
+          "Compteur de jours sur les fiches : une option dans Réglages qui affiche les jours restants en haut à droite de la fiche d’un événement ou d’un rappel.",
+          "À venir dans Réglages : combien de temps à l’avance un événement passe en premier dans À suivre : le reste de la journée, le prochain événement, 6, 12 ou 24 heures, ou un nombre de votre choix.",
+          "À suivre affiche le jour et l’heure d’un rappel comme pour un événement.",
+          "Le grand widget À suivre est plus net : lignes alignées, une liste qui remplit l’espace et un état vide clair.",
+          "Les rappels avec une date mais sans heure peuvent avoir une alerte ou être urgents ; ils sonnent à 9:00.",
+          "Une nouvelle icône d’app et de nouvelles icônes de date pour chaque jour du mois.",
+          "Le widget Habitudes a été retiré."
+        ],
+        "it": [
+          "Preferiti: aggiungi una stella a un evento o promemoria dalla sua scheda. La stella gialla accanto a Promemoria li apre tutti, sincronizzati con iCloud.",
+          "Widget Conta giorni: i giorni a un evento o promemoria, o da quando è passato. Scegli tra tutti o solo i preferiti, uno stile (Classico, Intenso, Pagina di calendario, Minimale) e un colore del testo; anche nella schermata di blocco.",
+          "Conta giorni sulle schede: un’opzione in Impostazioni che mostra i giorni mancanti in alto a destra nella scheda di un evento o promemoria.",
+          "In arrivo nelle Impostazioni: con quanto anticipo un evento viene prima in Prossimo: il resto della giornata, il prossimo evento, 6, 12 o 24 ore, o un numero a scelta.",
+          "Prossimo mostra giorno e ora di un promemoria come per un evento.",
+          "Il widget grande Prossimo è più ordinato: righe allineate, un elenco che riempie lo spazio e uno stato vuoto chiaro.",
+          "I promemoria con data ma senza ora possono avere un avviso o essere urgenti; suonano alle 9:00.",
+          "Una nuova icona dell’app e nuove icone con la data per ogni giorno del mese.",
+          "Il widget Abitudini non c’è più."
+        ],
+        "ja": [
+          "お気に入り：イベントやリマインダーのカードで星を付けられます。リマインダーの横の黄色い星からすべて開け、iCloudで同期されます。",
+          "日数カウンターウィジェット：イベントやリマインダーまでの日数、または過ぎてからの日数。すべてかお気に入りから選び、スタイル（クラシック、ボールド、カレンダーページ、ミニマル）と文字色を選べます。ロック画面にも対応。",
+          "カードに日数カウンターを表示：設定のオプションで、イベントやリマインダーのカード右上に残りの日数を表示します。",
+          "設定の「この先の予定」：次の予定で、どのくらい先のイベントを優先するか。今日の残り、次のイベント、6・12・24時間、または任意の時間。",
+          "次の予定で、リマインダーの日付と時刻がイベントと同じように表示されます。",
+          "大きい次の予定ウィジェットがすっきり：行がそろい、リストが余白を埋め、予定がないときの表示も明確に。",
+          "日付のみで時刻のないリマインダーにも通知や緊急を設定でき、9:00に知らせます。",
+          "新しいアプリアイコンと、月の毎日の新しい日付アイコン。",
+          "習慣ウィジェットは廃止されました。"
+        ],
+        "ko": [
+          "즐겨찾기: 이벤트나 미리 알림 카드에서 별표를 표시하세요. 미리 알림 옆의 노란 별에서 모두 열 수 있으며 iCloud로 동기화됩니다.",
+          "일수 카운터 위젯: 이벤트나 미리 알림까지 남은 날 또는 지난 날. 전체 또는 즐겨찾기에서 고르고, 스타일(클래식, 볼드, 달력 페이지, 미니멀)과 글자 색을 선택하세요. 잠금 화면에서도 사용할 수 있습니다.",
+          "카드에 일수 카운터: 설정의 옵션으로, 이벤트나 미리 알림 카드 오른쪽 위에 남은 날을 보여 줍니다.",
+          "설정의 다가오는 일정: 다음 일정에서 이벤트를 얼마나 미리 먼저 보여 줄지 선택합니다. 오늘 남은 시간, 다음 이벤트, 6·12·24시간 또는 직접 정한 시간.",
+          "다음 일정에서 미리 알림의 날짜와 시간이 이벤트처럼 표시됩니다.",
+          "큰 다음 일정 위젯이 더 깔끔해졌습니다. 정렬된 행, 공간을 채우는 목록, 명확한 빈 상태.",
+          "날짜만 있고 시간이 없는 미리 알림에도 알림이나 긴급을 설정할 수 있으며, 9:00에 울립니다.",
+          "새로운 앱 아이콘과 매일의 새로운 날짜 아이콘.",
+          "습관 위젯이 제거되었습니다."
+        ],
+        "pt-BR": [
+          "Favoritos: marque com estrela um evento ou lembrete no cartão. A estrela amarela ao lado de Lembretes abre todos, sincronizados pelo iCloud.",
+          "Widget Contador de dias: os dias até um evento ou lembrete, ou desde ele. Escolha entre todos ou só os favoritos, um estilo (Clássico, Intenso, Folha de calendário, Mínimo) e uma cor de texto; também na Tela Bloqueada.",
+          "Contador de dias nos cartões: uma opção nos Ajustes que mostra os dias restantes no canto superior direito do cartão de um evento ou lembrete.",
+          "Em breve nos Ajustes: com quanta antecedência um evento aparece primeiro em A seguir: o resto do dia, o próximo evento, 6, 12 ou 24 horas, ou um número seu.",
+          "A seguir mostra o dia e a hora de um lembrete como os de um evento.",
+          "O widget grande A seguir está mais organizado: linhas alinhadas, uma lista que preenche o espaço e um estado vazio claro.",
+          "Lembretes com data mas sem hora podem ter um alerta ou ser urgentes; eles tocam às 9:00.",
+          "Um novo ícone do app e novos ícones de data para cada dia do mês.",
+          "O widget Hábitos foi removido."
+        ],
+        "zh-Hans": [
+          "收藏：在日程或提醒事项的卡片上加星标。点“提醒事项”旁的黄色星标即可查看全部，并通过 iCloud 同步。",
+          "倒数日小组件：显示距离某个日程或提醒事项的天数，或已过去的天数。可从全部或仅收藏中选择，并选择样式（经典、醒目、日历页、极简）和文字颜色；也可用于锁定屏幕。",
+          "在卡片上显示倒数日：设置中的选项，在日程或提醒事项卡片的右上角显示剩余天数。",
+          "设置中的“接下来”：决定“即将开始”中提前多久优先显示日程：今天剩余时间、下一个日程、6、12 或 24 小时，或自定义时长。",
+          "“即将开始”中提醒事项的日期和时间与日程显示方式一致。",
+          "大尺寸“即将开始”小组件更整洁：各行对齐，列表填满空间，空状态更清晰。",
+          "有日期但没有时间的提醒事项也可以设置提醒或标为紧急，会在 9:00 提醒。",
+          "全新的 App 图标，以及每月每一天的新日期图标。",
+          "习惯小组件已移除。"
+        ],
+        "zh-Hant": [
+          "收藏：在行程或提醒事項的卡片上加星號。點「提醒事項」旁的黃色星號即可查看全部，並透過 iCloud 同步。",
+          "倒數日小工具：顯示距離某個行程或提醒事項的天數，或已過去的天數。可從全部或僅收藏中選擇，並選擇樣式（經典、醒目、日曆頁、極簡）和文字顏色；也可用於鎖定畫面。",
+          "在卡片上顯示倒數日：設定中的選項，在行程或提醒事項卡片的右上角顯示剩餘天數。",
+          "設定中的「接下來」：決定提前多久優先顯示行程：今天剩餘時間、下一個行程、6、12 或 24 小時，或自訂時長。",
+          "「接下來」中提醒事項的日期和時間與行程顯示方式一致。",
+          "大尺寸「接下來」小工具更整潔：各列對齊，列表填滿空間，空狀態更清楚。",
+          "有日期但沒有時間的提醒事項也可以設定提醒或標為緊急，會在 9:00 提醒。",
+          "全新的 App 圖像，以及每月每一天的新日期圖像。",
+          "習慣小工具已移除。"
+        ]
+      },
+      "fixes": {
+        "en": [
+          "Saving or deleting no longer reloads the whole calendar.",
+          "Spotlight and notifications are prepared in the background, so Day stays responsive.",
+          "Up Next redraws only when the next item changes, which saves battery.",
+          "Months, weeks and the year redraw less when you swipe."
+        ],
+        "de": [
+          "Speichern oder Löschen lädt nicht mehr den ganzen Kalender neu.",
+          "Spotlight und Mitteilungen werden im Hintergrund vorbereitet, Day bleibt flüssig.",
+          "Als Nächstes zeichnet nur neu, wenn sich der nächste Eintrag ändert; das spart Akku.",
+          "Monat, Woche und Jahr zeichnen beim Wischen weniger neu."
+        ],
+        "es": [
+          "Guardar o eliminar ya no recarga todo el calendario.",
+          "Spotlight y las notificaciones se preparan en segundo plano, así Day sigue fluido.",
+          "A continuación solo se redibuja cuando cambia el siguiente elemento, lo que ahorra batería.",
+          "Meses, semanas y el año se redibujan menos al deslizar."
+        ],
+        "fr": [
+          "Enregistrer ou supprimer ne recharge plus tout le calendrier.",
+          "Spotlight et les notifications sont préparés en arrière-plan, Day reste fluide.",
+          "À suivre ne se redessine que lorsque l’élément suivant change, ce qui économise la batterie.",
+          "Les mois, les semaines et l’année se redessinent moins quand vous balayez."
+        ],
+        "it": [
+          "Salvare o eliminare non ricarica più l’intero calendario.",
+          "Spotlight e le notifiche vengono preparati in background, così Day resta fluido.",
+          "Prossimo si ridisegna solo quando cambia l’elemento successivo, risparmiando batteria.",
+          "Mesi, settimane e anno si ridisegnano meno quando scorri."
+        ],
+        "ja": [
+          "保存や削除でカレンダー全体を再読み込みしなくなりました。",
+          "Spotlightと通知をバックグラウンドで準備するため、Dayの動作が軽快です。",
+          "次の予定は次の項目が変わったときだけ再描画し、バッテリーを節約します。",
+          "スワイプ時の月・週・年の再描画を減らしました。"
+        ],
+        "ko": [
+          "저장하거나 삭제해도 더 이상 캘린더 전체를 다시 불러오지 않습니다.",
+          "Spotlight와 알림을 백그라운드에서 준비해 Day가 부드럽게 작동합니다.",
+          "다음 일정은 다음 항목이 바뀔 때만 다시 그려 배터리를 아낍니다.",
+          "스와이프할 때 월, 주, 연도를 덜 다시 그립니다."
+        ],
+        "pt-BR": [
+          "Salvar ou apagar não recarrega mais o calendário inteiro.",
+          "O Spotlight e as notificações são preparados em segundo plano, e o Day continua fluido.",
+          "A seguir só é redesenhado quando o próximo item muda, o que economiza bateria.",
+          "Meses, semanas e o ano são redesenhados menos ao deslizar."
+        ],
+        "zh-Hans": [
+          "保存或删除后不再重新加载整个日历。",
+          "聚焦搜索和通知在后台准备，Day 运行更流畅。",
+          "“即将开始”仅在下一项变化时重绘，更省电。",
+          "滑动时月、周和年视图的重绘更少。"
+        ],
+        "zh-Hant": [
+          "儲存或刪除後不再重新載入整個日曆。",
+          "Spotlight 和通知在背景準備，Day 運作更流暢。",
+          "「接下來」僅在下一項變化時重繪，更省電。",
+          "滑動時月、週和年檢視的重繪更少。"
+        ]
+      }
+    },
+    {
       "id": "ios-2.2.2",
       "version": "2.2.2",
       "platforms": [
