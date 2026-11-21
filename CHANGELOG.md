@@ -6,10 +6,17 @@ What changed in each version of Day, newest first. Day comes from the [App Store
 
 ## 2.2.3 · iPhone and iPad
 
+- Widgets in Settings: every Day widget, drawn live with your own events in its real sizes, with how to add it to the Home Screen, Lock Screen or Control Center.
+- Week in Review: your scheduled time against the week before, hours per calendar, the busiest day, free time and reminders done, for any of the last twelve weeks.
+- Share a day or a week as a picture or as text, or only the times you're free; titles can be hidden.
+- Templates: save a kind of event or reminder once (length, calendar, alerts, place, repeat) and start a new one from it in Quick Add, the editor or Shortcuts.
+- Defaults for new events and reminders in Settings: length, alerts (as many as you like, at any time), a reminder's time and priority.
+- Touch Response in Settings: Fast, Normal or Slow, for how quickly touch and hold and dragging react.
+- Settings are sorted anew: Appearance, Up Next, Input, Default Apps, General and About; the Calendars and Reminders pages go from what's shown to new items to alerts.
 - Favorites: star an event or reminder on its card. The yellow star next to Reminders opens them all, synced through iCloud.
 - Days Counter widget: the days to an event or reminder, or since it. Pick from all or only favorites, choose a style (Classic, Bold, Calendar Page, Minimal) and a text color; also on the Lock Screen.
 - Day Counter on Cards: an option in Settings that shows the days left at the top right of an event or reminder card.
-- Coming Up in Settings: how far ahead an event comes first in Up Next: the rest of today, the next event, 6, 12 or 24 hours, or a number of your own.
+- Look Ahead in Settings › Up Next: how far ahead an event comes first: the rest of today, the next event, 6, 12 or 24 hours, or a number of your own.
 - Up Next shows a reminder's day and time like an event's.
 - The large Up Next widget is tidier: aligned rows, a list that fills the space and a clear empty state.
 - Reminders with a date but no time can have an alert or be urgent; they go off at 9:00.
@@ -18,6 +25,7 @@ What changed in each version of Day, newest first. Day comes from the [App Store
 
 Fixes:
 
+- Ticking off a reminder that has only a date, before its day, now asks first.
 - Saving or deleting no longer reloads the whole calendar.
 - Spotlight and notifications are prepared in the background, so Day stays responsive.
 - Up Next redraws only when the next item changes, which saves battery.
@@ -25,7 +33,14 @@ Fixes:
 
 ## 2.2.3 · Mac
 
-- Resizing the window is smooth: the calendar keeps its layout while you drag and arranges itself once you let go.
+- Day in the menu bar: the next event and the rest of today, and a shortcut (⌃⌥N) that opens Quick Add from any app. Turn them on in Settings › Menu Bar.
+- Widgets in Settings: every Day widget, drawn live with your own events in its real sizes, with how to add it to the desktop or Notification Center.
+- Week in Review: your scheduled time against the week before, hours per calendar, the busiest day, free time and reminders done, for any of the last twelve weeks.
+- Share a day or a week as a picture or as text, or only the times you're free; titles can be hidden (⌘⇧S).
+- Templates: save a kind of event or reminder once (length, calendar, alerts, place, repeat) and start a new one from it in Quick Add, the editor or Shortcuts. On the Mac also from a day's right-click menu.
+- Defaults for new events and reminders in Settings: length, alerts (as many as you like, at any time), a reminder's time and priority.
+- Settings are sorted anew: Appearance, Up Next, Input, Default Apps, General and About; the Calendars and Reminders pages go from what's shown to new items to alerts.
+- Resizing the window is smooth: the calendar follows while you drag and no longer falls behind.
 - Switching months is much faster, with a new month calendar in the sidebar.
 - A tidier top bar: ‹ Today › and New Event with search sit in two capsules, and the bar no longer overflows. The sidebar follows the window's width.
 - Dictate in any language: Day now understands speech on this device with an optional Qwen model, detects the language by itself and no longer drops words after a pause.
@@ -36,7 +51,7 @@ Fixes:
 - Favorites: star an event or reminder on its card. The yellow star next to Reminders opens them all, synced through iCloud.
 - Days Counter widget: the days to an event or reminder, or since it, in four styles (Classic, Bold, Calendar Page, Minimal) and a text color of your choice.
 - Day Counter on Cards: an option in Settings that shows the days left at the top right of an event or reminder card.
-- Coming Up in Settings: how far ahead an event comes first in Up Next: the rest of today, the next event, 6, 12 or 24 hours, or a number of your own.
+- Look Ahead in Settings › Up Next: how far ahead an event comes first: the rest of today, the next event, 6, 12 or 24 hours, or a number of your own.
 - Reminders with a date but no time can have an alert or be urgent; they go off at 9:00.
 - On-Device AI in Settings: choose the engines for Quick Add and dictation and manage the models.
 - Keyboard Shortcuts in Settings: see every shortcut and change it.
@@ -46,6 +61,7 @@ Fixes:
 
 Fixes:
 
+- Ticking off a reminder that has only a date, before its day, now asks first.
 - A renamed or recolored calendar shows its new name and color in the sidebar at once.
 - Saving or deleting no longer reloads the whole calendar.
 - Spotlight and notifications are prepared in the background, so Day stays responsive.

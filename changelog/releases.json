@@ -9,10 +9,17 @@
       ],
       "features": {
         "en": [
+          "Widgets in Settings: every Day widget, drawn live with your own events in its real sizes, with how to add it to the Home Screen, Lock Screen or Control Center.",
+          "Week in Review: your scheduled time against the week before, hours per calendar, the busiest day, free time and reminders done, for any of the last twelve weeks.",
+          "Share a day or a week as a picture or as text, or only the times you're free; titles can be hidden.",
+          "Templates: save a kind of event or reminder once (length, calendar, alerts, place, repeat) and start a new one from it in Quick Add, the editor or Shortcuts.",
+          "Defaults for new events and reminders in Settings: length, alerts (as many as you like, at any time), a reminder's time and priority.",
+          "Touch Response in Settings: Fast, Normal or Slow, for how quickly touch and hold and dragging react.",
+          "Settings are sorted anew: Appearance, Up Next, Input, Default Apps, General and About; the Calendars and Reminders pages go from what's shown to new items to alerts.",
           "Favorites: star an event or reminder on its card. The yellow star next to Reminders opens them all, synced through iCloud.",
           "Days Counter widget: the days to an event or reminder, or since it. Pick from all or only favorites, choose a style (Classic, Bold, Calendar Page, Minimal) and a text color; also on the Lock Screen.",
           "Day Counter on Cards: an option in Settings that shows the days left at the top right of an event or reminder card.",
-          "Coming Up in Settings: how far ahead an event comes first in Up Next: the rest of today, the next event, 6, 12 or 24 hours, or a number of your own.",
+          "Look Ahead in Settings › Up Next: how far ahead an event comes first: the rest of today, the next event, 6, 12 or 24 hours, or a number of your own.",
           "Up Next shows a reminder's day and time like an event's.",
           "The large Up Next widget is tidier: aligned rows, a list that fills the space and a clear empty state.",
           "Reminders with a date but no time can have an alert or be urgent; they go off at 9:00.",
@@ -20,10 +27,17 @@
           "The Habits widget is gone."
         ],
         "de": [
+          "Widgets in den Einstellungen: jedes Day-Widget, live mit deinen eigenen Terminen in seinen echten Größen gezeichnet, mit der Anleitung für Home-Bildschirm, Sperrbildschirm oder Kontrollzentrum.",
+          "Wochenrückblick: deine verplante Zeit im Vergleich zur Vorwoche, Stunden pro Kalender, der vollste Tag, freie Zeit und erledigte Erinnerungen, für jede der letzten zwölf Wochen.",
+          "Teile einen Tag oder eine Woche als Bild oder Text, oder nur die Zeiten, in denen du frei bist; Titel lassen sich ausblenden.",
+          "Vorlagen: Speichere eine Art von Termin oder Erinnerung einmal (Dauer, Kalender, Hinweise, Ort, Wiederholung) und lege daraus in Schnell hinzufügen, im Editor oder in Kurzbefehlen einen neuen an.",
+          "Vorgaben für neue Termine und Erinnerungen in den Einstellungen: Dauer, Hinweise (so viele du willst, zu jeder Zeit), Uhrzeit und Priorität einer Erinnerung.",
+          "Berührungsreaktion in den Einstellungen: Schnell, Normal oder Langsam, je nachdem, wie rasch Berühren und Halten und Ziehen reagieren sollen.",
+          "Die Einstellungen sind neu sortiert: Darstellung, Als Nächstes, Eingabe, Standard-Apps, Allgemein und Info; die Seiten Kalender und Erinnerungen gehen von der Anzeige über neue Einträge zu den Hinweisen.",
           "Favoriten: Markiere einen Termin oder eine Erinnerung auf der Karte mit einem Stern. Der gelbe Stern neben Erinnerungen öffnet alle, über iCloud synchronisiert.",
           "Tageszähler-Widget: die Tage bis zu einem Termin oder einer Erinnerung oder seitdem. Wähle aus allen oder nur aus Favoriten, einen Stil (Klassisch, Kräftig, Kalenderblatt, Minimal) und eine Textfarbe; auch auf dem Sperrbildschirm.",
           "Tageszähler auf Karten: eine Option in den Einstellungen, die oben rechts auf der Karte eines Termins oder einer Erinnerung die verbleibenden Tage zeigt.",
-          "Demnächst in den Einstellungen: wie weit im Voraus ein Termin in Als Nächstes zuerst kommt: der Rest des Tages, der nächste Termin, 6, 12 oder 24 Stunden oder eine eigene Zahl.",
+          "Vorausschau unter Einstellungen › Als Nächstes: wie weit im Voraus ein Termin zuerst kommt: der Rest des Tages, der nächste Termin, 6, 12 oder 24 Stunden oder eine eigene Zahl.",
           "Als Nächstes zeigt bei einer Erinnerung Tag und Uhrzeit wie bei einem Termin.",
           "Das große Als-Nächstes-Widget ist aufgeräumter: ausgerichtete Zeilen, eine Liste, die den Platz füllt, und ein klarer leerer Zustand.",
           "Erinnerungen mit Datum, aber ohne Uhrzeit können einen Hinweis haben oder dringend sein; sie melden sich um 9:00.",
@@ -31,10 +45,17 @@
           "Das Gewohnheiten-Widget ist entfallen."
         ],
         "es": [
+          "Widgets en Ajustes: todos los widgets de Day, dibujados en vivo con tus propios eventos y en su tamaño real, con cómo añadirlos a la pantalla de inicio, la pantalla bloqueada o el centro de control.",
+          "Resumen semanal: tu tiempo planificado frente a la semana anterior, horas por calendario, el día más ocupado, el tiempo libre y los recordatorios completados, para cualquiera de las últimas doce semanas.",
+          "Comparte un día o una semana como imagen o texto, o solo las horas en las que estás libre; los títulos se pueden ocultar.",
+          "Plantillas: guarda una vez un tipo de evento o recordatorio (duración, calendario, avisos, lugar, repetición) y crea uno nuevo a partir de él en Añadido rápido, el editor o Atajos.",
+          "Valores para eventos y recordatorios nuevos en Ajustes: duración, avisos (todos los que quieras, a cualquier hora), y la hora y prioridad de un recordatorio.",
+          "Respuesta táctil en Ajustes: Rápida, Normal o Lenta, para la rapidez con que reaccionan mantener pulsado y arrastrar.",
+          "Los Ajustes están ordenados de nuevo: Apariencia, A continuación, Entrada, Apps predeterminadas, General e Información; las páginas de Calendarios y Recordatorios van de lo que se muestra a los elementos nuevos y los avisos.",
           "Favoritos: marca con una estrella un evento o recordatorio en su tarjeta. La estrella amarilla junto a Recordatorios los abre todos, sincronizados con iCloud.",
           "Widget Contador de días: los días hasta un evento o recordatorio, o desde él. Elige entre todos o solo favoritos, un estilo (Clásico, Intenso, Hoja de calendario, Mínimo) y un color de texto; también en la pantalla bloqueada.",
           "Contador de días en tarjetas: una opción en Ajustes que muestra los días que faltan arriba a la derecha de la tarjeta de un evento o recordatorio.",
-          "Próximamente en Ajustes: con cuánta antelación un evento aparece primero en A continuación: el resto del día, el próximo evento, 6, 12 o 24 horas, o un número propio.",
+          "Anticipación en Ajustes › A continuación: con cuánta antelación aparece primero un evento: el resto del día, el próximo evento, 6, 12 o 24 horas, o un número propio.",
           "A continuación muestra el día y la hora de un recordatorio como los de un evento.",
           "El widget grande de A continuación está más ordenado: filas alineadas, una lista que llena el espacio y un estado vacío claro.",
           "Los recordatorios con fecha pero sin hora pueden tener un aviso o ser urgentes; suenan a las 9:00.",
@@ -42,10 +63,17 @@
           "El widget de Hábitos ya no está."
         ],
         "fr": [
+          "Widgets dans les Réglages : chaque widget de Day, dessiné en direct avec vos propres événements dans ses vraies tailles, avec la façon de l’ajouter à l’écran d’accueil, à l’écran verrouillé ou au centre de contrôle.",
+          "Bilan de la semaine : votre temps planifié comparé à la semaine précédente, les heures par calendrier, le jour le plus chargé, le temps libre et les rappels terminés, pour chacune des douze dernières semaines.",
+          "Partagez un jour ou une semaine en image ou en texte, ou seulement vos créneaux libres ; les titres peuvent être masqués.",
+          "Modèles : enregistrez une fois un type d’événement ou de rappel (durée, calendrier, alertes, lieu, répétition) et créez-en un nouveau depuis l’Ajout rapide, l’éditeur ou Raccourcis.",
+          "Valeurs par défaut des nouveaux événements et rappels dans les Réglages : durée, alertes (autant que vous voulez, à tout moment), heure et priorité d’un rappel.",
+          "Réactivité tactile dans les Réglages : Rapide, Normale ou Lente, selon la vitesse de réaction de l’appui prolongé et du glisser.",
+          "Les Réglages sont réorganisés : Apparence, À suivre, Saisie, Apps par défaut, Général et À propos ; les pages Calendriers et Rappels vont de l’affichage aux nouveaux éléments puis aux alertes.",
           "Favoris : ajoutez une étoile à un événement ou un rappel depuis sa fiche. L’étoile jaune à côté de Rappels les ouvre tous, synchronisés via iCloud.",
           "Widget Compteur de jours : les jours jusqu’à un événement ou un rappel, ou depuis. Choisissez parmi tous ou seulement les favoris, un style (Classique, Intense, Page de calendrier, Minimal) et une couleur de texte ; aussi sur l’écran verrouillé.",
           "Compteur de jours sur les fiches : une option dans Réglages qui affiche les jours restants en haut à droite de la fiche d’un événement ou d’un rappel.",
-          "À venir dans Réglages : combien de temps à l’avance un événement passe en premier dans À suivre : le reste de la journée, le prochain événement, 6, 12 ou 24 heures, ou un nombre de votre choix.",
+          "Anticipation dans Réglages › À suivre : combien de temps à l’avance un événement passe en premier : le reste de la journée, le prochain événement, 6, 12 ou 24 heures, ou une durée de votre choix.",
           "À suivre affiche le jour et l’heure d’un rappel comme pour un événement.",
           "Le grand widget À suivre est plus net : lignes alignées, une liste qui remplit l’espace et un état vide clair.",
           "Les rappels avec une date mais sans heure peuvent avoir une alerte ou être urgents ; ils sonnent à 9:00.",
@@ -53,10 +81,17 @@
           "Le widget Habitudes a été retiré."
         ],
         "it": [
+          "Widget nelle Impostazioni: ogni widget di Day, disegnato dal vivo con i tuoi eventi nelle sue dimensioni reali, con come aggiungerlo alla schermata Home, alla schermata di blocco o al Centro di Controllo.",
+          "Riepilogo settimanale: il tempo pianificato rispetto alla settimana prima, le ore per calendario, il giorno più pieno, il tempo libero e i promemoria completati, per ognuna delle ultime dodici settimane.",
+          "Condividi un giorno o una settimana come immagine o testo, oppure solo gli orari in cui sei libero; i titoli si possono nascondere.",
+          "Modelli: salva una volta un tipo di evento o promemoria (durata, calendario, avvisi, luogo, ripetizione) e creane uno nuovo dall’Aggiunta rapida, dall’editor o da Comandi Rapidi.",
+          "Valori predefiniti per nuovi eventi e promemoria nelle Impostazioni: durata, avvisi (quanti vuoi, a qualsiasi ora), orario e priorità di un promemoria.",
+          "Reattività al tocco nelle Impostazioni: Veloce, Normale o Lenta, per la rapidità con cui reagiscono il tocco prolungato e il trascinamento.",
+          "Le Impostazioni sono riordinate: Aspetto, Prossimo, Inserimento, App predefinite, Generali e Info; le pagine Calendari e Promemoria vanno da ciò che si vede ai nuovi elementi e agli avvisi.",
           "Preferiti: aggiungi una stella a un evento o promemoria dalla sua scheda. La stella gialla accanto a Promemoria li apre tutti, sincronizzati con iCloud.",
           "Widget Conta giorni: i giorni a un evento o promemoria, o da quando è passato. Scegli tra tutti o solo i preferiti, uno stile (Classico, Intenso, Pagina di calendario, Minimale) e un colore del testo; anche nella schermata di blocco.",
           "Conta giorni sulle schede: un’opzione in Impostazioni che mostra i giorni mancanti in alto a destra nella scheda di un evento o promemoria.",
-          "In arrivo nelle Impostazioni: con quanto anticipo un evento viene prima in Prossimo: il resto della giornata, il prossimo evento, 6, 12 o 24 ore, o un numero a scelta.",
+          "Anticipo in Impostazioni › Prossimo: con quanto anticipo un evento compare per primo: il resto della giornata, il prossimo evento, 6, 12 o 24 ore, o un numero a tua scelta.",
           "Prossimo mostra giorno e ora di un promemoria come per un evento.",
           "Il widget grande Prossimo è più ordinato: righe allineate, un elenco che riempie lo spazio e uno stato vuoto chiaro.",
           "I promemoria con data ma senza ora possono avere un avviso o essere urgenti; suonano alle 9:00.",
@@ -64,10 +99,17 @@
           "Il widget Abitudini non c’è più."
         ],
         "ja": [
+          "設定にウィジェット：Dayのすべてのウィジェットを、あなたの予定で実際のサイズのままライブ表示。ホーム画面、ロック画面、コントロールセンターへの追加方法も載っています。",
+          "週のふりかえり：予定の入った時間と前週との比較、カレンダーごとの時間、いちばん忙しい日、空き時間、完了したリマインダー。過去12週のどの週でも見られます。",
+          "1日や1週間を画像やテキストで共有したり、空いている時間だけを共有したりできます。タイトルは隠せます。",
+          "テンプレート：予定やリマインダーの種類（長さ、カレンダー、通知、場所、繰り返し）を一度保存すれば、クイック追加やエディタ、ショートカットからすぐに作れます。",
+          "設定で新規イベントと新規リマインダーの初期値：長さ、通知（好きな数を好きなタイミングで）、リマインダーの時刻と優先度。",
+          "設定にタッチの反応：速い・標準・遅いから、長押しやドラッグが反応する速さを選べます。",
+          "設定を整理し直しました：外観、次の予定、入力、デフォルトのApp、一般、情報。カレンダーとリマインダーのページは、表示、新規項目、通知の順になりました。",
           "お気に入り：イベントやリマインダーのカードで星を付けられます。リマインダーの横の黄色い星からすべて開け、iCloudで同期されます。",
           "日数カウンターウィジェット：イベントやリマインダーまでの日数、または過ぎてからの日数。すべてかお気に入りから選び、スタイル（クラシック、ボールド、カレンダーページ、ミニマル）と文字色を選べます。ロック画面にも対応。",
           "カードに日数カウンターを表示：設定のオプションで、イベントやリマインダーのカード右上に残りの日数を表示します。",
-          "設定の「この先の予定」：次の予定で、どのくらい先のイベントを優先するか。今日の残り、次のイベント、6・12・24時間、または任意の時間。",
+          "設定 › 次の予定の「先読み」：予定をどれだけ前から先頭に出すか。今日の残り、次の予定、6・12・24時間、または好きな時間数。",
           "次の予定で、リマインダーの日付と時刻がイベントと同じように表示されます。",
           "大きい次の予定ウィジェットがすっきり：行がそろい、リストが余白を埋め、予定がないときの表示も明確に。",
           "日付のみで時刻のないリマインダーにも通知や緊急を設定でき、9:00に知らせます。",
@@ -75,10 +117,17 @@
           "習慣ウィジェットは廃止されました。"
         ],
         "ko": [
+          "설정의 위젯: Day의 모든 위젯을 내 일정으로 실제 크기 그대로 실시간 표시하고, 홈 화면·잠금 화면·제어 센터에 추가하는 방법도 알려 줍니다.",
+          "주간 리뷰: 지난주와 비교한 일정 시간, 캘린더별 시간, 가장 바쁜 날, 빈 시간, 완료한 미리 알림을 최근 12주 중 어느 주든 볼 수 있습니다.",
+          "하루나 한 주를 이미지나 텍스트로, 또는 빈 시간만 공유할 수 있으며 제목은 숨길 수 있습니다.",
+          "템플릿: 이벤트나 미리 알림의 종류(길이, 캘린더, 알림, 장소, 반복)를 한 번 저장해 두면 빠른 추가, 편집기 또는 단축어에서 바로 새로 만들 수 있습니다.",
+          "설정에서 새로운 이벤트와 미리 알림의 기본값: 길이, 알림(원하는 만큼, 원하는 시간에), 미리 알림의 시간과 우선순위.",
+          "설정의 터치 반응: 빠름, 보통, 느림 중에서 길게 누르기와 드래그의 반응 속도를 고를 수 있습니다.",
+          "설정을 새로 정리했습니다: 모양, 다음 일정, 입력, 기본 앱, 일반, 정보. 캘린더와 미리 알림 페이지는 표시, 새 항목, 알림 순서로 바뀌었습니다.",
           "즐겨찾기: 이벤트나 미리 알림 카드에서 별표를 표시하세요. 미리 알림 옆의 노란 별에서 모두 열 수 있으며 iCloud로 동기화됩니다.",
           "일수 카운터 위젯: 이벤트나 미리 알림까지 남은 날 또는 지난 날. 전체 또는 즐겨찾기에서 고르고, 스타일(클래식, 볼드, 달력 페이지, 미니멀)과 글자 색을 선택하세요. 잠금 화면에서도 사용할 수 있습니다.",
           "카드에 일수 카운터: 설정의 옵션으로, 이벤트나 미리 알림 카드 오른쪽 위에 남은 날을 보여 줍니다.",
-          "설정의 다가오는 일정: 다음 일정에서 이벤트를 얼마나 미리 먼저 보여 줄지 선택합니다. 오늘 남은 시간, 다음 이벤트, 6·12·24시간 또는 직접 정한 시간.",
+          "설정 › 다음 일정의 미리 보기 범위: 이벤트를 얼마나 미리 맨 앞에 보여 줄지. 오늘 남은 시간, 다음 이벤트, 6·12·24시간 또는 직접 정한 시간.",
           "다음 일정에서 미리 알림의 날짜와 시간이 이벤트처럼 표시됩니다.",
           "큰 다음 일정 위젯이 더 깔끔해졌습니다. 정렬된 행, 공간을 채우는 목록, 명확한 빈 상태.",
           "날짜만 있고 시간이 없는 미리 알림에도 알림이나 긴급을 설정할 수 있으며, 9:00에 울립니다.",
@@ -86,10 +135,17 @@
           "습관 위젯이 제거되었습니다."
         ],
         "pt-BR": [
+          "Widgets nos Ajustes: todos os widgets do Day, desenhados ao vivo com seus próprios eventos nos tamanhos reais, com como adicioná-los à Tela de Início, à Tela Bloqueada ou à Central de Controle.",
+          "Resumo da semana: seu tempo agendado comparado à semana anterior, horas por calendário, o dia mais cheio, tempo livre e lembretes concluídos, para qualquer uma das últimas doze semanas.",
+          "Compartilhe um dia ou uma semana como imagem ou texto, ou só os horários em que você está livre; os títulos podem ser ocultados.",
+          "Modelos: salve uma vez um tipo de evento ou lembrete (duração, calendário, alertas, local, repetição) e crie um novo a partir dele na Adição rápida, no editor ou em Atalhos.",
+          "Padrões para novos eventos e lembretes nos Ajustes: duração, alertas (quantos quiser, em qualquer horário), e horário e prioridade de um lembrete.",
+          "Resposta ao toque nos Ajustes: Rápida, Normal ou Lenta, para a rapidez com que tocar e manter e arrastar reagem.",
+          "Os Ajustes foram reorganizados: Aparência, A seguir, Entrada, Apps padrão, Geral e Sobre; as páginas Calendários e Lembretes vão do que é exibido aos novos itens e aos alertas.",
           "Favoritos: marque com estrela um evento ou lembrete no cartão. A estrela amarela ao lado de Lembretes abre todos, sincronizados pelo iCloud.",
           "Widget Contador de dias: os dias até um evento ou lembrete, ou desde ele. Escolha entre todos ou só os favoritos, um estilo (Clássico, Intenso, Folha de calendário, Mínimo) e uma cor de texto; também na Tela Bloqueada.",
           "Contador de dias nos cartões: uma opção nos Ajustes que mostra os dias restantes no canto superior direito do cartão de um evento ou lembrete.",
-          "Em breve nos Ajustes: com quanta antecedência um evento aparece primeiro em A seguir: o resto do dia, o próximo evento, 6, 12 ou 24 horas, ou um número seu.",
+          "Antecedência em Ajustes › A seguir: com quanta antecedência um evento aparece primeiro: o resto do dia, o próximo evento, 6, 12 ou 24 horas, ou um número seu.",
           "A seguir mostra o dia e a hora de um lembrete como os de um evento.",
           "O widget grande A seguir está mais organizado: linhas alinhadas, uma lista que preenche o espaço e um estado vazio claro.",
           "Lembretes com data mas sem hora podem ter um alerta ou ser urgentes; eles tocam às 9:00.",
@@ -97,10 +153,17 @@
           "O widget Hábitos foi removido."
         ],
         "zh-Hans": [
+          "设置中的小组件：Day 的每个小组件都用你自己的日程按真实尺寸实时绘制，并说明如何添加到主屏幕、锁定屏幕或控制中心。",
+          "本周回顾：已安排的时间与上周对比、每个日历的时长、最忙的一天、空闲时间和已完成的提醒事项，最近十二周的任意一周都能查看。",
+          "以图片或文本分享一天或一周，或只分享你有空的时间；标题可以隐藏。",
+          "模板：把一类事件或提醒事项（时长、日历、提醒、地点、重复）存储一次，就能在快速添加、编辑器或快捷指令中由它新建。",
+          "在设置中为新事件和新提醒事项设定默认值：时长、提醒（数量不限，时间任选）、提醒事项的时间和优先级。",
+          "设置中的触控响应：快、正常或慢，决定按住和拖移的反应速度。",
+          "设置已重新整理：外观、即将开始、输入、默认 App、通用和关于；日历和提醒事项页面按显示、新项目、提醒的顺序排列。",
           "收藏：在日程或提醒事项的卡片上加星标。点“提醒事项”旁的黄色星标即可查看全部，并通过 iCloud 同步。",
           "倒数日小组件：显示距离某个日程或提醒事项的天数，或已过去的天数。可从全部或仅收藏中选择，并选择样式（经典、醒目、日历页、极简）和文字颜色；也可用于锁定屏幕。",
           "在卡片上显示倒数日：设置中的选项，在日程或提醒事项卡片的右上角显示剩余天数。",
-          "设置中的“接下来”：决定“即将开始”中提前多久优先显示日程：今天剩余时间、下一个日程、6、12 或 24 小时，或自定义时长。",
+          "设置 › 即将开始中的“提前显示”：事件提前多久排在最前：今天剩余时间、下一个事件、6、12 或 24 小时，或自定时长。",
           "“即将开始”中提醒事项的日期和时间与日程显示方式一致。",
           "大尺寸“即将开始”小组件更整洁：各行对齐，列表填满空间，空状态更清晰。",
           "有日期但没有时间的提醒事项也可以设置提醒或标为紧急，会在 9:00 提醒。",
@@ -108,10 +171,17 @@
           "习惯小组件已移除。"
         ],
         "zh-Hant": [
+          "設定中的小工具：Day 的每個小工具都用你自己的行程按真實尺寸即時繪製，並說明如何加入主畫面、鎖定畫面或控制中心。",
+          "本週回顧：已安排的時間與上週對比、每個行事曆的時數、最忙的一天、空閒時間和已完成的提醒事項，最近十二週的任一週都能查看。",
+          "以圖片或文字分享一天或一週，或只分享你有空的時間；標題可以隱藏。",
+          "範本：把一類行程或提醒事項（時長、行事曆、提示、地點、重複）儲存一次，就能在快速加入、編輯器或捷徑中由它新增。",
+          "在設定中為新行程和新提醒事項設定預設值：時長、提示（數量不限，時間任選）、提醒事項的時間和優先順序。",
+          "設定中的觸控回應：快、正常或慢，決定按住和拖移的反應速度。",
+          "設定已重新整理：外觀、接下來、輸入、預設 App、一般和關於；行事曆和提醒事項頁面按顯示、新項目、提示的順序排列。",
           "收藏：在行程或提醒事項的卡片上加星號。點「提醒事項」旁的黃色星號即可查看全部，並透過 iCloud 同步。",
           "倒數日小工具：顯示距離某個行程或提醒事項的天數，或已過去的天數。可從全部或僅收藏中選擇，並選擇樣式（經典、醒目、日曆頁、極簡）和文字顏色；也可用於鎖定畫面。",
           "在卡片上顯示倒數日：設定中的選項，在行程或提醒事項卡片的右上角顯示剩餘天數。",
-          "設定中的「接下來」：決定提前多久優先顯示行程：今天剩餘時間、下一個行程、6、12 或 24 小時，或自訂時長。",
+          "設定 › 接下來中的「提前顯示」：行程提前多久排在最前：今天剩下的時間、下一個行程、6、12 或 24 小時，或自訂時數。",
           "「接下來」中提醒事項的日期和時間與行程顯示方式一致。",
           "大尺寸「接下來」小工具更整潔：各列對齊，列表填滿空間，空狀態更清楚。",
           "有日期但沒有時間的提醒事項也可以設定提醒或標為緊急，會在 9:00 提醒。",
@@ -121,60 +191,70 @@
       },
       "fixes": {
         "en": [
+          "Ticking off a reminder that has only a date, before its day, now asks first.",
           "Saving or deleting no longer reloads the whole calendar.",
           "Spotlight and notifications are prepared in the background, so Day stays responsive.",
           "Up Next redraws only when the next item changes, which saves battery.",
           "Months, weeks and the year redraw less when you swipe."
         ],
         "de": [
+          "Eine Erinnerung nur mit Datum vor ihrem Tag abzuhaken fragt jetzt erst nach.",
           "Speichern oder Löschen lädt nicht mehr den ganzen Kalender neu.",
           "Spotlight und Mitteilungen werden im Hintergrund vorbereitet, Day bleibt flüssig.",
           "Als Nächstes zeichnet nur neu, wenn sich der nächste Eintrag ändert; das spart Akku.",
           "Monat, Woche und Jahr zeichnen beim Wischen weniger neu."
         ],
         "es": [
+          "Marcar como completado un recordatorio que solo tiene fecha, antes de su día, ahora pide confirmación.",
           "Guardar o eliminar ya no recarga todo el calendario.",
           "Spotlight y las notificaciones se preparan en segundo plano, así Day sigue fluido.",
           "A continuación solo se redibuja cuando cambia el siguiente elemento, lo que ahorra batería.",
           "Meses, semanas y el año se redibujan menos al deslizar."
         ],
         "fr": [
+          "Cocher un rappel qui n’a qu’une date, avant son jour, demande désormais confirmation.",
           "Enregistrer ou supprimer ne recharge plus tout le calendrier.",
           "Spotlight et les notifications sont préparés en arrière-plan, Day reste fluide.",
           "À suivre ne se redessine que lorsque l’élément suivant change, ce qui économise la batterie.",
           "Les mois, les semaines et l’année se redessinent moins quand vous balayez."
         ],
         "it": [
+          "Spuntare un promemoria che ha solo una data, prima del suo giorno, ora chiede conferma.",
           "Salvare o eliminare non ricarica più l’intero calendario.",
           "Spotlight e le notifiche vengono preparati in background, così Day resta fluido.",
           "Prossimo si ridisegna solo quando cambia l’elemento successivo, risparmiando batteria.",
           "Mesi, settimane e anno si ridisegnano meno quando scorri."
         ],
         "ja": [
+          "日付だけのリマインダーをその日より前に完了にしようとすると、確認が出るようになりました。",
           "保存や削除でカレンダー全体を再読み込みしなくなりました。",
           "Spotlightと通知をバックグラウンドで準備するため、Dayの動作が軽快です。",
           "次の予定は次の項目が変わったときだけ再描画し、バッテリーを節約します。",
           "スワイプ時の月・週・年の再描画を減らしました。"
         ],
         "ko": [
+          "날짜만 있는 미리 알림을 해당 날짜 전에 완료하면 이제 먼저 확인을 묻습니다.",
           "저장하거나 삭제해도 더 이상 캘린더 전체를 다시 불러오지 않습니다.",
           "Spotlight와 알림을 백그라운드에서 준비해 Day가 부드럽게 작동합니다.",
           "다음 일정은 다음 항목이 바뀔 때만 다시 그려 배터리를 아낍니다.",
           "스와이프할 때 월, 주, 연도를 덜 다시 그립니다."
         ],
         "pt-BR": [
+          "Marcar como concluído um lembrete que só tem data, antes do dia dele, agora pede confirmação.",
           "Salvar ou apagar não recarrega mais o calendário inteiro.",
           "O Spotlight e as notificações são preparados em segundo plano, e o Day continua fluido.",
           "A seguir só é redesenhado quando o próximo item muda, o que economiza bateria.",
           "Meses, semanas e o ano são redesenhados menos ao deslizar."
         ],
         "zh-Hans": [
+          "在当天之前勾选只有日期的提醒事项时，现在会先询问。",
           "保存或删除后不再重新加载整个日历。",
           "聚焦搜索和通知在后台准备，Day 运行更流畅。",
           "“即将开始”仅在下一项变化时重绘，更省电。",
           "滑动时月、周和年视图的重绘更少。"
         ],
         "zh-Hant": [
+          "在當天之前勾選只有日期的提醒事項時，現在會先詢問。",
           "儲存或刪除後不再重新載入整個日曆。",
           "Spotlight 和通知在背景準備，Day 運作更流暢。",
           "「接下來」僅在下一項變化時重繪，更省電。",
@@ -190,7 +270,14 @@
       ],
       "features": {
         "en": [
-          "Resizing the window is smooth: the calendar keeps its layout while you drag and arranges itself once you let go.",
+          "Day in the menu bar: the next event and the rest of today, and a shortcut (⌃⌥N) that opens Quick Add from any app. Turn them on in Settings › Menu Bar.",
+          "Widgets in Settings: every Day widget, drawn live with your own events in its real sizes, with how to add it to the desktop or Notification Center.",
+          "Week in Review: your scheduled time against the week before, hours per calendar, the busiest day, free time and reminders done, for any of the last twelve weeks.",
+          "Share a day or a week as a picture or as text, or only the times you're free; titles can be hidden (⌘⇧S).",
+          "Templates: save a kind of event or reminder once (length, calendar, alerts, place, repeat) and start a new one from it in Quick Add, the editor or Shortcuts. On the Mac also from a day's right-click menu.",
+          "Defaults for new events and reminders in Settings: length, alerts (as many as you like, at any time), a reminder's time and priority.",
+          "Settings are sorted anew: Appearance, Up Next, Input, Default Apps, General and About; the Calendars and Reminders pages go from what's shown to new items to alerts.",
+          "Resizing the window is smooth: the calendar follows while you drag and no longer falls behind.",
           "Switching months is much faster, with a new month calendar in the sidebar.",
           "A tidier top bar: ‹ Today › and New Event with search sit in two capsules, and the bar no longer overflows. The sidebar follows the window's width.",
           "Dictate in any language: Day now understands speech on this device with an optional Qwen model, detects the language by itself and no longer drops words after a pause.",
@@ -201,7 +288,7 @@
           "Favorites: star an event or reminder on its card. The yellow star next to Reminders opens them all, synced through iCloud.",
           "Days Counter widget: the days to an event or reminder, or since it, in four styles (Classic, Bold, Calendar Page, Minimal) and a text color of your choice.",
           "Day Counter on Cards: an option in Settings that shows the days left at the top right of an event or reminder card.",
-          "Coming Up in Settings: how far ahead an event comes first in Up Next: the rest of today, the next event, 6, 12 or 24 hours, or a number of your own.",
+          "Look Ahead in Settings › Up Next: how far ahead an event comes first: the rest of today, the next event, 6, 12 or 24 hours, or a number of your own.",
           "Reminders with a date but no time can have an alert or be urgent; they go off at 9:00.",
           "On-Device AI in Settings: choose the engines for Quick Add and dictation and manage the models.",
           "Keyboard Shortcuts in Settings: see every shortcut and change it.",
@@ -210,7 +297,14 @@
           "The Habits widget is gone."
         ],
         "de": [
-          "Fenstergröße ändern läuft flüssig: Der Kalender behält beim Ziehen sein Layout und ordnet sich einmal neu, wenn du loslässt.",
+          "Day in der Menüleiste: der nächste Termin und der Rest des Tages, dazu ein Kurzbefehl (⌃⌥N), der aus jeder App Schnell hinzufügen öffnet. Einschalten unter Einstellungen › Menüleiste.",
+          "Widgets in den Einstellungen: jedes Day-Widget, live mit deinen eigenen Terminen in seinen echten Größen gezeichnet, mit der Anleitung für Schreibtisch oder Mitteilungszentrale.",
+          "Wochenrückblick: deine verplante Zeit im Vergleich zur Vorwoche, Stunden pro Kalender, der vollste Tag, freie Zeit und erledigte Erinnerungen, für jede der letzten zwölf Wochen.",
+          "Teile einen Tag oder eine Woche als Bild oder Text, oder nur die Zeiten, in denen du frei bist; Titel lassen sich ausblenden (⌘⇧S).",
+          "Vorlagen: Speichere eine Art von Termin oder Erinnerung einmal (Dauer, Kalender, Hinweise, Ort, Wiederholung) und lege daraus in Schnell hinzufügen, im Editor oder in Kurzbefehlen einen neuen an. Auf dem Mac auch über das Rechtsklick-Menü eines Tages.",
+          "Vorgaben für neue Termine und Erinnerungen in den Einstellungen: Dauer, Hinweise (so viele du willst, zu jeder Zeit), Uhrzeit und Priorität einer Erinnerung.",
+          "Die Einstellungen sind neu sortiert: Darstellung, Als Nächstes, Eingabe, Standard-Apps, Allgemein und Info; die Seiten Kalender und Erinnerungen gehen von der Anzeige über neue Einträge zu den Hinweisen.",
+          "Das Fenster lässt sich flüssig in der Größe ändern: Der Kalender folgt beim Ziehen und hinkt nicht mehr hinterher.",
           "Der Monatswechsel ist deutlich schneller, mit einem neuen Monatskalender in der Seitenleiste.",
           "Eine aufgeräumte obere Leiste: ‹ Heute › sowie Neues Ereignis mit Suche sitzen in zwei Kapseln, und die Leiste läuft nicht mehr über. Die Seitenleiste folgt der Fensterbreite.",
           "Diktieren in jeder Sprache: Day versteht Sprache jetzt auf dem Gerät mit einem optionalen Qwen-Modell, erkennt die Sprache selbst und verliert nach einer Pause keine Wörter mehr.",
@@ -221,7 +315,7 @@
           "Favoriten: Markiere einen Termin oder eine Erinnerung auf der Karte mit einem Stern. Der gelbe Stern neben Erinnerungen öffnet alle, über iCloud synchronisiert.",
           "Tageszähler-Widget: die Tage bis zu einem Termin oder einer Erinnerung oder seitdem, in vier Stilen (Klassisch, Kräftig, Kalenderblatt, Minimal) und einer Textfarbe deiner Wahl.",
           "Tageszähler auf Karten: eine Option in den Einstellungen, die oben rechts auf der Karte eines Termins oder einer Erinnerung die verbleibenden Tage zeigt.",
-          "Demnächst in den Einstellungen: wie weit im Voraus ein Termin in Als Nächstes zuerst kommt: der Rest des Tages, der nächste Termin, 6, 12 oder 24 Stunden oder eine eigene Zahl.",
+          "Vorausschau unter Einstellungen › Als Nächstes: wie weit im Voraus ein Termin zuerst kommt: der Rest des Tages, der nächste Termin, 6, 12 oder 24 Stunden oder eine eigene Zahl.",
           "Erinnerungen mit Datum, aber ohne Uhrzeit können einen Hinweis haben oder dringend sein; sie melden sich um 9:00.",
           "KI auf dem Gerät in den Einstellungen: Engines für Quick Add und Diktieren wählen und Modelle verwalten.",
           "Tastaturkürzel in den Einstellungen: alle Kürzel ansehen und ändern.",
@@ -230,7 +324,14 @@
           "Das Gewohnheiten-Widget ist entfallen."
         ],
         "es": [
-          "Cambiar el tamaño de la ventana es fluido: el calendario mantiene su diseño mientras arrastras y se reorganiza al soltar.",
+          "Day en la barra de menús: el próximo evento y el resto del día, y un atajo (⌃⌥N) que abre Añadido rápido desde cualquier app. Actívalos en Ajustes › Barra de menús.",
+          "Widgets en Ajustes: todos los widgets de Day, dibujados en vivo con tus propios eventos y en su tamaño real, con cómo añadirlos al escritorio o al centro de notificaciones.",
+          "Resumen semanal: tu tiempo planificado frente a la semana anterior, horas por calendario, el día más ocupado, el tiempo libre y los recordatorios completados, para cualquiera de las últimas doce semanas.",
+          "Comparte un día o una semana como imagen o texto, o solo las horas en las que estás libre; los títulos se pueden ocultar (⌘⇧S).",
+          "Plantillas: guarda una vez un tipo de evento o recordatorio (duración, calendario, avisos, lugar, repetición) y crea uno nuevo a partir de él en Añadido rápido, el editor o Atajos. En el Mac, también desde el menú contextual de un día.",
+          "Valores para eventos y recordatorios nuevos en Ajustes: duración, avisos (todos los que quieras, a cualquier hora), y la hora y prioridad de un recordatorio.",
+          "Los Ajustes están ordenados de nuevo: Apariencia, A continuación, Entrada, Apps predeterminadas, General e Información; las páginas de Calendarios y Recordatorios van de lo que se muestra a los elementos nuevos y los avisos.",
+          "Cambiar el tamaño de la ventana es fluido: el calendario sigue el movimiento mientras arrastras y ya no se queda atrás.",
           "Cambiar de mes es mucho más rápido, con un nuevo calendario mensual en la barra lateral.",
           "Una barra superior más ordenada: ‹ Hoy › y Nuevo evento con la búsqueda van en dos cápsulas, y la barra ya no se desborda. La barra lateral sigue el ancho de la ventana.",
           "Dicta en cualquier idioma: Day entiende la voz en el dispositivo con un modelo Qwen opcional, detecta el idioma solo y ya no pierde palabras tras una pausa.",
@@ -241,7 +342,7 @@
           "Favoritos: marca con una estrella un evento o recordatorio en su tarjeta. La estrella amarilla junto a Recordatorios los abre todos, sincronizados con iCloud.",
           "Widget Contador de días: los días hasta un evento o recordatorio, o desde él, en cuatro estilos (Clásico, Intenso, Hoja de calendario, Mínimo) y el color de texto que elijas.",
           "Contador de días en tarjetas: una opción en Ajustes que muestra los días que faltan arriba a la derecha de la tarjeta de un evento o recordatorio.",
-          "Próximamente en Ajustes: con cuánta antelación un evento aparece primero en A continuación: el resto del día, el próximo evento, 6, 12 o 24 horas, o un número propio.",
+          "Anticipación en Ajustes › A continuación: con cuánta antelación aparece primero un evento: el resto del día, el próximo evento, 6, 12 o 24 horas, o un número propio.",
           "Los recordatorios con fecha pero sin hora pueden tener un aviso o ser urgentes; suenan a las 9:00.",
           "IA en el dispositivo en Ajustes: elige los motores de Añadido rápido y dictado y gestiona los modelos.",
           "Atajos de teclado en Ajustes: consulta cada atajo y cámbialo.",
@@ -250,7 +351,14 @@
           "El widget de Hábitos ya no está."
         ],
         "fr": [
-          "Redimensionner la fenêtre est fluide : le calendrier garde sa disposition pendant que vous faites glisser et se réorganise une fois relâché.",
+          "Day dans la barre des menus : le prochain événement et le reste de la journée, et un raccourci (⌃⌥N) qui ouvre l’Ajout rapide depuis n’importe quelle app. À activer dans Réglages › Barre des menus.",
+          "Widgets dans les Réglages : chaque widget de Day, dessiné en direct avec vos propres événements dans ses vraies tailles, avec la façon de l’ajouter au bureau ou au centre de notifications.",
+          "Bilan de la semaine : votre temps planifié comparé à la semaine précédente, les heures par calendrier, le jour le plus chargé, le temps libre et les rappels terminés, pour chacune des douze dernières semaines.",
+          "Partagez un jour ou une semaine en image ou en texte, ou seulement vos créneaux libres ; les titres peuvent être masqués (⌘⇧S).",
+          "Modèles : enregistrez une fois un type d’événement ou de rappel (durée, calendrier, alertes, lieu, répétition) et créez-en un nouveau depuis l’Ajout rapide, l’éditeur ou Raccourcis. Sur Mac, aussi depuis le menu contextuel d’un jour.",
+          "Valeurs par défaut des nouveaux événements et rappels dans les Réglages : durée, alertes (autant que vous voulez, à tout moment), heure et priorité d’un rappel.",
+          "Les Réglages sont réorganisés : Apparence, À suivre, Saisie, Apps par défaut, Général et À propos ; les pages Calendriers et Rappels vont de l’affichage aux nouveaux éléments puis aux alertes.",
+          "Redimensionner la fenêtre est fluide : le calendrier suit pendant que vous faites glisser et ne prend plus de retard.",
           "Changer de mois est bien plus rapide, avec un nouveau calendrier mensuel dans la barre latérale.",
           "Une barre supérieure plus nette : ‹ Aujourd’hui › et Nouvel événement avec la recherche tiennent dans deux capsules, et la barre ne déborde plus. La barre latérale suit la largeur de la fenêtre.",
           "Dictez dans n’importe quelle langue : Day comprend la voix sur l’appareil avec un modèle Qwen facultatif, détecte la langue seul et ne perd plus de mots après une pause.",
@@ -261,7 +369,7 @@
           "Favoris : ajoutez une étoile à un événement ou un rappel depuis sa fiche. L’étoile jaune à côté de Rappels les ouvre tous, synchronisés via iCloud.",
           "Widget Compteur de jours : les jours jusqu’à un événement ou un rappel, ou depuis, en quatre styles (Classique, Intense, Page de calendrier, Minimal) et la couleur de texte de votre choix.",
           "Compteur de jours sur les fiches : une option dans Réglages qui affiche les jours restants en haut à droite de la fiche d’un événement ou d’un rappel.",
-          "À venir dans Réglages : combien de temps à l’avance un événement passe en premier dans À suivre : le reste de la journée, le prochain événement, 6, 12 ou 24 heures, ou un nombre de votre choix.",
+          "Anticipation dans Réglages › À suivre : combien de temps à l’avance un événement passe en premier : le reste de la journée, le prochain événement, 6, 12 ou 24 heures, ou une durée de votre choix.",
           "Les rappels avec une date mais sans heure peuvent avoir une alerte ou être urgents ; ils sonnent à 9:00.",
           "IA sur l’appareil dans Réglages : choisissez les moteurs de l’ajout rapide et de la dictée et gérez les modèles.",
           "Raccourcis clavier dans Réglages : consultez chaque raccourci et modifiez-le.",
@@ -270,7 +378,14 @@
           "Le widget Habitudes a été retiré."
         ],
         "it": [
-          "Ridimensionare la finestra è fluido: il calendario mantiene il layout mentre trascini e si riorganizza quando lasci.",
+          "Day nella barra dei menu: il prossimo evento e il resto della giornata, e una scorciatoia (⌃⌥N) che apre l’Aggiunta rapida da qualsiasi app. Attivali in Impostazioni › Barra dei menu.",
+          "Widget nelle Impostazioni: ogni widget di Day, disegnato dal vivo con i tuoi eventi nelle sue dimensioni reali, con come aggiungerlo alla scrivania o al Centro Notifiche.",
+          "Riepilogo settimanale: il tempo pianificato rispetto alla settimana prima, le ore per calendario, il giorno più pieno, il tempo libero e i promemoria completati, per ognuna delle ultime dodici settimane.",
+          "Condividi un giorno o una settimana come immagine o testo, oppure solo gli orari in cui sei libero; i titoli si possono nascondere (⌘⇧S).",
+          "Modelli: salva una volta un tipo di evento o promemoria (durata, calendario, avvisi, luogo, ripetizione) e creane uno nuovo dall’Aggiunta rapida, dall’editor o da Comandi Rapidi. Su Mac anche dal menu contestuale di un giorno.",
+          "Valori predefiniti per nuovi eventi e promemoria nelle Impostazioni: durata, avvisi (quanti vuoi, a qualsiasi ora), orario e priorità di un promemoria.",
+          "Le Impostazioni sono riordinate: Aspetto, Prossimo, Inserimento, App predefinite, Generali e Info; le pagine Calendari e Promemoria vanno da ciò che si vede ai nuovi elementi e agli avvisi.",
+          "Ridimensionare la finestra è fluido: il calendario segue mentre trascini e non resta più indietro.",
           "Cambiare mese è molto più veloce, con un nuovo calendario mensile nella barra laterale.",
           "Una barra superiore più ordinata: ‹ Oggi › e Nuovo evento con la ricerca stanno in due capsule, e la barra non trabocca più. La barra laterale segue la larghezza della finestra.",
           "Detta in qualsiasi lingua: Day capisce la voce sul dispositivo con un modello Qwen facoltativo, riconosce la lingua da solo e non perde più parole dopo una pausa.",
@@ -281,7 +396,7 @@
           "Preferiti: aggiungi una stella a un evento o promemoria dalla sua scheda. La stella gialla accanto a Promemoria li apre tutti, sincronizzati con iCloud.",
           "Widget Conta giorni: i giorni a un evento o promemoria, o da quando è passato, in quattro stili (Classico, Intenso, Pagina di calendario, Minimale) e un colore del testo a scelta.",
           "Conta giorni sulle schede: un’opzione in Impostazioni che mostra i giorni mancanti in alto a destra nella scheda di un evento o promemoria.",
-          "In arrivo nelle Impostazioni: con quanto anticipo un evento viene prima in Prossimo: il resto della giornata, il prossimo evento, 6, 12 o 24 ore, o un numero a scelta.",
+          "Anticipo in Impostazioni › Prossimo: con quanto anticipo un evento compare per primo: il resto della giornata, il prossimo evento, 6, 12 o 24 ore, o un numero a tua scelta.",
           "I promemoria con data ma senza ora possono avere un avviso o essere urgenti; suonano alle 9:00.",
           "IA sul dispositivo in Impostazioni: scegli i motori per Aggiunta rapida e dettatura e gestisci i modelli.",
           "Scorciatoie da tastiera nelle Impostazioni: vedi ogni scorciatoia e modificala.",
@@ -290,7 +405,14 @@
           "Il widget Abitudini non c’è più."
         ],
         "ja": [
-          "ウインドウのサイズ変更がなめらかに：ドラッグ中はレイアウトを保ち、離したときに一度だけ並べ直します。",
+          "メニューバーにDay：次の予定と今日の残りの予定、どのAppからでもクイック追加を開くショートカット（⌃⌥N）。設定 › メニューバーでオンにできます。",
+          "設定にウィジェット：Dayのすべてのウィジェットを、あなたの予定で実際のサイズのままライブ表示。デスクトップや通知センターへの追加方法も載っています。",
+          "週のふりかえり：予定の入った時間と前週との比較、カレンダーごとの時間、いちばん忙しい日、空き時間、完了したリマインダー。過去12週のどの週でも見られます。",
+          "1日や1週間を画像やテキストで共有したり、空いている時間だけを共有したりできます。タイトルは隠せます（⌘⇧S）。",
+          "テンプレート：予定やリマインダーの種類（長さ、カレンダー、通知、場所、繰り返し）を一度保存すれば、クイック追加やエディタ、ショートカットからすぐに作れます。Macでは日付の右クリックメニューからも使えます。",
+          "設定で新規イベントと新規リマインダーの初期値：長さ、通知（好きな数を好きなタイミングで）、リマインダーの時刻と優先度。",
+          "設定を整理し直しました：外観、次の予定、入力、デフォルトのApp、一般、情報。カレンダーとリマインダーのページは、表示、新規項目、通知の順になりました。",
+          "ウインドウのサイズ変更がなめらかに。ドラッグ中もカレンダーが追従し、遅れなくなりました。",
           "月の切り替えが大幅に高速化し、サイドバーに新しい月カレンダーを搭載。",
           "上部バーをすっきり：‹ 今日 › と、新規イベントと検索が2つのカプセルにまとまり、バーがあふれなくなりました。サイドバーはウインドウの幅に合わせます。",
           "どの言語でも音声入力：オプションの Qwen モデルでデバイス上で音声を理解し、言語を自動判別。間を置いても言葉が消えなくなりました。",
@@ -301,7 +423,7 @@
           "お気に入り：イベントやリマインダーのカードで星を付けられます。リマインダーの横の黄色い星からすべて開け、iCloudで同期されます。",
           "日数カウンターウィジェット：イベントやリマインダーまでの日数、または過ぎてからの日数を、4つのスタイル（クラシック、ボールド、カレンダーページ、ミニマル）と好きな文字色で。",
           "カードに日数カウンターを表示：設定のオプションで、イベントやリマインダーのカード右上に残りの日数を表示します。",
-          "設定の「この先の予定」：次の予定で、どのくらい先のイベントを優先するか。今日の残り、次のイベント、6・12・24時間、または任意の時間。",
+          "設定 › 次の予定の「先読み」：予定をどれだけ前から先頭に出すか。今日の残り、次の予定、6・12・24時間、または好きな時間数。",
           "日付のみで時刻のないリマインダーにも通知や緊急を設定でき、9:00に知らせます。",
           "設定の「デバイス上のAI」：クイック追加と音声入力のエンジンを選び、モデルを管理できます。",
           "設定のキーボードショートカット：すべてのショートカットを確認して変更できます。",
@@ -310,7 +432,14 @@
           "習慣ウィジェットは廃止されました。"
         ],
         "ko": [
-          "창 크기 조절이 부드러워졌습니다. 드래그하는 동안 레이아웃을 유지하고 손을 떼면 한 번에 다시 정렬합니다.",
+          "메뉴 막대의 Day: 다음 이벤트와 오늘 남은 일정, 그리고 어느 앱에서든 빠른 추가를 여는 단축키(⌃⌥N). 설정 › 메뉴 막대에서 켤 수 있습니다.",
+          "설정의 위젯: Day의 모든 위젯을 내 일정으로 실제 크기 그대로 실시간 표시하고, 데스크탑이나 알림 센터에 추가하는 방법도 알려 줍니다.",
+          "주간 리뷰: 지난주와 비교한 일정 시간, 캘린더별 시간, 가장 바쁜 날, 빈 시간, 완료한 미리 알림을 최근 12주 중 어느 주든 볼 수 있습니다.",
+          "하루나 한 주를 이미지나 텍스트로, 또는 빈 시간만 공유할 수 있으며 제목은 숨길 수 있습니다 (⌘⇧S).",
+          "템플릿: 이벤트나 미리 알림의 종류(길이, 캘린더, 알림, 장소, 반복)를 한 번 저장해 두면 빠른 추가, 편집기 또는 단축어에서 바로 새로 만들 수 있습니다. Mac에서는 날짜의 오른쪽 클릭 메뉴에서도 쓸 수 있습니다.",
+          "설정에서 새로운 이벤트와 미리 알림의 기본값: 길이, 알림(원하는 만큼, 원하는 시간에), 미리 알림의 시간과 우선순위.",
+          "설정을 새로 정리했습니다: 모양, 다음 일정, 입력, 기본 앱, 일반, 정보. 캘린더와 미리 알림 페이지는 표시, 새 항목, 알림 순서로 바뀌었습니다.",
+          "창 크기 조절이 부드러워졌습니다. 드래그하는 동안 캘린더가 따라오며 더 이상 뒤처지지 않습니다.",
           "월 전환이 훨씬 빨라졌고, 사이드바에 새로운 월 달력이 있습니다.",
           "더 깔끔한 상단 막대: ‹ 오늘 ›, 그리고 새로운 이벤트와 검색이 두 개의 캡슐에 담기며 막대가 더 이상 넘치지 않습니다. 사이드바는 창 너비를 따릅니다.",
           "어떤 언어로든 받아쓰기: 선택형 Qwen 모델로 기기에서 음성을 이해하고 언어를 자동 감지하며, 잠시 멈춰도 단어가 사라지지 않습니다.",
@@ -321,7 +450,7 @@
           "즐겨찾기: 이벤트나 미리 알림 카드에서 별표를 표시하세요. 미리 알림 옆의 노란 별에서 모두 열 수 있으며 iCloud로 동기화됩니다.",
           "일수 카운터 위젯: 이벤트나 미리 알림까지 남은 날 또는 지난 날을 네 가지 스타일(클래식, 볼드, 달력 페이지, 미니멀)과 원하는 글자 색으로 보여 줍니다.",
           "카드에 일수 카운터: 설정의 옵션으로, 이벤트나 미리 알림 카드 오른쪽 위에 남은 날을 보여 줍니다.",
-          "설정의 다가오는 일정: 다음 일정에서 이벤트를 얼마나 미리 먼저 보여 줄지 선택합니다. 오늘 남은 시간, 다음 이벤트, 6·12·24시간 또는 직접 정한 시간.",
+          "설정 › 다음 일정의 미리 보기 범위: 이벤트를 얼마나 미리 맨 앞에 보여 줄지. 오늘 남은 시간, 다음 이벤트, 6·12·24시간 또는 직접 정한 시간.",
           "날짜만 있고 시간이 없는 미리 알림에도 알림이나 긴급을 설정할 수 있으며, 9:00에 울립니다.",
           "설정의 기기 내 AI: 빠른 추가와 받아쓰기 엔진을 고르고 모델을 관리합니다.",
           "설정의 키보드 단축키: 모든 단축키를 보고 바꿀 수 있습니다.",
@@ -330,7 +459,14 @@
           "습관 위젯이 제거되었습니다."
         ],
         "pt-BR": [
-          "Redimensionar a janela ficou fluido: o calendário mantém o layout enquanto você arrasta e se reorganiza ao soltar.",
+          "Day na barra de menus: o próximo evento e o resto do dia, e um atalho (⌃⌥N) que abre a Adição rápida a partir de qualquer app. Ative em Ajustes › Barra de menus.",
+          "Widgets nos Ajustes: todos os widgets do Day, desenhados ao vivo com seus próprios eventos nos tamanhos reais, com como adicioná-los à mesa ou à Central de Notificações.",
+          "Resumo da semana: seu tempo agendado comparado à semana anterior, horas por calendário, o dia mais cheio, tempo livre e lembretes concluídos, para qualquer uma das últimas doze semanas.",
+          "Compartilhe um dia ou uma semana como imagem ou texto, ou só os horários em que você está livre; os títulos podem ser ocultados (⌘⇧S).",
+          "Modelos: salve uma vez um tipo de evento ou lembrete (duração, calendário, alertas, local, repetição) e crie um novo a partir dele na Adição rápida, no editor ou em Atalhos. No Mac, também pelo menu de contexto de um dia.",
+          "Padrões para novos eventos e lembretes nos Ajustes: duração, alertas (quantos quiser, em qualquer horário), e horário e prioridade de um lembrete.",
+          "Os Ajustes foram reorganizados: Aparência, A seguir, Entrada, Apps padrão, Geral e Sobre; as páginas Calendários e Lembretes vão do que é exibido aos novos itens e aos alertas.",
+          "Redimensionar a janela é suave: o calendário acompanha enquanto você arrasta e não fica mais para trás.",
           "Trocar de mês ficou muito mais rápido, com um novo calendário mensal na barra lateral.",
           "Uma barra superior mais organizada: ‹ Hoje › e Novo evento com a busca ficam em duas cápsulas, e a barra não transborda mais. A barra lateral acompanha a largura da janela.",
           "Dite em qualquer idioma: o Day entende a voz no dispositivo com um modelo Qwen opcional, detecta o idioma sozinho e não perde mais palavras após uma pausa.",
@@ -341,7 +477,7 @@
           "Favoritos: marque com estrela um evento ou lembrete no cartão. A estrela amarela ao lado de Lembretes abre todos, sincronizados pelo iCloud.",
           "Widget Contador de dias: os dias até um evento ou lembrete, ou desde ele, em quatro estilos (Clássico, Intenso, Folha de calendário, Mínimo) e a cor de texto que preferir.",
           "Contador de dias nos cartões: uma opção nos Ajustes que mostra os dias restantes no canto superior direito do cartão de um evento ou lembrete.",
-          "Em breve nos Ajustes: com quanta antecedência um evento aparece primeiro em A seguir: o resto do dia, o próximo evento, 6, 12 ou 24 horas, ou um número seu.",
+          "Antecedência em Ajustes › A seguir: com quanta antecedência um evento aparece primeiro: o resto do dia, o próximo evento, 6, 12 ou 24 horas, ou um número seu.",
           "Lembretes com data mas sem hora podem ter um alerta ou ser urgentes; eles tocam às 9:00.",
           "IA no dispositivo em Ajustes: escolha os mecanismos de Adição rápida e ditado e gerencie os modelos.",
           "Atalhos de teclado nos Ajustes: veja cada atalho e altere-o.",
@@ -350,7 +486,14 @@
           "O widget Hábitos foi removido."
         ],
         "zh-Hans": [
-          "调整窗口大小更流畅：拖动时日历保持布局，松开后一次性重新排列。",
+          "菜单栏中的 Day：下一个事件和今天剩余的日程，以及在任何 App 中都能打开快速添加的快捷键（⌃⌥N）。在设置 › 菜单栏中打开。",
+          "设置中的小组件：Day 的每个小组件都用你自己的日程按真实尺寸实时绘制，并说明如何添加到桌面或通知中心。",
+          "本周回顾：已安排的时间与上周对比、每个日历的时长、最忙的一天、空闲时间和已完成的提醒事项，最近十二周的任意一周都能查看。",
+          "以图片或文本分享一天或一周，或只分享你有空的时间；标题可以隐藏（⌘⇧S）。",
+          "模板：把一类事件或提醒事项（时长、日历、提醒、地点、重复）存储一次，就能在快速添加、编辑器或快捷指令中由它新建。在 Mac 上也可以从某一天的右键菜单使用。",
+          "在设置中为新事件和新提醒事项设定默认值：时长、提醒（数量不限，时间任选）、提醒事项的时间和优先级。",
+          "设置已重新整理：外观、即将开始、输入、默认 App、通用和关于；日历和提醒事项页面按显示、新项目、提醒的顺序排列。",
+          "调整窗口大小更流畅：拖移时日历随之变化，不再落后。",
           "切换月份快得多，侧边栏也换上了新的月历。",
           "更整洁的顶部栏：‹ 今天 › 以及新建事件和搜索分别放在两个胶囊中，顶部栏不再溢出。侧边栏随窗口宽度调整。",
           "任意语言听写：Day 借助可选的 Qwen 模型在设备上理解语音，自动识别语言，停顿后不再丢字。",
@@ -361,7 +504,7 @@
           "收藏：在日程或提醒事项的卡片上加星标。点“提醒事项”旁的黄色星标即可查看全部，并通过 iCloud 同步。",
           "倒数日小组件：显示距离日程或提醒事项的天数或已过去的天数，提供四种样式（经典、醒目、日历页、极简）和自选文字颜色。",
           "在卡片上显示倒数日：设置中的选项，在日程或提醒事项卡片的右上角显示剩余天数。",
-          "设置中的“接下来”：决定“即将开始”中提前多久优先显示日程：今天剩余时间、下一个日程、6、12 或 24 小时，或自定义时长。",
+          "设置 › 即将开始中的“提前显示”：事件提前多久排在最前：今天剩余时间、下一个事件、6、12 或 24 小时，或自定时长。",
           "有日期但没有时间的提醒事项也可以设置提醒或标为紧急，会在 9:00 提醒。",
           "设置中的“设备上的 AI”：为快速添加和听写选择引擎并管理模型。",
           "设置中的键盘快捷键：查看并更改每个快捷键。",
@@ -370,7 +513,14 @@
           "习惯小组件已移除。"
         ],
         "zh-Hant": [
-          "調整視窗大小更流暢：拖移時日曆維持版面，放開後一次重新排列。",
+          "選單列中的 Day：下一個行程和今天剩下的行程，以及在任何 App 中都能打開快速加入的快速鍵（⌃⌥N）。在設定 › 選單列中開啟。",
+          "設定中的小工具：Day 的每個小工具都用你自己的行程按真實尺寸即時繪製，並說明如何加入桌面或通知中心。",
+          "本週回顧：已安排的時間與上週對比、每個行事曆的時數、最忙的一天、空閒時間和已完成的提醒事項，最近十二週的任一週都能查看。",
+          "以圖片或文字分享一天或一週，或只分享你有空的時間；標題可以隱藏（⌘⇧S）。",
+          "範本：把一類行程或提醒事項（時長、行事曆、提示、地點、重複）儲存一次，就能在快速加入、編輯器或捷徑中由它新增。在 Mac 上也可以從某一天的右鍵選單使用。",
+          "在設定中為新行程和新提醒事項設定預設值：時長、提示（數量不限，時間任選）、提醒事項的時間和優先順序。",
+          "設定已重新整理：外觀、接下來、輸入、預設 App、一般和關於；行事曆和提醒事項頁面按顯示、新項目、提示的順序排列。",
+          "調整視窗大小更流暢：拖移時行事曆隨之變化，不再落後。",
           "切換月份快得多，側邊欄也換上了新的月曆。",
           "更整潔的頂部列：‹ 今天 › 以及新增行程和搜尋分別放在兩個膠囊中，頂部列不再溢出。側邊欄隨視窗寬度調整。",
           "任何語言聽寫：Day 透過可選的 Qwen 模型在裝置上理解語音，自動辨識語言，停頓後不再漏字。",
@@ -381,7 +531,7 @@
           "收藏：在行程或提醒事項的卡片上加星號。點「提醒事項」旁的黃色星號即可查看全部，並透過 iCloud 同步。",
           "倒數日小工具：顯示距離行程或提醒事項的天數或已過去的天數，提供四種樣式（經典、醒目、日曆頁、極簡）和自選文字顏色。",
           "在卡片上顯示倒數日：設定中的選項，在行程或提醒事項卡片的右上角顯示剩餘天數。",
-          "設定中的「接下來」：決定提前多久優先顯示行程：今天剩餘時間、下一個行程、6、12 或 24 小時，或自訂時長。",
+          "設定 › 接下來中的「提前顯示」：行程提前多久排在最前：今天剩下的時間、下一個行程、6、12 或 24 小時，或自訂時數。",
           "有日期但沒有時間的提醒事項也可以設定提醒或標為緊急，會在 9:00 提醒。",
           "設定中的「裝置上的 AI」：為快速新增與聽寫選擇引擎並管理模型。",
           "設定中的鍵盤快速鍵：查看並更改每個快速鍵。",
@@ -392,6 +542,7 @@
       },
       "fixes": {
         "en": [
+          "Ticking off a reminder that has only a date, before its day, now asks first.",
           "A renamed or recolored calendar shows its new name and color in the sidebar at once.",
           "Saving or deleting no longer reloads the whole calendar.",
           "Spotlight and notifications are prepared in the background, so Day stays responsive.",
@@ -399,6 +550,7 @@
           "List order and the habit graph sync through iCloud."
         ],
         "de": [
+          "Eine Erinnerung nur mit Datum vor ihrem Tag abzuhaken fragt jetzt erst nach.",
           "Ein umbenannter oder umgefärbter Kalender zeigt Namen und Farbe sofort in der Seitenleiste.",
           "Speichern oder Löschen lädt nicht mehr den ganzen Kalender neu.",
           "Spotlight und Mitteilungen werden im Hintergrund vorbereitet, Day bleibt flüssig.",
@@ -406,6 +558,7 @@
           "Listen-Reihenfolge und Gewohnheitsgraph synchronisieren über iCloud."
         ],
         "es": [
+          "Marcar como completado un recordatorio que solo tiene fecha, antes de su día, ahora pide confirmación.",
           "Un calendario renombrado o con otro color muestra su nuevo nombre y color en la barra lateral al instante.",
           "Guardar o eliminar ya no recarga todo el calendario.",
           "Spotlight y las notificaciones se preparan en segundo plano, así Day sigue fluido.",
@@ -413,6 +566,7 @@
           "El orden de listas y el gráfico de hábitos se sincronizan con iCloud."
         ],
         "fr": [
+          "Cocher un rappel qui n’a qu’une date, avant son jour, demande désormais confirmation.",
           "Un calendrier renommé ou recoloré affiche aussitôt son nouveau nom et sa couleur dans la barre latérale.",
           "Enregistrer ou supprimer ne recharge plus tout le calendrier.",
           "Spotlight et les notifications sont préparés en arrière-plan, Day reste fluide.",
@@ -420,6 +574,7 @@
           "L’ordre des listes et le graphique des habitudes se synchronisent via iCloud."
         ],
         "it": [
+          "Spuntare un promemoria che ha solo una data, prima del suo giorno, ora chiede conferma.",
           "Un calendario rinominato o ricolorato mostra subito nome e colore nuovi nella barra laterale.",
           "Salvare o eliminare non ricarica più l’intero calendario.",
           "Spotlight e le notifiche vengono preparati in background, così Day resta fluido.",
@@ -427,6 +582,7 @@
           "Ordine degli elenchi e grafico delle abitudini si sincronizzano con iCloud."
         ],
         "ja": [
+          "日付だけのリマインダーをその日より前に完了にしようとすると、確認が出るようになりました。",
           "名前や色を変えたカレンダーが、サイドバーにすぐ反映されます。",
           "保存や削除でカレンダー全体を再読み込みしなくなりました。",
           "Spotlightと通知をバックグラウンドで準備するため、Dayの動作が軽快です。",
@@ -434,6 +590,7 @@
           "月表示の現在時刻の線が習慣の下に表示されなくなりました。"
         ],
         "ko": [
+          "날짜만 있는 미리 알림을 해당 날짜 전에 완료하면 이제 먼저 확인을 묻습니다.",
           "이름이나 색을 바꾼 캘린더가 사이드바에 바로 반영됩니다.",
           "저장하거나 삭제해도 더 이상 캘린더 전체를 다시 불러오지 않습니다.",
           "Spotlight와 알림을 백그라운드에서 준비해 Day가 부드럽게 작동합니다.",
@@ -441,6 +598,7 @@
           "월 보기의 현재 시각 선이 더 이상 습관 아래에 표시되지 않음."
         ],
         "pt-BR": [
+          "Marcar como concluído um lembrete que só tem data, antes do dia dele, agora pede confirmação.",
           "Um calendário renomeado ou com nova cor mostra o novo nome e a cor na barra lateral na hora.",
           "Salvar ou apagar não recarrega mais o calendário inteiro.",
           "O Spotlight e as notificações são preparados em segundo plano, e o Day continua fluido.",
@@ -448,6 +606,7 @@
           "A ordem das listas e o gráfico de hábitos sincronizam pelo iCloud."
         ],
         "zh-Hans": [
+          "在当天之前勾选只有日期的提醒事项时，现在会先询问。",
           "重命名或更改颜色的日历会立即在侧边栏中显示新名称和颜色。",
           "保存或删除后不再重新加载整个日历。",
           "聚焦搜索和通知在后台准备，Day 运行更流畅。",
@@ -455,6 +614,7 @@
           "月视图中的当前时间线不再出现在习惯下方。"
         ],
         "zh-Hant": [
+          "在當天之前勾選只有日期的提醒事項時，現在會先詢問。",
           "重新命名或更改顏色的日曆會立即在側邊欄中顯示新名稱和顏色。",
           "儲存或刪除後不再重新載入整個日曆。",
           "Spotlight 和通知在背景準備，Day 運作更流暢。",
