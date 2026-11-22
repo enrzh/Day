@@ -1,6 +1,108 @@
 {
   "releases": [
     {
+      "id": "ios-2.2.4",
+      "version": "2.2.4",
+      "platforms": [
+        "ios",
+        "ipados"
+      ],
+      "features": {
+        "en": [
+          "Apple Watch: say or type a line to add an event or reminder, check the day and time, tap the tick; your iPhone saves it.",
+          "Four new complications on the watch: Days Counter, the next reminder (tick it off right there), the date and the day's progress.",
+          "Up Next as a Live Activity in the watch's Smart Stack.",
+          "The watch app is simpler: each row shows only the title and time."
+        ],
+        "de": [
+          "Apple Watch: Sprich oder tippe eine Zeile, um einen Termin oder eine Erinnerung anzulegen, prüfe Tag und Uhrzeit, tippe auf das Häkchen; dein iPhone speichert ihn.",
+          "Vier neue Komplikationen auf der Watch: Tageszähler, die nächste Erinnerung (direkt abhakbar), das Datum und der Fortschritt des Tages.",
+          "Als Nächstes als Live-Aktivität im Smart Stack der Watch.",
+          "Die Watch-App ist schlichter: Jede Zeile zeigt nur Titel und Uhrzeit."
+        ],
+        "es": [
+          "Apple Watch: di o escribe una línea para añadir un evento o recordatorio, comprueba el día y la hora y toca la marca; tu iPhone lo guarda.",
+          "Cuatro complicaciones nuevas en el reloj: Contador de días, el próximo recordatorio (márcalo ahí mismo), la fecha y el progreso del día.",
+          "A continuación como Actividad en vivo en el Smart Stack del reloj.",
+          "La app del reloj es más sencilla: cada fila muestra solo el título y la hora."
+        ],
+        "fr": [
+          "Apple Watch : dites ou tapez une ligne pour ajouter un événement ou un rappel, vérifiez le jour et l’heure, touchez la coche ; votre iPhone l’enregistre.",
+          "Quatre nouvelles complications sur la montre : Compteur de jours, le prochain rappel (à cocher sur place), la date et l’avancement de la journée.",
+          "À suivre en Activité en direct dans le Smart Stack de la montre.",
+          "L’app de la montre est plus simple : chaque ligne n’affiche que le titre et l’heure."
+        ],
+        "it": [
+          "Apple Watch: di’ o scrivi una riga per aggiungere un evento o un promemoria, controlla giorno e ora e tocca la spunta; lo salva il tuo iPhone.",
+          "Quattro nuove complicazioni sull’orologio: Contagiorni, il prossimo promemoria (da spuntare lì stesso), la data e l’avanzamento della giornata.",
+          "In arrivo come Attività in tempo reale nello Smart Stack dell’orologio.",
+          "L’app dell’orologio è più semplice: ogni riga mostra solo titolo e ora."
+        ],
+        "ja": [
+          "Apple Watch：1行話すか入力してイベントやリマインダーを追加し、日時を確認してチェックをタップ。iPhoneが保存します。",
+          "Watchに4つの新しいコンプリケーション：日数カウンター、次のリマインダー（その場で完了にできます）、日付、1日の進み具合。",
+          "「次の予定」をWatchのスマートスタックにライブアクティビティとして表示。",
+          "Watchアプリがシンプルに：各行はタイトルと時刻だけを表示します。"
+        ],
+        "ko": [
+          "Apple Watch: 한 줄을 말하거나 입력해 이벤트나 미리 알림을 추가하고, 날짜와 시간을 확인한 뒤 체크를 탭하세요. iPhone이 저장합니다.",
+          "워치에 새 컴플리케이션 4개: 날짜 카운터, 다음 미리 알림(그 자리에서 완료), 날짜, 하루 진행률.",
+          "다음 일정을 워치의 스마트 스택에 실시간 현황으로 표시.",
+          "워치 앱이 더 간단해졌습니다: 각 행에 제목과 시간만 표시됩니다."
+        ],
+        "pt-BR": [
+          "Apple Watch: diga ou digite uma linha para adicionar um evento ou lembrete, confira o dia e a hora e toque no visto; o iPhone salva.",
+          "Quatro novas complicações no relógio: Contador de dias, o próximo lembrete (marque ali mesmo), a data e o andamento do dia.",
+          "A Seguir como Atividade ao Vivo no Smart Stack do relógio.",
+          "O app do relógio ficou mais simples: cada linha mostra só o título e a hora."
+        ],
+        "zh-Hans": [
+          "Apple Watch：说出或输入一句话来添加日程或提醒事项，确认日期和时间后轻点对勾，由 iPhone 保存。",
+          "手表新增四个复杂功能：天数计数、下一个提醒事项（可直接勾选完成）、日期和当天进度。",
+          "“接下来”以实时活动显示在手表的智能叠放中。",
+          "手表 App 更简洁：每行只显示标题和时间。"
+        ],
+        "zh-Hant": [
+          "Apple Watch：說出或輸入一句話來新增行程或提醒事項，確認日期和時間後點一下勾號，由 iPhone 儲存。",
+          "手錶新增四個複雜功能：天數計數、下一個提醒事項（可直接勾選完成）、日期和當天進度。",
+          "「接下來」以即時動態顯示在手錶的智慧型疊放中。",
+          "手錶 App 更簡潔：每列只顯示標題和時間。"
+        ]
+      },
+      "fixes": {
+        "en": [
+          "iPhone Duo folded: sheets reach the edge of the screen, the invitations button sits top right, and the view menu answers taps again."
+        ],
+        "de": [
+          "iPhone Duo zugeklappt: Blätter reichen bis zum Bildschirmrand, die Einladungen-Taste sitzt oben rechts und das Ansichtsmenü reagiert wieder auf Tippen."
+        ],
+        "es": [
+          "iPhone Duo plegado: las hojas llegan al borde de la pantalla, el botón de invitaciones está arriba a la derecha y el menú de vistas vuelve a responder."
+        ],
+        "fr": [
+          "iPhone Duo replié : les feuilles vont jusqu’au bord de l’écran, le bouton des invitations est en haut à droite et le menu des vues répond de nouveau."
+        ],
+        "it": [
+          "iPhone Duo chiuso: i fogli arrivano al bordo dello schermo, il pulsante degli inviti è in alto a destra e il menu delle viste risponde di nuovo ai tocchi."
+        ],
+        "ja": [
+          "折りたたんだiPhone Duo：シートが画面の端まで広がり、出席依頼ボタンが右上に表示され、表示メニューが再びタップに反応します。"
+        ],
+        "ko": [
+          "접은 iPhone Duo: 시트가 화면 가장자리까지 닿고, 초대 버튼이 오른쪽 위에 있으며, 보기 메뉴가 다시 탭에 반응합니다."
+        ],
+        "pt-BR": [
+          "iPhone Duo fechado: as folhas vão até a borda da tela, o botão de convites fica no canto superior direito e o menu de visualização volta a responder."
+        ],
+        "zh-Hans": [
+          "折叠的 iPhone Duo：表单延伸到屏幕边缘，邀请按钮位于右上角，视图菜单重新响应轻点。"
+        ],
+        "zh-Hant": [
+          "摺疊的 iPhone Duo：表單延伸到螢幕邊緣，邀請按鈕位於右上角，檢視選單重新回應點按。"
+        ]
+      }
+    },
+    {
       "id": "ios-2.2.3",
       "version": "2.2.3",
       "platforms": [
