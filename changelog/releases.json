@@ -9,60 +9,90 @@
       ],
       "features": {
         "en": [
+          "Photos on events and reminders: add one on the card or in the editor. It syncs through iCloud to your other devices and shows behind the Days Counter widget.",
+          "Templates have their own page in Settings, where you add, edit and delete them.",
+          "Settings are tidier: Looking Back (Week in Review, Reminder Summary) comes first, then Manage, with much less text.",
           "Apple Watch: say or type a line to add an event or reminder, check the day and time, tap the tick; your iPhone saves it.",
           "Four new complications on the watch: Days Counter, the next reminder (tick it off right there), the date and the day's progress.",
           "Up Next as a Live Activity in the watch's Smart Stack.",
           "The watch app is simpler: each row shows only the title and time."
         ],
         "de": [
+          "Fotos für Termine und Erinnerungen: Füge eines auf der Karte oder im Editor hinzu. Es wird über iCloud mit deinen anderen Geräten synchronisiert und erscheint im Hintergrund des Tageszähler-Widgets.",
+          "Vorlagen haben eine eigene Seite in den Einstellungen, auf der du sie anlegst, bearbeitest und löschst.",
+          "Aufgeräumtere Einstellungen: Zuerst kommt Rückblick (Wochenrückblick, Erinnerungs-Überblick), dann Verwalten, mit deutlich weniger Text.",
           "Apple Watch: Sprich oder tippe eine Zeile, um einen Termin oder eine Erinnerung anzulegen, prüfe Tag und Uhrzeit, tippe auf das Häkchen; dein iPhone speichert ihn.",
           "Vier neue Komplikationen auf der Watch: Tageszähler, die nächste Erinnerung (direkt abhakbar), das Datum und der Fortschritt des Tages.",
           "Als Nächstes als Live-Aktivität im Smart Stack der Watch.",
           "Die Watch-App ist schlichter: Jede Zeile zeigt nur Titel und Uhrzeit."
         ],
         "es": [
+          "Fotos en eventos y recordatorios: añade una en la tarjeta o en el editor. Se sincroniza con tus otros dispositivos a través de iCloud y aparece de fondo en el widget Contador de días.",
+          "Las plantillas tienen su propia página en Ajustes, donde puedes añadirlas, editarlas y eliminarlas.",
+          "Ajustes más ordenados: primero En retrospectiva (Resumen semanal, Resumen de recordatorios), luego Gestionar, con mucho menos texto.",
           "Apple Watch: di o escribe una línea para añadir un evento o recordatorio, comprueba el día y la hora y toca la marca; tu iPhone lo guarda.",
           "Cuatro complicaciones nuevas en el reloj: Contador de días, el próximo recordatorio (márcalo ahí mismo), la fecha y el progreso del día.",
           "A continuación como Actividad en vivo en el Smart Stack del reloj.",
           "La app del reloj es más sencilla: cada fila muestra solo el título y la hora."
         ],
         "fr": [
+          "Photos sur les événements et les rappels : ajoutez-en une sur la fiche ou dans l’éditeur. Elle se synchronise avec vos autres appareils via iCloud et s’affiche en fond du widget Compteur de jours.",
+          "Les modèles ont leur propre page dans les Réglages, pour les ajouter, les modifier et les supprimer.",
+          "Des Réglages plus clairs : Rétrospective (Bilan de la semaine, Résumé des rappels) d’abord, puis Gérer, avec beaucoup moins de texte.",
           "Apple Watch : dites ou tapez une ligne pour ajouter un événement ou un rappel, vérifiez le jour et l’heure, touchez la coche ; votre iPhone l’enregistre.",
           "Quatre nouvelles complications sur la montre : Compteur de jours, le prochain rappel (à cocher sur place), la date et l’avancement de la journée.",
           "À suivre en Activité en direct dans le Smart Stack de la montre.",
           "L’app de la montre est plus simple : chaque ligne n’affiche que le titre et l’heure."
         ],
         "it": [
+          "Foto su eventi e promemoria: aggiungine una sulla scheda o nell’editor. Si sincronizza con gli altri dispositivi tramite iCloud e appare come sfondo del widget Contagiorni.",
+          "I modelli hanno una pagina propria nelle Impostazioni, dove aggiungerli, modificarli ed eliminarli.",
+          "Impostazioni più ordinate: prima Uno sguardo indietro (Riepilogo settimanale, Riepilogo promemoria), poi Gestisci, con molto meno testo.",
           "Apple Watch: di’ o scrivi una riga per aggiungere un evento o un promemoria, controlla giorno e ora e tocca la spunta; lo salva il tuo iPhone.",
           "Quattro nuove complicazioni sull’orologio: Contagiorni, il prossimo promemoria (da spuntare lì stesso), la data e l’avanzamento della giornata.",
           "In arrivo come Attività in tempo reale nello Smart Stack dell’orologio.",
           "L’app dell’orologio è più semplice: ogni riga mostra solo titolo e ora."
         ],
         "ja": [
+          "イベントとリマインダーに写真：カードまたはエディタで追加できます。iCloudでほかのデバイスと同期され、日数カウンターウィジェットの背景に表示されます。",
+          "テンプレートに設定の専用ページができ、追加・編集・削除ができます。",
+          "設定がすっきり：最初に「ふりかえり」（週のふりかえり、リマインダーのまとめ）、次に「管理」。説明文も大幅に減りました。",
           "Apple Watch：1行話すか入力してイベントやリマインダーを追加し、日時を確認してチェックをタップ。iPhoneが保存します。",
           "Watchに4つの新しいコンプリケーション：日数カウンター、次のリマインダー（その場で完了にできます）、日付、1日の進み具合。",
           "「次の予定」をWatchのスマートスタックにライブアクティビティとして表示。",
           "Watchアプリがシンプルに：各行はタイトルと時刻だけを表示します。"
         ],
         "ko": [
+          "이벤트와 미리 알림에 사진: 카드나 편집기에서 추가하세요. iCloud로 다른 기기와 동기화되고 날짜 카운터 위젯의 배경에 표시됩니다.",
+          "템플릿이 설정에 전용 페이지를 갖게 되어 추가, 편집, 삭제할 수 있습니다.",
+          "설정이 깔끔해졌습니다: 먼저 돌아보기(주간 리뷰, 미리 알림 요약), 다음에 관리가 오며 설명이 훨씬 줄었습니다.",
           "Apple Watch: 한 줄을 말하거나 입력해 이벤트나 미리 알림을 추가하고, 날짜와 시간을 확인한 뒤 체크를 탭하세요. iPhone이 저장합니다.",
           "워치에 새 컴플리케이션 4개: 날짜 카운터, 다음 미리 알림(그 자리에서 완료), 날짜, 하루 진행률.",
           "다음 일정을 워치의 스마트 스택에 실시간 현황으로 표시.",
           "워치 앱이 더 간단해졌습니다: 각 행에 제목과 시간만 표시됩니다."
         ],
         "pt-BR": [
+          "Fotos em eventos e lembretes: adicione uma no cartão ou no editor. Ela sincroniza com seus outros dispositivos pelo iCloud e aparece no fundo do widget Contador de dias.",
+          "Os modelos têm uma página própria nos Ajustes, para adicionar, editar e apagar.",
+          "Ajustes mais organizados: primeiro Retrospectiva (Resumo da semana, Resumo dos lembretes), depois Gerenciar, com muito menos texto.",
           "Apple Watch: diga ou digite uma linha para adicionar um evento ou lembrete, confira o dia e a hora e toque no visto; o iPhone salva.",
           "Quatro novas complicações no relógio: Contador de dias, o próximo lembrete (marque ali mesmo), a data e o andamento do dia.",
           "A Seguir como Atividade ao Vivo no Smart Stack do relógio.",
           "O app do relógio ficou mais simples: cada linha mostra só o título e a hora."
         ],
         "zh-Hans": [
+          "为日程和提醒事项添加照片：在卡片或编辑器中添加，通过 iCloud 同步到你的其他设备，并显示在天数计数小组件的背景中。",
+          "模板在设置中有了独立页面，可以添加、编辑和删除。",
+          "设置更清爽：先是“回顾”（本周回顾、提醒事项摘要），然后是“管理”，说明文字大幅减少。",
           "Apple Watch：说出或输入一句话来添加日程或提醒事项，确认日期和时间后轻点对勾，由 iPhone 保存。",
           "手表新增四个复杂功能：天数计数、下一个提醒事项（可直接勾选完成）、日期和当天进度。",
           "“接下来”以实时活动显示在手表的智能叠放中。",
           "手表 App 更简洁：每行只显示标题和时间。"
         ],
         "zh-Hant": [
+          "為行程和提醒事項加入照片：在卡片或編輯器中加入，透過 iCloud 同步到你的其他裝置，並顯示在天數計數小工具的背景中。",
+          "範本在設定中有了獨立頁面，可以新增、編輯和刪除。",
+          "設定更清爽：先是「回顧」（本週回顧、提醒事項摘要），然後是「管理」，說明文字大幅減少。",
           "Apple Watch：說出或輸入一句話來新增行程或提醒事項，確認日期和時間後點一下勾號，由 iPhone 儲存。",
           "手錶新增四個複雜功能：天數計數、下一個提醒事項（可直接勾選完成）、日期和當天進度。",
           "「接下來」以即時動態顯示在手錶的智慧型疊放中。",
@@ -71,34 +101,165 @@
       },
       "fixes": {
         "en": [
+          "Day view: jumping several days no longer makes the timeline shake.",
+          "Week in Review: calendar names no longer hide under their bars, and the whole Reminder Summary row responds to a tap.",
+          "iPhone Duo unfolded upright: the next-event and search bar sits evenly between the buttons.",
           "iPhone Duo folded: sheets reach the edge of the screen, the invitations button sits top right, and the view menu answers taps again."
         ],
         "de": [
+          "Tagesansicht: Ein Sprung über mehrere Tage lässt die Zeitleiste nicht mehr ruckeln.",
+          "Wochenrückblick: Kalendernamen verschwinden nicht mehr unter ihren Balken, und die ganze Zeile Erinnerungs-Überblick reagiert auf Tippen.",
+          "iPhone Duo aufgeklappt im Hochformat: Die Leiste mit nächstem Termin und Suche sitzt gleichmäßig zwischen den Tasten.",
           "iPhone Duo zugeklappt: Blätter reichen bis zum Bildschirmrand, die Einladungen-Taste sitzt oben rechts und das Ansichtsmenü reagiert wieder auf Tippen."
         ],
         "es": [
+          "Vista de día: saltar varios días ya no hace temblar la línea de tiempo.",
+          "Resumen semanal: los nombres de los calendarios ya no quedan bajo sus barras y toda la fila Resumen de recordatorios responde al toque.",
+          "iPhone Duo desplegado en vertical: la barra del próximo evento y la búsqueda queda centrada entre los botones.",
           "iPhone Duo plegado: las hojas llegan al borde de la pantalla, el botón de invitaciones está arriba a la derecha y el menú de vistas vuelve a responder."
         ],
         "fr": [
+          "Vue Jour : sauter plusieurs jours ne fait plus trembler la chronologie.",
+          "Bilan de la semaine : les noms des calendriers ne passent plus sous leurs barres, et toute la ligne Résumé des rappels répond au toucher.",
+          "iPhone Duo déplié à la verticale : la barre du prochain événement et de recherche est bien centrée entre les boutons.",
           "iPhone Duo replié : les feuilles vont jusqu’au bord de l’écran, le bouton des invitations est en haut à droite et le menu des vues répond de nouveau."
         ],
         "it": [
+          "Vista Giorno: saltare di più giorni non fa più tremare la timeline.",
+          "Riepilogo settimanale: i nomi dei calendari non finiscono più sotto le barre e l’intera riga Riepilogo promemoria risponde al tocco.",
+          "iPhone Duo aperto in verticale: la barra del prossimo evento e della ricerca è centrata tra i pulsanti.",
           "iPhone Duo chiuso: i fogli arrivano al bordo dello schermo, il pulsante degli inviti è in alto a destra e il menu delle viste risponde di nuovo ai tocchi."
         ],
         "ja": [
+          "日表示：数日先へ移動してもタイムラインが揺れなくなりました。",
+          "週のふりかえり：カレンダー名がバーの下に隠れなくなり、「リマインダーのまとめ」の行全体がタップに反応します。",
+          "縦向きに開いたiPhone Duo：次の予定と検索のバーがボタンの間に均等に配置されます。",
           "折りたたんだiPhone Duo：シートが画面の端まで広がり、出席依頼ボタンが右上に表示され、表示メニューが再びタップに反応します。"
         ],
         "ko": [
+          "일 보기: 여러 날을 건너뛰어도 타임라인이 흔들리지 않습니다.",
+          "주간 리뷰: 캘린더 이름이 막대 아래로 가려지지 않고, 미리 알림 요약 행 전체가 탭에 반응합니다.",
+          "세로로 펼친 iPhone Duo: 다음 일정과 검색 막대가 버튼 사이에 고르게 놓입니다.",
           "접은 iPhone Duo: 시트가 화면 가장자리까지 닿고, 초대 버튼이 오른쪽 위에 있으며, 보기 메뉴가 다시 탭에 반응합니다."
         ],
         "pt-BR": [
+          "Visualização de dia: pular vários dias não faz mais a linha do tempo tremer.",
+          "Resumo da semana: os nomes dos calendários não ficam mais sob as barras, e toda a linha Resumo dos lembretes responde ao toque.",
+          "iPhone Duo aberto na vertical: a barra do próximo evento e da busca fica centralizada entre os botões.",
           "iPhone Duo fechado: as folhas vão até a borda da tela, o botão de convites fica no canto superior direito e o menu de visualização volta a responder."
         ],
         "zh-Hans": [
+          "日视图：跳转多天时时间线不再抖动。",
+          "本周回顾：日历名称不再被条形遮住，“提醒事项摘要”整行都可轻点。",
+          "竖向展开的 iPhone Duo：下一个日程和搜索栏均匀地位于按钮之间。",
           "折叠的 iPhone Duo：表单延伸到屏幕边缘，邀请按钮位于右上角，视图菜单重新响应轻点。"
         ],
         "zh-Hant": [
+          "日檢視：跳轉多天時時間軸不再抖動。",
+          "本週回顧：行事曆名稱不再被長條遮住，「提醒事項摘要」整列都可點按。",
+          "直向展開的 iPhone Duo：下一個行程和搜尋列平均地位於按鈕之間。",
           "摺疊的 iPhone Duo：表單延伸到螢幕邊緣，邀請按鈕位於右上角，檢視選單重新回應點按。"
+        ]
+      }
+    },
+    {
+      "id": "mac-2.2.4",
+      "version": "2.2.4",
+      "platforms": [
+        "mac"
+      ],
+      "features": {
+        "en": [
+          "Photos on events and reminders: add one on the card or in the editor. It syncs through iCloud to your other devices and shows behind the Days Counter widget.",
+          "Templates have their own page in Settings, where you add, edit and delete them.",
+          "Settings are tidier: Looking Back (Week in Review, Reminder Summary) comes first, then Manage, with much less text."
+        ],
+        "de": [
+          "Fotos für Termine und Erinnerungen: Füge eines auf der Karte oder im Editor hinzu. Es wird über iCloud mit deinen anderen Geräten synchronisiert und erscheint im Hintergrund des Tageszähler-Widgets.",
+          "Vorlagen haben eine eigene Seite in den Einstellungen, auf der du sie anlegst, bearbeitest und löschst.",
+          "Aufgeräumtere Einstellungen: Zuerst kommt Rückblick (Wochenrückblick, Erinnerungs-Überblick), dann Verwalten, mit deutlich weniger Text."
+        ],
+        "es": [
+          "Fotos en eventos y recordatorios: añade una en la tarjeta o en el editor. Se sincroniza con tus otros dispositivos a través de iCloud y aparece de fondo en el widget Contador de días.",
+          "Las plantillas tienen su propia página en Ajustes, donde puedes añadirlas, editarlas y eliminarlas.",
+          "Ajustes más ordenados: primero En retrospectiva (Resumen semanal, Resumen de recordatorios), luego Gestionar, con mucho menos texto."
+        ],
+        "fr": [
+          "Photos sur les événements et les rappels : ajoutez-en une sur la fiche ou dans l’éditeur. Elle se synchronise avec vos autres appareils via iCloud et s’affiche en fond du widget Compteur de jours.",
+          "Les modèles ont leur propre page dans les Réglages, pour les ajouter, les modifier et les supprimer.",
+          "Des Réglages plus clairs : Rétrospective (Bilan de la semaine, Résumé des rappels) d’abord, puis Gérer, avec beaucoup moins de texte."
+        ],
+        "it": [
+          "Foto su eventi e promemoria: aggiungine una sulla scheda o nell’editor. Si sincronizza con gli altri dispositivi tramite iCloud e appare come sfondo del widget Contagiorni.",
+          "I modelli hanno una pagina propria nelle Impostazioni, dove aggiungerli, modificarli ed eliminarli.",
+          "Impostazioni più ordinate: prima Uno sguardo indietro (Riepilogo settimanale, Riepilogo promemoria), poi Gestisci, con molto meno testo."
+        ],
+        "ja": [
+          "イベントとリマインダーに写真：カードまたはエディタで追加できます。iCloudでほかのデバイスと同期され、日数カウンターウィジェットの背景に表示されます。",
+          "テンプレートに設定の専用ページができ、追加・編集・削除ができます。",
+          "設定がすっきり：最初に「ふりかえり」（週のふりかえり、リマインダーのまとめ）、次に「管理」。説明文も大幅に減りました。"
+        ],
+        "ko": [
+          "이벤트와 미리 알림에 사진: 카드나 편집기에서 추가하세요. iCloud로 다른 기기와 동기화되고 날짜 카운터 위젯의 배경에 표시됩니다.",
+          "템플릿이 설정에 전용 페이지를 갖게 되어 추가, 편집, 삭제할 수 있습니다.",
+          "설정이 깔끔해졌습니다: 먼저 돌아보기(주간 리뷰, 미리 알림 요약), 다음에 관리가 오며 설명이 훨씬 줄었습니다."
+        ],
+        "pt-BR": [
+          "Fotos em eventos e lembretes: adicione uma no cartão ou no editor. Ela sincroniza com seus outros dispositivos pelo iCloud e aparece no fundo do widget Contador de dias.",
+          "Os modelos têm uma página própria nos Ajustes, para adicionar, editar e apagar.",
+          "Ajustes mais organizados: primeiro Retrospectiva (Resumo da semana, Resumo dos lembretes), depois Gerenciar, com muito menos texto."
+        ],
+        "zh-Hans": [
+          "为日程和提醒事项添加照片：在卡片或编辑器中添加，通过 iCloud 同步到你的其他设备，并显示在天数计数小组件的背景中。",
+          "模板在设置中有了独立页面，可以添加、编辑和删除。",
+          "设置更清爽：先是“回顾”（本周回顾、提醒事项摘要），然后是“管理”，说明文字大幅减少。"
+        ],
+        "zh-Hant": [
+          "為行程和提醒事項加入照片：在卡片或編輯器中加入，透過 iCloud 同步到你的其他裝置，並顯示在天數計數小工具的背景中。",
+          "範本在設定中有了獨立頁面，可以新增、編輯和刪除。",
+          "設定更清爽：先是「回顧」（本週回顧、提醒事項摘要），然後是「管理」，說明文字大幅減少。"
+        ]
+      },
+      "fixes": {
+        "en": [
+          "Day view: jumping several days no longer makes the timeline shake.",
+          "Week in Review: calendar names no longer hide under their bars, and the whole Reminder Summary row responds to a tap."
+        ],
+        "de": [
+          "Tagesansicht: Ein Sprung über mehrere Tage lässt die Zeitleiste nicht mehr ruckeln.",
+          "Wochenrückblick: Kalendernamen verschwinden nicht mehr unter ihren Balken, und die ganze Zeile Erinnerungs-Überblick reagiert auf Tippen."
+        ],
+        "es": [
+          "Vista de día: saltar varios días ya no hace temblar la línea de tiempo.",
+          "Resumen semanal: los nombres de los calendarios ya no quedan bajo sus barras y toda la fila Resumen de recordatorios responde al toque."
+        ],
+        "fr": [
+          "Vue Jour : sauter plusieurs jours ne fait plus trembler la chronologie.",
+          "Bilan de la semaine : les noms des calendriers ne passent plus sous leurs barres, et toute la ligne Résumé des rappels répond au toucher."
+        ],
+        "it": [
+          "Vista Giorno: saltare di più giorni non fa più tremare la timeline.",
+          "Riepilogo settimanale: i nomi dei calendari non finiscono più sotto le barre e l’intera riga Riepilogo promemoria risponde al tocco."
+        ],
+        "ja": [
+          "日表示：数日先へ移動してもタイムラインが揺れなくなりました。",
+          "週のふりかえり：カレンダー名がバーの下に隠れなくなり、「リマインダーのまとめ」の行全体がタップに反応します。"
+        ],
+        "ko": [
+          "일 보기: 여러 날을 건너뛰어도 타임라인이 흔들리지 않습니다.",
+          "주간 리뷰: 캘린더 이름이 막대 아래로 가려지지 않고, 미리 알림 요약 행 전체가 탭에 반응합니다."
+        ],
+        "pt-BR": [
+          "Visualização de dia: pular vários dias não faz mais a linha do tempo tremer.",
+          "Resumo da semana: os nomes dos calendários não ficam mais sob as barras, e toda a linha Resumo dos lembretes responde ao toque."
+        ],
+        "zh-Hans": [
+          "日视图：跳转多天时时间线不再抖动。",
+          "本周回顾：日历名称不再被条形遮住，“提醒事项摘要”整行都可轻点。"
+        ],
+        "zh-Hant": [
+          "日檢視：跳轉多天時時間軸不再抖動。",
+          "本週回顧：行事曆名稱不再被長條遮住，「提醒事項摘要」整列都可點按。"
         ]
       }
     },
