@@ -1,6 +1,209 @@
 {
   "releases": [
     {
+      "id": "ios-2.2.5",
+      "version": "2.2.5",
+      "platforms": [
+        "ios",
+        "ipados"
+      ],
+      "features": {
+        "en": [
+          "Photos reach your other devices within seconds, through iCloud itself: iCloud Drive no longer has to be on.",
+          "The Up Next list shows the current time as a line between today's events."
+        ],
+        "de": [
+          "Fotos kommen in Sekunden auf deinen anderen Geräten an, direkt über iCloud: iCloud Drive muss nicht mehr eingeschaltet sein.",
+          "Die Liste „Als Nächstes“ zeigt die aktuelle Uhrzeit als Linie zwischen den heutigen Terminen."
+        ],
+        "es": [
+          "Las fotos llegan a tus otros dispositivos en segundos, a través de iCloud: ya no hace falta tener iCloud Drive activado.",
+          "La lista A continuación muestra la hora actual como una línea entre los eventos de hoy."
+        ],
+        "fr": [
+          "Les photos arrivent sur vos autres appareils en quelques secondes, directement via iCloud : iCloud Drive n'a plus besoin d'être activé.",
+          "La liste À suivre affiche l'heure actuelle par une ligne entre les événements du jour."
+        ],
+        "it": [
+          "Le foto arrivano sugli altri dispositivi in pochi secondi, direttamente tramite iCloud: iCloud Drive non deve più essere attivo.",
+          "L'elenco In arrivo mostra l'ora attuale come una linea tra gli eventi di oggi."
+        ],
+        "ja": [
+          "写真が数秒でほかのデバイスに届くようになりました。iCloud を直接使うので、iCloud Drive をオンにする必要はありません。",
+          "「次の予定」リストで、今日の予定の間に現在時刻の線が表示されます。"
+        ],
+        "ko": [
+          "사진이 몇 초 만에 다른 기기에 도착합니다. iCloud를 직접 사용하므로 iCloud Drive를 켜지 않아도 됩니다.",
+          "다음 일정 목록에서 오늘 일정 사이에 현재 시각이 선으로 표시됩니다."
+        ],
+        "pt-BR": [
+          "As fotos chegam aos seus outros dispositivos em segundos, direto pelo iCloud: o iCloud Drive não precisa mais estar ativado.",
+          "A lista A seguir mostra a hora atual como uma linha entre os eventos de hoje."
+        ],
+        "zh-Hans": [
+          "照片几秒内就会同步到你的其他设备，直接通过 iCloud，不再需要打开 iCloud 云盘。",
+          "“即将开始”列表会在今天的日程之间用一条线标出当前时间。"
+        ],
+        "zh-Hant": [
+          "照片幾秒內就會同步到你的其他裝置，直接透過 iCloud，不再需要開啟 iCloud 雲碟。",
+          "「即將開始」列表會在今天的行程之間用一條線標出目前時間。"
+        ]
+      },
+      "fixes": {
+        "en": [
+          "Alerts: when Day updates its alerts, the ones it keeps are replaced in place, so none go missing if Day is closed halfway."
+        ],
+        "de": [
+          "Hinweise: Beim Aktualisieren ersetzt Day seine Hinweise an Ort und Stelle, sodass keiner verloren geht, wenn Day mittendrin beendet wird."
+        ],
+        "es": [
+          "Alertas: al actualizar sus alertas, Day las sustituye en su sitio, así que no se pierde ninguna si Day se cierra a medias."
+        ],
+        "fr": [
+          "Alertes : quand Day met à jour ses alertes, il les remplace sur place, si bien qu'aucune ne se perd si Day est fermé en cours de route."
+        ],
+        "it": [
+          "Avvisi: quando Day aggiorna i suoi avvisi li sostituisce sul posto, così nessuno va perso se Day viene chiuso a metà."
+        ],
+        "ja": [
+          "通知：Day が通知を更新するときはその場で置き換えるため、途中で Day が終了しても通知が失われません。"
+        ],
+        "ko": [
+          "알림: Day가 알림을 업데이트할 때 제자리에서 바꾸므로, 도중에 Day가 종료되어도 알림이 사라지지 않습니다."
+        ],
+        "pt-BR": [
+          "Alertas: ao atualizar seus alertas, o Day os substitui no lugar, então nenhum se perde se o Day for fechado no meio."
+        ],
+        "zh-Hans": [
+          "提醒：Day 更新提醒时会原地替换，即使 Day 中途被关闭也不会丢失提醒。"
+        ],
+        "zh-Hant": [
+          "提醒：Day 更新提醒時會原地替換，即使 Day 中途被關閉也不會遺失提醒。"
+        ]
+      }
+    },
+    {
+      "id": "mac-2.2.5",
+      "version": "2.2.5",
+      "platforms": [
+        "mac"
+      ],
+      "features": {
+        "en": [
+          "Photos reach your other devices within seconds, through iCloud itself: iCloud Drive no longer has to be on.",
+          "The Up Next list shows the current time as a line between today's events.",
+          "Menu bar: the next event or reminder shows as a card with its time, place and calendar, and a Join or Directions button."
+        ],
+        "de": [
+          "Fotos kommen in Sekunden auf deinen anderen Geräten an, direkt über iCloud: iCloud Drive muss nicht mehr eingeschaltet sein.",
+          "Die Liste „Als Nächstes“ zeigt die aktuelle Uhrzeit als Linie zwischen den heutigen Terminen.",
+          "Menüleiste: Der nächste Termin oder die nächste Erinnerung erscheint als Karte mit Uhrzeit, Ort und Kalender und einem Button „Beitreten“ oder „Route“."
+        ],
+        "es": [
+          "Las fotos llegan a tus otros dispositivos en segundos, a través de iCloud: ya no hace falta tener iCloud Drive activado.",
+          "La lista A continuación muestra la hora actual como una línea entre los eventos de hoy.",
+          "Barra de menús: el próximo evento o recordatorio aparece como una tarjeta con su hora, lugar y calendario, y un botón Unirse o Indicaciones."
+        ],
+        "fr": [
+          "Les photos arrivent sur vos autres appareils en quelques secondes, directement via iCloud : iCloud Drive n'a plus besoin d'être activé.",
+          "La liste À suivre affiche l'heure actuelle par une ligne entre les événements du jour.",
+          "Barre des menus : le prochain événement ou rappel apparaît sous forme de carte avec son heure, son lieu et son calendrier, et un bouton Rejoindre ou Itinéraire."
+        ],
+        "it": [
+          "Le foto arrivano sugli altri dispositivi in pochi secondi, direttamente tramite iCloud: iCloud Drive non deve più essere attivo.",
+          "L'elenco In arrivo mostra l'ora attuale come una linea tra gli eventi di oggi.",
+          "Barra dei menu: il prossimo evento o promemoria appare come una scheda con orario, luogo e calendario, e un pulsante Partecipa o Indicazioni."
+        ],
+        "ja": [
+          "写真が数秒でほかのデバイスに届くようになりました。iCloud を直接使うので、iCloud Drive をオンにする必要はありません。",
+          "「次の予定」リストで、今日の予定の間に現在時刻の線が表示されます。",
+          "メニューバー：次の予定やリマインダーが、時刻・場所・カレンダーと「参加」または「経路」ボタン付きのカードで表示されます。"
+        ],
+        "ko": [
+          "사진이 몇 초 만에 다른 기기에 도착합니다. iCloud를 직접 사용하므로 iCloud Drive를 켜지 않아도 됩니다.",
+          "다음 일정 목록에서 오늘 일정 사이에 현재 시각이 선으로 표시됩니다.",
+          "메뉴 막대: 다음 일정이나 미리 알림이 시간, 장소, 캘린더와 참여 또는 경로 버튼이 있는 카드로 표시됩니다."
+        ],
+        "pt-BR": [
+          "As fotos chegam aos seus outros dispositivos em segundos, direto pelo iCloud: o iCloud Drive não precisa mais estar ativado.",
+          "A lista A seguir mostra a hora atual como uma linha entre os eventos de hoje.",
+          "Barra de menus: o próximo evento ou lembrete aparece como um cartão com horário, local e calendário, e um botão Entrar ou Itinerário."
+        ],
+        "zh-Hans": [
+          "照片几秒内就会同步到你的其他设备，直接通过 iCloud，不再需要打开 iCloud 云盘。",
+          "“即将开始”列表会在今天的日程之间用一条线标出当前时间。",
+          "菜单栏：下一个日程或提醒事项以卡片显示，包含时间、地点和日历，以及“加入”或“路线”按钮。"
+        ],
+        "zh-Hant": [
+          "照片幾秒內就會同步到你的其他裝置，直接透過 iCloud，不再需要開啟 iCloud 雲碟。",
+          "「即將開始」列表會在今天的行程之間用一條線標出目前時間。",
+          "選單列：下一個行程或提醒事項以卡片顯示，包含時間、地點和行事曆，以及「加入」或「路線」按鈕。"
+        ]
+      },
+      "fixes": {
+        "en": [
+          "Menu bar: an event that has begun reads “until …” again instead of “in 1 min”.",
+          "Menu bar: the item opens its menu over apps in full screen too.",
+          "Alerts: when Day updates its alerts, the ones it keeps are replaced in place, so none go missing if Day is closed halfway.",
+          "Run in Background for Notifications: Day starts again by itself if it quits unexpectedly, so alerts keep coming."
+        ],
+        "de": [
+          "Menüleiste: Ein laufender Termin zeigt wieder „bis …“ statt „in 1 Min.“.",
+          "Menüleiste: Das Symbol öffnet sein Menü auch über Apps im Vollbild.",
+          "Hinweise: Beim Aktualisieren ersetzt Day seine Hinweise an Ort und Stelle, sodass keiner verloren geht, wenn Day mittendrin beendet wird.",
+          "Im Hintergrund für Mitteilungen ausführen: Day startet von selbst neu, wenn es unerwartet beendet wird, damit Hinweise weiter kommen."
+        ],
+        "es": [
+          "Barra de menús: un evento que ya ha empezado vuelve a mostrar «hasta…» en lugar de «en 1 min».",
+          "Barra de menús: el icono abre su menú también sobre apps a pantalla completa.",
+          "Alertas: al actualizar sus alertas, Day las sustituye en su sitio, así que no se pierde ninguna si Day se cierra a medias.",
+          "Ejecutar en segundo plano para notificaciones: Day vuelve a abrirse solo si se cierra inesperadamente, para que las alertas sigan llegando."
+        ],
+        "fr": [
+          "Barre des menus : un événement en cours affiche de nouveau « jusqu'à… » au lieu de « dans 1 min ».",
+          "Barre des menus : l'icône ouvre son menu aussi au-dessus des apps en plein écran.",
+          "Alertes : quand Day met à jour ses alertes, il les remplace sur place, si bien qu'aucune ne se perd si Day est fermé en cours de route.",
+          "Exécuter en arrière-plan pour les notifications : Day redémarre tout seul s'il se ferme de façon inattendue, pour que les alertes continuent d'arriver."
+        ],
+        "it": [
+          "Barra dei menu: un evento già iniziato mostra di nuovo «fino alle…» invece di «tra 1 min».",
+          "Barra dei menu: l'icona apre il suo menu anche sopra le app a schermo intero.",
+          "Avvisi: quando Day aggiorna i suoi avvisi li sostituisce sul posto, così nessuno va perso se Day viene chiuso a metà.",
+          "Esegui in background per le notifiche: Day si riavvia da solo se si chiude inaspettatamente, così gli avvisi continuano ad arrivare."
+        ],
+        "ja": [
+          "メニューバー：始まっている予定が「1分後」ではなく、再び「…まで」と表示されます。",
+          "メニューバー：フルスクリーンのアプリの上でも、アイコンからメニューが開きます。",
+          "通知：Day が通知を更新するときはその場で置き換えるため、途中で Day が終了しても通知が失われません。",
+          "通知のためにバックグラウンドで実行：Day が予期せず終了しても自動で再起動し、通知が届き続けます。"
+        ],
+        "ko": [
+          "메뉴 막대: 진행 중인 일정이 ‘1분 후’ 대신 다시 ‘…까지’로 표시됩니다.",
+          "메뉴 막대: 전체 화면 앱 위에서도 아이콘을 누르면 메뉴가 열립니다.",
+          "알림: Day가 알림을 업데이트할 때 제자리에서 바꾸므로, 도중에 Day가 종료되어도 알림이 사라지지 않습니다.",
+          "알림을 위해 백그라운드에서 실행: Day가 예기치 않게 종료되면 스스로 다시 시작해 알림이 계속 도착합니다."
+        ],
+        "pt-BR": [
+          "Barra de menus: um evento em andamento volta a mostrar “até…” em vez de “em 1 min”.",
+          "Barra de menus: o ícone abre o menu também sobre apps em tela cheia.",
+          "Alertas: ao atualizar seus alertas, o Day os substitui no lugar, então nenhum se perde se o Day for fechado no meio.",
+          "Executar em segundo plano para notificações: o Day reabre sozinho se fechar inesperadamente, para que os alertas continuem chegando."
+        ],
+        "zh-Hans": [
+          "菜单栏：正在进行的日程重新显示为“到……”，而不是“1 分钟后”。",
+          "菜单栏：在全屏应用上方，图标也能打开菜单。",
+          "提醒：Day 更新提醒时会原地替换，即使 Day 中途被关闭也不会丢失提醒。",
+          "在后台运行以接收通知：Day 意外退出后会自动重新启动，提醒照常送达。"
+        ],
+        "zh-Hant": [
+          "選單列：進行中的行程重新顯示為「到……」，而不是「1 分鐘後」。",
+          "選單列：在全螢幕 App 上方，圖示也能打開選單。",
+          "提醒：Day 更新提醒時會原地替換，即使 Day 中途被關閉也不會遺失提醒。",
+          "在背景執行以接收通知：Day 意外結束後會自動重新啟動，提醒照常送達。"
+        ]
+      }
+    },
+    {
       "id": "ios-2.2.4",
       "version": "2.2.4",
       "platforms": [
