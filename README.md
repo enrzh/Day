@@ -13,7 +13,7 @@
 
 ## What Day does
 
-Day reads and writes the calendars on your device (iCloud, Google, Exchange and others), so what you change in Day is what every other app shows. There is no Day account and no server of its own, and nothing is tracked.
+Day reads and writes the calendars on your device (iCloud, Google, Exchange and others), so what you change in Day is what every other app shows. There is no Day account, your events never go to a server of Day's, and nothing is tracked.
 
 - **Views:** Day, 3 Days, Week, Month and Year, with a pinch to move between them.
 - **Quick Add:** type or say a sentence such as "Lunch with Anna tomorrow at 1pm", and check what Day understood before it's added. Dates and times are read on the device; Apple Intelligence or an optional on-device model finds more.
