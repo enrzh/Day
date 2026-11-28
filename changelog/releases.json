@@ -1,6 +1,149 @@
 {
   "releases": [
     {
+      "id": "ios-2.2.6",
+      "version": "2.2.6",
+      "platforms": [
+        "ios",
+        "ipados"
+      ],
+      "features": {
+        "en": [
+          "Holiday calendars: add the public holidays of a country or region under Settings › Calendars. They show in the calendar, Up Next and the widgets.",
+          "School holidays too, for many European countries and a few others (data: OpenHolidaysAPI.org).",
+          "Calendar subscriptions: add any webcal or https calendar link under Settings › Calendars. Its events show read-only, also in the widgets.",
+          "Reminders that already have an alert in Apple’s Reminders: Day can notify too. Switch it on for all in Settings, or for one on its card.",
+          "Up Next: overdue reminders come first and say since when."
+        ],
+        "de": [
+          "Feiertagskalender: Füge unter Einstellungen → Kalender die gesetzlichen Feiertage eines Landes oder einer Region hinzu. Sie erscheinen im Kalender, unter „Als Nächstes“ und in den Widgets.",
+          "Auch Schulferien, für viele europäische und einige weitere Länder (Daten: OpenHolidaysAPI.org).",
+          "Kalenderabos: Füge unter Einstellungen → Kalender einen beliebigen webcal- oder https-Kalenderlink hinzu. Die Termine erscheinen schreibgeschützt, auch in den Widgets.",
+          "Erinnerungen mit einem Hinweis in Apples „Erinnerungen“: Day kann auch benachrichtigen. Für alle in den Einstellungen oder für eine auf ihrer Karte einschalten.",
+          "Als Nächstes: Überfällige Erinnerungen stehen oben und zeigen, seit wann."
+        ],
+        "es": [
+          "Calendarios de festivos: añade en Ajustes › Calendarios los festivos de un país o región. Aparecen en el calendario, en A continuación y en los widgets.",
+          "También vacaciones escolares, de muchos países europeos y algunos más (datos: OpenHolidaysAPI.org).",
+          "Suscripciones de calendario: añade en Ajustes › Calendarios cualquier enlace de calendario webcal o https. Sus eventos se muestran solo para leer, también en los widgets.",
+          "Recordatorios que ya tienen un aviso en Recordatorios de Apple: Day también puede notificar. Actívalo para todos en Ajustes o para uno en su tarjeta.",
+          "A continuación: los recordatorios vencidos van primero e indican desde cuándo."
+        ],
+        "fr": [
+          "Calendriers des jours fériés : ajoutez dans Réglages › Calendriers les jours fériés d’un pays ou d’une région. Ils apparaissent dans le calendrier, dans À suivre et dans les widgets.",
+          "Les vacances scolaires aussi, pour de nombreux pays européens et quelques autres (données : OpenHolidaysAPI.org).",
+          "Abonnements de calendrier : ajoutez dans Réglages › Calendriers n’importe quel lien de calendrier webcal ou https. Ses événements s’affichent en lecture seule, aussi dans les widgets.",
+          "Rappels qui ont déjà une alerte dans Rappels d’Apple : Day peut aussi notifier. Activez-le pour tous dans les réglages ou pour un seul sur sa fiche.",
+          "À suivre : les rappels en retard viennent en premier et indiquent depuis quand."
+        ],
+        "it": [
+          "Calendari delle festività: in Impostazioni › Calendari aggiungi le festività di un paese o di una regione. Compaiono nel calendario, in Prossimo e nei widget.",
+          "Anche le vacanze scolastiche, per molti paesi europei e alcuni altri (dati: OpenHolidaysAPI.org).",
+          "Calendari in abbonamento: in Impostazioni › Calendari aggiungi qualsiasi link di calendario webcal o https. Gli eventi compaiono in sola lettura, anche nei widget.",
+          "Promemoria che hanno già un avviso in Promemoria di Apple: anche Day può avvisare. Attivalo per tutti nelle impostazioni o per uno sulla sua scheda.",
+          "Prossimo: i promemoria scaduti vengono per primi e indicano da quando."
+        ],
+        "ja": [
+          "祝日カレンダー：「設定」→「カレンダー」で国や地域の祝日を追加できます。カレンダー、「次の予定」、ウィジェットに表示されます。",
+          "ヨーロッパの多くの国とその他一部の国の学校の休暇にも対応（データ：OpenHolidaysAPI.org）。",
+          "カレンダーの照会：「設定」→「カレンダー」で webcal や https のカレンダーリンクを追加できます。予定は読み取り専用で、ウィジェットにも表示されます。",
+          "Appleのリマインダーに通知がある項目も、Dayから通知できます。設定ですべてに、またはカードで個別にオンにします。",
+          "次の予定：期限切れのリマインダーが先頭に表示され、いつからかがわかります。"
+        ],
+        "ko": [
+          "공휴일 캘린더: 설정 › 캘린더에서 국가나 지역의 공휴일을 추가하세요. 캘린더, 다음 일정, 위젯에 표시됩니다.",
+          "여러 유럽 국가와 일부 다른 국가의 학교 방학도 지원합니다(데이터: OpenHolidaysAPI.org).",
+          "캘린더 구독: 설정 › 캘린더에서 webcal 또는 https 캘린더 링크를 추가하세요. 일정은 읽기 전용으로 위젯에도 표시됩니다.",
+          "Apple 미리 알림에 이미 알림이 있는 항목도 Day에서 알릴 수 있습니다. 설정에서 전체를, 카드에서 개별 항목을 켜세요.",
+          "다음 일정: 기한이 지난 미리 알림이 먼저 표시되고 언제부터인지 알려 줍니다."
+        ],
+        "pt-BR": [
+          "Calendários de feriados: adicione em Ajustes › Calendários os feriados de um país ou região. Eles aparecem no calendário, em A seguir e nos widgets.",
+          "Também férias escolares, de muitos países europeus e alguns outros (dados: OpenHolidaysAPI.org).",
+          "Assinaturas de calendário: adicione em Ajustes › Calendários qualquer link de calendário webcal ou https. Os eventos aparecem somente para leitura, também nos widgets.",
+          "Lembretes que já têm um alerta no Lembretes da Apple: o Day também pode notificar. Ative para todos nos Ajustes ou para um no cartão dele.",
+          "A seguir: os lembretes vencidos vêm primeiro e mostram desde quando."
+        ],
+        "zh-Hans": [
+          "节假日日历：在“设置”›“日历”中添加某个国家或地区的法定节假日，显示在日历、“即将开始”和小组件中。",
+          "还支持许多欧洲国家及其他部分国家的学校假期（数据：OpenHolidaysAPI.org）。",
+          "订阅日历：在“设置”›“日历”中添加任意 webcal 或 https 日历链接。其日程以只读方式显示，小组件中也可见。",
+          "对于在 Apple“提醒事项”中已设置提醒的事项，Day 也可以发送通知：可在设置中全部开启，或在卡片上单独开启。",
+          "即将开始：逾期的提醒事项排在最前面，并显示从何时开始逾期。"
+        ],
+        "zh-Hant": [
+          "節假日行事曆：在「設定」›「行事曆」中加入某個國家或地區的國定假日，顯示於行事曆、「接下來」與小工具。",
+          "也支援許多歐洲國家及部分其他國家的學校假期（資料：OpenHolidaysAPI.org）。",
+          "訂閱行事曆：在「設定」›「行事曆」中加入任何 webcal 或 https 行事曆連結。其行程以唯讀方式顯示，小工具中也看得到。",
+          "在 Apple「提醒事項」中已設定提示的項目，Day 也能通知：可在設定中全部開啟，或在卡片上個別開啟。",
+          "接下來：已逾期的提醒事項排在最前面，並顯示自何時起逾期。"
+        ]
+      },
+      "fixes": {
+        "en": [
+          "The day and week timeline no longer ends halfway up the screen: midnight rests just above the bottom bar.",
+          "Quick Add and dictation read more ways of saying a time, such as “at ten”.",
+          "Day asks your accounts to sync when it starts, so changes made elsewhere show sooner.",
+          "Undo in the bottom bar is now an icon."
+        ],
+        "de": [
+          "Die Zeitleiste in Tag und Woche endet nicht mehr in der Bildschirmmitte: Mitternacht liegt direkt über der unteren Leiste.",
+          "Schnelleingabe und Diktat verstehen mehr Arten, eine Uhrzeit zu sagen, etwa „um zehn“.",
+          "Day fordert beim Start eine Synchronisierung deiner Konten an, damit Änderungen von anderswo früher erscheinen.",
+          "„Widerrufen“ in der unteren Leiste ist jetzt ein Symbol."
+        ],
+        "es": [
+          "La cronología de día y semana ya no termina a media pantalla: la medianoche queda justo encima de la barra inferior.",
+          "Añadido rápido y el dictado entienden más formas de decir una hora.",
+          "Day pide a tus cuentas que se sincronicen al abrirse, para que los cambios hechos en otro sitio aparezcan antes.",
+          "Deshacer en la barra inferior es ahora un icono."
+        ],
+        "fr": [
+          "La chronologie du jour et de la semaine ne s’arrête plus au milieu de l’écran : minuit se place juste au-dessus de la barre du bas.",
+          "L’ajout rapide et la dictée comprennent plus de façons de dire une heure.",
+          "Au démarrage, Day demande à vos comptes de se synchroniser, pour que les changements faits ailleurs apparaissent plus tôt.",
+          "Annuler, dans la barre du bas, est désormais une icône."
+        ],
+        "it": [
+          "La linea del tempo di giorno e settimana non finisce più a metà schermo: la mezzanotte sta appena sopra la barra in basso.",
+          "L’inserimento rapido e la dettatura capiscono più modi di dire un orario.",
+          "All’avvio Day chiede ai tuoi account di sincronizzarsi, così le modifiche fatte altrove compaiono prima.",
+          "Annulla nella barra in basso ora è un’icona."
+        ],
+        "ja": [
+          "日・週のタイムラインが画面の中ほどで終わらないようになりました。午前0時は下部バーのすぐ上に表示されます。",
+          "クイック追加と音声入力で、時刻のさまざまな言い方を認識します。",
+          "起動時にアカウントの同期を要求するので、ほかで行った変更が早く反映されます。",
+          "下部バーの「取り消す」がアイコンになりました。"
+        ],
+        "ko": [
+          "일간·주간 타임라인이 화면 중간에서 끝나지 않고, 자정이 하단 막대 바로 위에 놓입니다.",
+          "빠른 추가와 받아쓰기가 시간을 말하는 더 많은 방식을 이해합니다.",
+          "Day가 시작할 때 계정 동기화를 요청해 다른 곳에서 바꾼 내용이 더 빨리 표시됩니다.",
+          "하단 막대의 실행 취소가 아이콘으로 바뀌었습니다."
+        ],
+        "pt-BR": [
+          "A linha do tempo de dia e semana não termina mais no meio da tela: a meia-noite fica logo acima da barra inferior.",
+          "A adição rápida e o ditado entendem mais formas de dizer um horário.",
+          "Ao abrir, o Day pede que suas contas sincronizem, para que mudanças feitas em outro lugar apareçam antes.",
+          "Desfazer na barra inferior agora é um ícone."
+        ],
+        "zh-Hans": [
+          "日视图和周视图的时间轴不再停在屏幕中间：午夜紧贴底部栏上方。",
+          "快速添加和听写能识别更多时间说法。",
+          "Day 启动时会请求同步你的账户，其他地方的改动能更快显示。",
+          "底部栏的撤销现在是一个图标。"
+        ],
+        "zh-Hant": [
+          "日與週的時間軸不再停在螢幕中間：午夜緊貼底部列上方。",
+          "快速新增與聽寫能理解更多時間說法。",
+          "Day 啟動時會要求同步你的帳號，其他地方的變更能更快顯示。",
+          "底部列的還原現在是一個圖像。"
+        ]
+      },
+      "released": "2026-11-28"
+    },
+    {
       "id": "ios-2.2.5",
       "version": "2.2.5",
       "platforms": [
